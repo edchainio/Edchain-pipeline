@@ -104,13 +104,7 @@ class Pennstate:
 				for name in course_doc:	
 					wr.write(name)
 				
-		 # for _ in global_var:
-		 # wr.write(self.get_course_name())
-	
-
-# def main():
-# 	director = Pennstate(FixtureBuilder(), ConfigBuilder())
-# 	director.construct()
+		
 
 if __name__ == '__main__':
 	#Pennstate().get_course_page_urls(soup)
