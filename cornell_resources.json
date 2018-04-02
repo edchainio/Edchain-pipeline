@@ -1,0 +1,74 @@
+{
+    "attribution": [
+        {"course_Description": " Explore the privacy issues of an interconnected world. ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/Cell%20Towers_1.jpg?itok=1BCZPKeX", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/wiretaps-big-data-privacy-and-surveillance-age-interconnection-mooc", 
+         "content_title": " Wiretaps to Big Data: Privacy and Surveillance in the Age of Interconnection MOOC ", 
+         "course_Organization": " College of Engineering "
+        },
+        {"course_Description": " Bovine Necropsy Examination ",
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/PAH_logo_online_cornell.jpg?itok=A-CwIJE3",
+         "copyright_img_link": "http://onlinelearning.cornell.edu/wiretaps-big-data-privacy-and-surveillance-age-interconnection-mooc", 
+         "content_title": " Bovine Necropsy Exam ", 
+         "course_Organization": " College of Veterinary Medicine "
+        }, 
+        {"course_Description": " Examine why and how people come together to steward nature and cultivate community in places marked by violence, disaster, po ", 
+        "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/CE%20Image.jpg?itok=B-b3Z97e", 
+        "copyright_img_link": "http://onlinelearning.cornell.edu/bovine-necropsy-exam", 
+        "content_title": " Reclaiming Broken Places: Introduction to Civic Ecology MOOC ",
+        "course_Organization": " College of Agriculture and Life Sciences "
+        }, 
+        {"course_Description": " Avian Diagnostic Sample Collection ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/PAH_logo_online_cornell.jpg?itok=A-CwIJE3", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/bovine-necropsy-exam",
+         "content_title": " Avian Diagnostic Sample Collection ", 
+         "course_Organization": " College of Veterinary Medicine "
+        }, 
+        {
+         "course_Description": " Explore the fundamental computing technology inside smartphones and the advanced techniques that make them run so fast. ",
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/1.jpg?itok=JBa7z4Er", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/reclaiming-broken-places-introduction-civic-ecology-mooc",
+         "content_title": " The Computing Technology Inside Your Smartphone MOOC ", 
+         "course_Organization": " College of Engineering "}, 
+        {"course_Description": " Learn about biodiversity, biology, and conservation by studying some of the most fascinating animals on Earth.\r\n ",
+          "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/Sharks%20MOOC%20Course%20Image.png?itok=HC1kNZ3g", 
+          "copyright_img_link": "http://onlinelearning.cornell.edu/reclaiming-broken-places-introduction-civic-ecology-mooc",
+          "content_title": " Sharks! Global Biodiversity, Biology, and Conservation MOOC ",
+          "course_Organization": " College of Agriculture and Life Sciences "}, 
+        {"course_Description": " You will learn the basics of genetic engineering, explore the political debate around the GMO and review the arguments. ",
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/GMO%20Image.png?itok=MuIRLXg9",
+          "copyright_img_link": "http://onlinelearning.cornell.edu/avian-diagnostic-sample-collection", 
+          "content_title": " The Science and Politics of the GMO MOOC ", 
+          "course_Organization": " College of Agriculture and Life Sciences "}, 
+        {
+         "course_Description": " The world\u2019s top-rated School of Hotel Administration introduces you to the fast-growing world of hospitality management. ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/Default%20Images/hotel2.jpg?itok=c_STYGBW", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/avian-diagnostic-sample-collection",
+         "content_title": " Introduction to Global Hospitality Management MOOC ",
+         "course_Organization": " School of Hotel Administration "
+        },
+        {
+         "course_Description": " Avian Necropsy Examination ",
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/PAH_logo_online_cornell.jpg?itok=A-CwIJE3",
+         "copyright_img_link": "http://onlinelearning.cornell.edu/computing-technology-inside-your-smartphone-mooc", 
+         "content_title": " Avian Necropsy Examination ", 
+         "course_Organization": " College of Veterinary Medicine "}, 
+         {
+         "course_Description": " Partners in Animal Health: Feline Health ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/PAH-Cat_Guide_Kidney_Disease.jpg?itok=EHqAokl3", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/computing-technology-inside-your-smartphone-mooc", 
+         "content_title": " Partners in Animal Health: Feline Health ", 
+         "course_Organization": " College of Veterinary Medicine "}, 
+        {"course_Description": " Learn to analyze real-world engineering problems using powerful simulation software. Gain a skill sought by employers! ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/EngrBanner%20%28002%29.jpg?itok=XCBjAvfQ", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/sharks-global-biodiversity-biology-and-conservation-mooc", 
+         "content_title": " A Hands-on Introduction to Engineering Simulations MOOC ", 
+         "course_Organization": " College of Engineering "}, 
+         {
+         "course_Description": " Learn the laws, principles, and guidelines to structure successful business deals to meet the needs of contracting parties. ", 
+         "course_urls": "http://onlinelearning.cornell.edu/sites/default/files/styles/medium/public/asset-v1%20CornellX%2BDEAL101x%2B1T2017%2Btype%40asset%2Bblock%40Deals_Image.jpg?itok=UZigQoX1", 
+         "copyright_img_link": "http://onlinelearning.cornell.edu/sharks-global-biodiversity-biology-and-conservation-mooc", 
+         "content_title": " Structuring Business Agreements for Success MOOC ", 
+         "course_Organization": " Cornell Law School "
+         }
+         ]}
