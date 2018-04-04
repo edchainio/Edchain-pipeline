@@ -50,7 +50,7 @@ class Yale:
 		"""
 		instructor_name = []
 		for name in soup.find_all("td", class_="views-field views-field-field-professors-last-name"):
-			instructor_name.append(''.join(name.findAll(text=True)))		
+			instructor_name.append(''.join(name.findAll(text=True)).strip())		
 		self.new_list.append(instructor_name)
 		return instructor_name
 
