@@ -63,20 +63,31 @@ class Yale:
 		self.new_list.append(course_date)
 		return course_date
 
+	def get_course_department_urls(self,soup):
+		#Get Department Links
+		course_department_links =[]
+		root_url = 'https://oyc.yale.edu'
+		for link in soup.findAll('td', attrs={'class' : 'views-field views-field-title active'}):
+			new_url = root_url + link.find('a')['href']
+			course_department_links.append(new_url)
+			course_department_links.append(' \n')		
+		self.new_list.append(course_department_links)
+		return course_department_links
+
 	def get_course_page_urls(self,soup):
 		"""
-		Scrape Upenn "View All Courses" page for links to all courses.
+		Scrape Yale "View All Courses" page for links to all courses.
 		Returns: List of links to all courses.
 		"""
-		course_links =[]
-		root_url = 'http://onlinelearning.Yale.edu'
-		for link in soup.select('span.field-content a[href]'):
-			new_url = root_url + link['href']
-			course_links.append(new_url)
-			course_links.append(' \n')
+		course_page_links =[]
+		root_url = 'https://oyc.yale.edu'
+		for link in soup.findAll('td', attrs={'class' : 'views-field views-field-title-1'}):
+			new_url = root_url + link.find('a')['href']
+			course_page_links.append(new_url)
+			course_page_links.append(' \n')
 		
-		self.new_list.append(course_links)
-		return course_links
+		self.new_list.append(course_page_links)
+		return course_page_links	
 
 	def run_all(self):
 		view_courses_url = 'https://oyc.yale.edu/courses'
@@ -85,13 +96,11 @@ class Yale:
 
 		self.get_course_name(soup)
 		self.get_course_number(soup)
-		# self.get_course_page_urls(soup)
+		self.get_course_department(soup)
 		self.get_instructor_name(soup)
 		self.get_course_date(soup)
-		# self.get_image(soup)
-        # self.get_course_description(soup)
-
-
+		self.get_course_department_urls(soup)
+		self.get_course_page_urls(soup)
 	
 		with open('Yale.txt', 'w+') as wr: # w+: create if file doesnt exist
 			for course_doc in self.new_list:
@@ -99,33 +108,34 @@ class Yale:
 					wr.write(name)
 
 	def json_convert(self):
-		view_courses_url = 'http://onlinelearning.Yale.edu/welcome?f%5B0%5D=field_cost%3A98&view-order=grid'
-		view_courses_url_cont = 'http://onlinelearning.Yale.edu/welcome?f%5B0%5D=field_cost%3A98&view-order=grid&page=1'
+		view_courses_url = 'https://oyc.yale.edu/courses'
 		response = requests.get(view_courses_url)
-		response_cont = requests.get(view_courses_url_cont)
 		soup = BS(response.content, "html.parser")
-		soup_cont = BS(response_cont.content, "html.parser")
 
 		new_dict = zip(self.get_course_name(soup),
-		#self.get_course_name_continue(soup_cont),
-		self.get_course_page_urls(soup),
-		self.get_course_number(soup))
+		self.get_course_number(soup),
+		self.get_course_department(soup),
+		self.get_instructor_name(soup),
+		self.get_course_date(soup),
+		self.get_course_department_urls(soup),
+		self.get_course_page_urls(soup))
+		
 
 		new_dict = list(new_dict)
-		keys = ['content_title', 'course_urls', 'course_Organization', 'copyright_img_link','course_Description']
+		keys = ['course_name', 'course_number', 'course_department', 'instructor_name','course_date','course_department_urls','course_page_urls']
 		Yale_course_list = []
 		Yale_course = {}
 		
 		for i in new_dict[::2]:
 			i = list(i)
 			mix_list = list(zip(keys,i))
-			print (mix_list)
 			Yale_course_list.append(dict(mix_list))
 		Yale_course["attribution"] = Yale_course_list
+		
 
-		# with open('Yale_resources.json', 'w+') as wr: 
-		# 	wr.write(json.dumps(Yale_course))
+		with open('Yale_resources.json', 'w+') as wr: 
+			wr.write(json.dumps(Yale_course))
 
 if __name__ == '__main__':
-	Yale().run_all()
 	#Yale().run_all()
+	Yale().json_convert()
