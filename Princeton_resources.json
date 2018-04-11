@@ -1,28 +1,76 @@
-{"attribution": 
-    [
-    {"course_Instructors": "\n            Teal  Arcadi, Caitlin  Harvey, Rob  Konkel, Felice  M. Physioc, Niharika  Yadav, Miles I. Macallister          ", 
-     "content_title": "\nGlobal History of Capitalism since 1919 ", 
-     "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Global-History-of-Capitalism-thumbnail.jpg?itok=rBWk7rNn", 
-     "course_urls": "http://onlinelearning.Princeton.edu/course/global-history-capitalism-1919"
-    }, 
-    {
-     "course_Instructors": "\n            Mung  Chiang          ", 
-     "content_title": "\nNetworks: Friends, Money and Bytes ", 
-     "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Networks%20Illustrated%20-%20Mung%20Chiang%2C%20Christopher%20Brinton.jpg?itok=l58uoPd2", 
-     "course_urls": "http://onlinelearning.Princeton.edu/course/networks-illustrated-principles-without-calculus"
-    }, 
-    {
-     "course_Instructors": "\n            Miguel  A. Centeno          ", 
-     "content_title": "\nThe Paradoxes of War ", 
-     "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Friends%20Money%20Bytes.jpg?itok=Inv4IkPY", 
-     "course_urls": "http://onlinelearning.Princeton.edu/course/networks-friends-money-and-bytes"
-    }, 
-    {"course_Instructors": "\n            Robert  Wright          ", 
-     "content_title": "\nBuddhism and Modern Psychology ", 
-     "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Global%20History%20Lab%20-%20Jeremy%20Adelman.jpeg?itok=ck9D_UZL", 
-     "course_urls": "http://onlinelearning.Princeton.edu/course/global-history-lab"}, 
-    {"course_Instructors": "\n            David  Spergel          ", 
-     "content_title": "\nImagining Other Earths ", 
-     "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Paradoxes%20of%20War%20-%20Miguel%20Centeno%20%281%29.jpg?itok=U1VbG4oc", "course_urls": "http://onlinelearning.Princeton.edu/course/paradoxes-war"}, {"course_Instructors": "\n            Arvind  Narayanan          ", "content_title": "\nBitcoin and Cryptocurrency Technologies ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/algs4partI-logo.png?itok=gKVdpnL6", "course_urls": "http://onlinelearning.Princeton.edu/course/algorithms-part-ii"}, {"course_Instructors": "\n            Jennifer  Widner          ", "content_title": "\nMaking Government Work in Hard Places ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Buddhism%20and%20Modern%20Psychology%20-%20Robert%20Wright%20%281%29.jpg?itok=LCTQlbe8", "course_urls": "http://onlinelearning.Princeton.edu/course/buddhism-and-modern-psychology"}, {"course_Instructors": "\n            Robert  Sedgewick          ", "content_title": "\nAnalytic Combinatorics ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/comparch-logo.png?itok=9qWtScl8", "course_urls": "http://onlinelearning.Princeton.edu/course/computer-architecture"}, {"course_Instructors": "\n            Nick  Feamster          ", "content_title": "\nSoftware Defined Networks ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Imagining%20Other%20Earths%20-%20David%20Spergel_0.jpg?itok=N0qiTcyj", "course_urls": "http://onlinelearning.Princeton.edu/course/imagining-other-earths"}, {"course_Instructors": "\n            Maria  Garlock          ", "content_title": "\nThe Art of Structural Engineering: Bridges ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Algorithms%2C%20Part%20II%20-%20Sedgewick%20and%20Wayne.jpg?itok=cGbO2j0X", "course_urls": "http://onlinelearning.Princeton.edu/course/algorithms-part-i"}, {"course_Instructors": "\n            Mitchell  Duneier          ", "content_title": "\nIntroduction to Sociology ", "copyright_img_link": "https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Bitcoin%20and%20Cryptocurrency%20Technologies%20-%20Arvind%20Narayanan.png?itok=KkUHOUEZ", 
-     "course_urls": "http://onlinelearning.Princeton.edu/course/bitcoin-and-cryptocurrency-technologies"
-     }]}
+{
+    "attribution":[
+       {
+          "content_title":"Computer Science: Algorithms, Theory, and Machines",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/computer-science-algorithms-theory-and-machines",
+          "course_Instructors":"Robert Sedgewick, Kevin Wayne",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/COS.jpeg?itok=Fke6nQk_"
+       },
+       {
+          "content_title":"Networks: Friends, Money and Bytes",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/networks-illustrated-principles-without-calculus",
+          "course_Instructors":"Mung Chiang",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Networks%20Illustrated%20-%20Mung%20Chiang%2C%20Christopher%20Brinton.jpg?itok=l58uoPd2"
+       },
+       {
+          "content_title":"Algorithms, Part II",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/networks-friends-money-and-bytes",
+          "course_Instructors":"Robert Sedgewick, Kevin Wayne",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Friends%20Money%20Bytes.jpg?itok=Inv4IkPY"
+       },
+       {
+          "content_title":"Computer Architecture",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/paradoxes-war",
+          "course_Instructors":"David Wentzlaff",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Paradoxes%20of%20War%20-%20Miguel%20Centeno%20%281%29.jpg?itok=U1VbG4oc"
+       },
+       {
+          "content_title":"Algorithms, Part I",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/algorithms-part-ii",
+          "course_Instructors":"Robert Sedgewick, Kevin Wayne",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/algs4partI-logo.png?itok=gKVdpnL6"
+       },
+       {
+          "content_title":"Effective Altruism",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/buddhism-and-modern-psychology",
+          "course_Instructors":"Peter Singer",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Buddhism%20and%20Modern%20Psychology%20-%20Robert%20Wright%20%281%29.jpg?itok=LCTQlbe8"
+       },
+       {
+          "content_title":"Reinventing the Piano",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/computer-architecture",
+          "course_Instructors":"Daniel Trueman",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/comparch-logo.png?itok=9qWtScl8"
+       },
+       {
+          "content_title":"Analytic Combinatorics",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/imagining-other-earths",
+          "course_Instructors":"Robert Sedgewick",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Imagining%20Other%20Earths%20-%20David%20Spergel_0.jpg?itok=N0qiTcyj"
+       },
+       {
+          "content_title":"Global History of Capitalism since 1919",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/algorithms-part-i",
+          "course_Instructors":"Teal Arcadi, Caitlin Harvey, Rob Konkel, Felice M. Physioc, Niharika Yadav, Miles I. Macallister",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Algorithms%2C%20Part%20II%20-%20Sedgewick%20and%20Wayne.jpg?itok=cGbO2j0X"
+       },
+       {
+          "content_title":"Fog Networks and the Internet of Things",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/bitcoin-and-cryptocurrency-technologies",
+          "course_Instructors":"Mung Chiang",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Bitcoin%20and%20Cryptocurrency%20Technologies%20-%20Arvind%20Narayanan.png?itok=KkUHOUEZ"
+       },
+       {
+          "content_title":"The Art of Structural Engineering: Bridges",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/effective-altruism",
+          "course_Instructors":"Maria Garlock",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Effective%20Altruism%20-%20Peter%20Singer.jpg?itok=vqWi6hbc"
+       },
+       {
+          "content_title":"Introduction to Sociology",
+          "course_urls":"http://onlinelearning.Princeton.edu/course/making-government-work-hard-places",
+          "course_Instructors":"Mitchell Duneier",
+          "copyright_img_link":"https://online.princeton.edu/sites/interactive/files/styles/courses_tiny_thumb/public/Making%20Government%20Work%20in%20Hard%20Places%20-%20Jennifer%20Widner.jpg?itok=1MzjhpZg"
+       }
+    ]
+ }
