@@ -1,0 +1,184 @@
+{
+    "attribution":[
+       {
+          "course_department_urls":"https://oyc.yale.edu/african-american-studies",
+          "course_name":"African American History: From Emancipation to the Present",
+          "course_page_urls":"https://oyc.yale.edu/african-american-studies/afam-162",
+          "course_number":"AFAM 162",
+          "course_date":"Spring 2010",
+          "instructor_name":"Jonathan Holloway",
+          "course_department":"African American Studies"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/american-studies",
+          "course_name":"Frontiers and Controversies in Astrophysics",
+          "course_page_urls":"https://oyc.yale.edu/american-studies/amst-246",
+          "course_number":"ASTR 160",
+          "course_date":"Fall 2011",
+          "instructor_name":"Charles Bailyn",
+          "course_department":"American Studies"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/astronomy",
+          "course_name":"Freshman Organic Chemistry I",
+          "course_page_urls":"https://oyc.yale.edu/astronomy/astr-160",
+          "course_number":"CHEM 125a",
+          "course_date":"Spring 2007",
+          "instructor_name":"J. Michael McBride",
+          "course_department":"Astronomy"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/biomedical-engineering",
+          "course_name":"Introduction to Ancient Greek History",
+          "course_page_urls":"https://oyc.yale.edu/biomedical-engineering/beng-100",
+          "course_number":"CLCV 205",
+          "course_date":"Spring 2008",
+          "instructor_name":"Donald Kagan",
+          "course_department":"Biomedical Engineering"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/chemistry",
+          "course_name":"Financial Markets (2008)",
+          "course_page_urls":"https://oyc.yale.edu/chemistry/chem-125a",
+          "course_number":"ECON 252",
+          "course_date":"Fall 2008",
+          "instructor_name":"Robert J. Shiller",
+          "course_department":"Chemistry"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/chemistry",
+          "course_name":"Financial Theory",
+          "course_page_urls":"https://oyc.yale.edu/chemistry/chem-125b",
+          "course_number":"ECON 251",
+          "course_date":"Spring 2011",
+          "instructor_name":"John Geanakoplos",
+          "course_department":"Chemistry"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/classics",
+          "course_name":"Introduction to Theory of Literature",
+          "course_page_urls":"https://oyc.yale.edu/classics/clcv-205",
+          "course_number":"ENGL 300",
+          "course_date":"Fall 2007",
+          "instructor_name":"Paul H. Fry",
+          "course_department":"Classics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/ecology-and-evolutionary-biology",
+          "course_name":"Modern Poetry",
+          "course_page_urls":"https://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122",
+          "course_number":"ENGL 310",
+          "course_date":"Spring 2009",
+          "instructor_name":"Langdon Hammer",
+          "course_department":"Ecology and Evolutionary Biology"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/economics",
+          "course_name":"Environmental Politics and Law",
+          "course_page_urls":"https://oyc.yale.edu/economics/econ-252-08",
+          "course_number":"EVST 255",
+          "course_date":"Spring 2008",
+          "instructor_name":"John Wargo",
+          "course_department":"Economics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/economics",
+          "course_name":"The American Revolution",
+          "course_page_urls":"https://oyc.yale.edu/economics/econ-252",
+          "course_number":"HIST 116",
+          "course_date":"Spring 2011",
+          "instructor_name":"Joanne Freeman",
+          "course_department":"Economics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/economics",
+          "course_name":"The Early Middle Ages, 284\u20131000",
+          "course_page_urls":"https://oyc.yale.edu/economics/econ-251",
+          "course_number":"HIST 210",
+          "course_date":"Fall 2009",
+          "instructor_name":"Paul Freedman",
+          "course_department":"Economics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/economics",
+          "course_name":"Epidemics in Western Society Since 1600",
+          "course_page_urls":"https://oyc.yale.edu/economics/econ-159",
+          "course_number":"HIST 234",
+          "course_date":"Fall 2007",
+          "instructor_name":"Frank Snowden",
+          "course_department":"Economics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/english",
+          "course_name":"France Since 1871",
+          "course_page_urls":"https://oyc.yale.edu/english/engl-300",
+          "course_number":"HIST 276",
+          "course_date":"Spring 2009",
+          "instructor_name":"John Merriman",
+          "course_department":"English"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/english",
+          "course_name":"Dante in Translation",
+          "course_page_urls":"https://oyc.yale.edu/english/engl-220",
+          "course_number":"ITAL 310",
+          "course_date":"Fall 2007",
+          "instructor_name":"Giuseppe Mazzotta",
+          "course_department":"English"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/english",
+          "course_name":"Philosophy and the Science of Human Nature",
+          "course_page_urls":"https://oyc.yale.edu/english/engl-310",
+          "course_number":"PHIL 181",
+          "course_date":"Spring 2007",
+          "instructor_name":"Tamar Gendler",
+          "course_department":"English"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/english",
+          "course_name":"Fundamentals of Physics I",
+          "course_page_urls":"https://oyc.yale.edu/english/engl-291",
+          "course_number":"PHYS 200",
+          "course_date":"Spring 2008",
+          "instructor_name":"Ramamurti Shankar",
+          "course_department":"English"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/environmental-studies",
+          "course_name":"Capitalism: Success, Crisis, and Reform",
+          "course_page_urls":"https://oyc.yale.edu/environmental-studies/evst-255",
+          "course_number":"PLSC 270",
+          "course_date":"Spring 2010",
+          "instructor_name":"Douglas W. Rae",
+          "course_department":"Environmental Studies"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/geology-and-geophysics",
+          "course_name":"Introduction to Psychology",
+          "course_page_urls":"https://oyc.yale.edu/geology-and-geophysics/gg-140",
+          "course_number":"PSYC 110",
+          "course_date":"Fall 2011",
+          "instructor_name":"Paul Bloom",
+          "course_department":"Geology and Geophysics"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/history",
+          "course_name":"Introduction to the New Testament History and Literature",
+          "course_page_urls":"https://oyc.yale.edu/history/hist-116",
+          "course_number":"RLST 152",
+          "course_date":"Spring 2010",
+          "instructor_name":"Dale B. Martin",
+          "course_department":"History"
+       },
+       {
+          "course_department_urls":"https://oyc.yale.edu/history",
+          "course_name":"Foundations of Modern Social Theory",
+          "course_page_urls":"https://oyc.yale.edu/history/hist-119",
+          "course_number":"SOCY 151",
+          "course_date":"Spring 2008",
+          "instructor_name":"Iv\u00e1n Szel\u00e9nyi",
+          "course_department":"History"
+       }
+    ]
+ }
