@@ -17,6 +17,7 @@ class Yale:
 		course_title = []
 		for title in soup.find_all("td", class_="views-field views-field-title-1"):
 			course_title.append(''.join(title.findAll(text=True)).strip())	
+			course_title.append(' \n')	
 		
 		self.new_list.append(course_title)
 		return course_title
@@ -37,7 +38,7 @@ class Yale:
 		for subject in soup.find_all("td", class_="views-field views-field-field-course-number", ):
 			course_number.append(''.join(subject.findAll(text=True)).strip())
         
-		print(course_number)
+		
 		self.new_list.append(course_number)
 		return course_number
         
@@ -51,8 +52,8 @@ class Yale:
 		for name in soup.find_all("td", class_="views-field views-field-field-professors-last-name"):
 			#name = name.strip()
 			instructor_name.append(''.join(name.findAll(text=True)).strip())
-
-		print(instructor_name)			
+			instructor_name.append(' \n')	
+		
 		self.new_list.append(instructor_name)
 		return instructor_name
 
@@ -97,18 +98,18 @@ class Yale:
 		response = requests.get(view_courses_url)
 		soup = BS(response.content, "html.parser")
 
-		# self.get_course_name(soup)
+		self.get_course_name(soup)
 		self.get_course_number(soup)
-		# self.get_course_department(soup)
-		# self.get_instructor_name(soup)
-		# self.get_course_date(soup)
-		# self.get_course_department_urls(soup)
-		# self.get_course_page_urls(soup)
+		self.get_course_department(soup)
+		self.get_instructor_name(soup)
+		self.get_course_date(soup)
+		self.get_course_department_urls(soup)
+		self.get_course_page_urls(soup)
 	
-		# with open('Yale.txt', 'w+') as wr: # w+: create if file doesnt exist
-		# 	for course_doc in self.new_list:
-		# 		for name in course_doc:	
-		# 			wr.write(name)
+		with open('Yale.txt', 'w+') as wr: # w+: create if file doesnt exist
+			for course_doc in self.new_list:
+				for name in course_doc:	
+					wr.write(name)
 
 	def json_convert(self):
 		view_courses_url = 'https://oyc.yale.edu/courses'
@@ -136,8 +137,8 @@ class Yale:
 		Yale_course["attribution"] = Yale_course_list
 		
 
-		# with open('Yale_resources.json', 'w+') as wr: 
-		# 	wr.write(json.dumps(Yale_course))
+		with open('Yale_resources.json', 'w+') as wr: 
+			wr.write(json.dumps(Yale_course))
 
 if __name__ == '__main__':
 	Yale().run_all()
