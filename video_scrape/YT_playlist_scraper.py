@@ -54,7 +54,7 @@ class Yale_Video:
 			Yale_lecture_list.append(dict(mix_list))
 			Youtube_course["youtube_content"] = Yale_lecture_list
 
-		with open('Frontiers_Biomedical.json', 'w+') as wr: 
+		with open('yale_course_videos.json', 'w+') as wr: 
 			wr.write(json.dumps(Youtube_course, indent=4))
 
 		return video_url	
