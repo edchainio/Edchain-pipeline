@@ -1,0 +1,2950 @@
+{
+    "attribution": [
+        {
+            "copyright_holder": "Yale",
+            "course_department": "African American Studies",
+            "course_name": "African American History: From Emancipation to the Present",
+            "course_page_urls": "https://oyc.yale.edu/african-american-studies/afam-162",
+            "unique_identifier": "0",
+            "course_date": "Spring 2010",
+            "course_department_urls": "https://oyc.yale.edu/african-american-studies",
+            "course_number": "AFAM 162",
+            "instructor_name": "Jonathan Holloway",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Sn0bOX5Hau4&t=0s&list=PL27E877E8206F196B&index=1",
+                    "lecture_id": "0",
+                    "lecture_title": "What Is Biomedical Engineering?"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=mRu9SDMWn2g&t=0s&list=PL27E877E8206F196B&index=2",
+                    "lecture_id": "1",
+                    "lecture_title": "What Is Biomedical Engineering? (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=WXGL2Kracgs&t=0s&list=PL27E877E8206F196B&index=3",
+                    "lecture_id": "2",
+                    "lecture_title": "Genetic Engineering"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=uUddHabtAzk&t=0s&list=PL27E877E8206F196B&index=4",
+                    "lecture_id": "3",
+                    "lecture_title": "Genetic Engineering (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_p2t_d1XsZU&t=0s&list=PL27E877E8206F196B&index=5",
+                    "lecture_id": "4",
+                    "lecture_title": "Cell Culture Engineering"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=H-9WOH2dY9I&t=0s&list=PL27E877E8206F196B&index=6",
+                    "lecture_id": "5",
+                    "lecture_title": "Cell Culture Engineering (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=jEhTHnRoy5g&t=0s&list=PL27E877E8206F196B&index=7",
+                    "lecture_id": "6",
+                    "lecture_title": "Cell Communication and Immunology"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=1i3EBoC7XXY&t=0s&list=PL27E877E8206F196B&index=8",
+                    "lecture_id": "7",
+                    "lecture_title": "Cell Communication and Immunology (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=AQ8N7npwbkU&t=0s&list=PL27E877E8206F196B&index=9",
+                    "lecture_id": "8",
+                    "lecture_title": "Biomolecular Engineering: Engineering of Immunity"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=yIguafqvrVU&t=0s&list=PL27E877E8206F196B&index=10",
+                    "lecture_id": "9",
+                    "lecture_title": "Biomolecular Engineering: Engineering of Immunity (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=OZn_7gJ6LnY&t=0s&list=PL27E877E8206F196B&index=11",
+                    "lecture_id": "10",
+                    "lecture_title": "Biomolecular Engineering: General Concepts"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7IgMl_-XYks&t=0s&list=PL27E877E8206F196B&index=12",
+                    "lecture_id": "11",
+                    "lecture_title": "Biomolecular Engineering: General Concepts (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=It_cV56Dxtk&t=0s&list=PL27E877E8206F196B&index=13",
+                    "lecture_id": "12",
+                    "lecture_title": "Cardiovascular Physiology"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=aavVN9rPGWc&t=0s&list=PL27E877E8206F196B&index=14",
+                    "lecture_id": "13",
+                    "lecture_title": "Cardiovascular Physiology (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=nzIvB0BUc6c&t=0s&list=PL27E877E8206F196B&index=15",
+                    "lecture_id": "14",
+                    "lecture_title": "Cardiovascular Physiology (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=XZMB-aoIi4A&t=0s&list=PL27E877E8206F196B&index=16",
+                    "lecture_id": "15",
+                    "lecture_title": "Renal Physiology"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hznvgN1Wnfw&t=0s&list=PL27E877E8206F196B&index=17",
+                    "lecture_id": "16",
+                    "lecture_title": "Renal Physiology (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=dMZhxNfOYy0&t=0s&list=PL27E877E8206F196B&index=18",
+                    "lecture_id": "17",
+                    "lecture_title": "Biomechanics and Orthopedics"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=ancxWb9FoY8&t=0s&list=PL27E877E8206F196B&index=19",
+                    "lecture_id": "18",
+                    "lecture_title": "Biomechanics and Orthopedics (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=U8Dx2BZimOg&t=0s&list=PL27E877E8206F196B&index=20",
+                    "lecture_id": "19",
+                    "lecture_title": "Bioimaging"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=zsb6B8HrNVA&t=0s&list=PL27E877E8206F196B&index=21",
+                    "lecture_id": "20",
+                    "lecture_title": "Bioimaging (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=lKKZjKCqSIc&t=0s&list=PL27E877E8206F196B&index=22",
+                    "lecture_id": "21",
+                    "lecture_title": "Tissue Engineering"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=u6is0onylyw&t=0s&list=PL27E877E8206F196B&index=23",
+                    "lecture_id": "22",
+                    "lecture_title": "Tissue Engineering (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Pb20yJNIrzg&t=0s&list=PL27E877E8206F196B&index=24",
+                    "lecture_id": "23",
+                    "lecture_title": "Biomedical Engineers and Cancer"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=yecsqtQbKU8&t=0s&list=PL27E877E8206F196B&index=25",
+                    "lecture_id": "24",
+                    "lecture_title": "Biomedical Engineers and Artificial Organs"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "American Studies",
+            "course_name": "Hemingway, Fitzgerald, Faulkner",
+            "course_page_urls": "https://oyc.yale.edu/american-studies/amst-246",
+            "unique_identifier": "1",
+            "course_date": "Fall 2011",
+            "course_department_urls": "https://oyc.yale.edu/american-studies",
+            "course_number": "AMST 246",
+            "instructor_name": "Wai Chee Dimock",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=0GLy6_gjenA&index=1&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Hemingway's In Our Time",
+                    "lecture_url": "https://www.youtube.com/watch?v=FOF8vYkg0MI&index=2&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Hemingway's In Our Time, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=hu3rv7nSIKY&index=3&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Fitzgerald's The Great Gatsby",
+                    "lecture_url": "https://www.youtube.com/watch?v=f6CsjHh0n8E&index=4&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Fitzgerald's The Great Gatsby, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=06ernhU235g&index=5&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Faulkner's The Sound and the Fury",
+                    "lecture_url": "https://www.youtube.com/watch?v=tjEf3Atnrvk&index=6&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Faulkner's The Sound and the Fury, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=LoRbEoCUrAY&index=7&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Faulkner's The Sound and the Fury, Part III",
+                    "lecture_url": "https://www.youtube.com/watch?v=8-XxWyFIK6A&index=8&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Faulkner's The Sound and the Fury, Part IV",
+                    "lecture_url": "https://www.youtube.com/watch?v=DlbKjsht-1Q&index=9&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Hemingway -- To Have and Have Not",
+                    "lecture_url": "https://www.youtube.com/watch?v=ia6xFuVBsGk&index=10&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Hemingway -- To Have and Have Not",
+                    "lecture_url": "https://www.youtube.com/watch?v=VJTSDLOS5QM&index=11&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Fitzgerald -- \"The Diamond as Big as the Ritz\", etc.",
+                    "lecture_url": "https://www.youtube.com/watch?v=Hcz8yHjmSTw&index=12&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Faulkner -- As I Lay Dying",
+                    "lecture_url": "https://www.youtube.com/watch?v=ax1QzmclDT0&index=13&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Faulkner -- As I Lay Dying, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=Qx6U4lB-FgA&index=14&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Faulkner -- As I Lay Dying",
+                    "lecture_url": "https://www.youtube.com/watch?v=PoZfBpjS_zs&index=15&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Hemingway -- For Whom the Bell Tolls",
+                    "lecture_url": "https://www.youtube.com/watch?v=KKqRwipbWMY&index=16&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Hemingway -- For Whom the Bell Tolls",
+                    "lecture_url": "https://www.youtube.com/watch?v=HcXzyezCqxE&index=17&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Hemingway -- For Whom the Bell Tolls (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=UHL7DTt7JpE&index=18&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Hemingway -- For Whom the Bell Tolls (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ym-vXiIDz_M&index=19&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Fitzgerald - Tender Is the Night",
+                    "lecture_url": "https://www.youtube.com/watch?v=vJ-ZcyTKpV8&index=20&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Fitzgerald, Tender is the Night (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=PcK0GlkMmYQ&index=21&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Faulkner, Light in August",
+                    "lecture_url": "https://www.youtube.com/watch?v=llFgdkjpgc4&index=22&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Faulkner, Light in August (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=2oM2mBp7dBM&index=23&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Faulkner, Light in August (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=1ZS6tDMukGw&index=24&list=PL84C3A4DD9C263D79&t=0s"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "Faulkner, Light in August (continued)",
+                    "lecture_url": "https://www.youtube.com/watch?v=WO7n1WG6BkU&index=25&list=PL84C3A4DD9C263D79&t=0s"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Astronomy",
+            "course_name": "Frontiers and Controversies in Astrophysics",
+            "course_page_urls": "https://oyc.yale.edu/astronomy/astr-160",
+            "unique_identifier": "2",
+            "course_date": "Spring 2007",
+            "course_department_urls": "https://oyc.yale.edu/astronomy",
+            "course_number": "ASTR 160",
+            "instructor_name": "Charles Bailyn",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=nzmFc2gjUo4&t=0s&list=PLD1515420F4E601A4&index=1"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Planetary Orbits",
+                    "lecture_url": "https://www.youtube.com/watch?v=ZiK4lg3Tzfs&t=0s&list=PLD1515420F4E601A4&index=2"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Our Solar System and the Pluto Problem",
+                    "lecture_url": "https://www.youtube.com/watch?v=psGVZRhemCg&t=0s&list=PLD1515420F4E601A4&index=3"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Discovering Exoplanets: Hot Jupiters",
+                    "lecture_url": "https://www.youtube.com/watch?v=wxZ4cOxQqMQ&t=0s&list=PLD1515420F4E601A4&index=4"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Planetary Transits",
+                    "lecture_url": "https://www.youtube.com/watch?v=aXvkfXcBLzk&t=0s&list=PLD1515420F4E601A4&index=5"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Microlensing, Astrometry and Other Methods",
+                    "lecture_url": "https://www.youtube.com/watch?v=r7QJyOYnmXs&t=0s&list=PLD1515420F4E601A4&index=6"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Direct Imaging of Exoplanets",
+                    "lecture_url": "https://www.youtube.com/watch?v=dVvYa138qJE&t=0s&list=PLD1515420F4E601A4&index=7"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Introduction to Black Holes",
+                    "lecture_url": "https://www.youtube.com/watch?v=1UeSeRpGYoo&t=0s&list=PLD1515420F4E601A4&index=8"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Special and General Relativity",
+                    "lecture_url": "https://www.youtube.com/watch?v=D6fXiW3oEws&t=0s&list=PLD1515420F4E601A4&index=9"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Tests of Relativity",
+                    "lecture_url": "https://www.youtube.com/watch?v=dII3mcnwycs&t=0s&list=PLD1515420F4E601A4&index=10"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Special and General Relativity (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=9Gz-MyUGF7k&t=0s&list=PLD1515420F4E601A4&index=11"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Stellar Mass Black Holes",
+                    "lecture_url": "https://www.youtube.com/watch?v=rIUxvzJzPYw&t=0s&list=PLD1515420F4E601A4&index=12"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Stellar Mass Black Holes (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=hMgBUcP6RBc&t=0s&list=PLD1515420F4E601A4&index=13"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Pulsars",
+                    "lecture_url": "https://www.youtube.com/watch?v=OJwlgdgC3s0&t=0s&list=PLD1515420F4E601A4&index=14"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Supermassive Black Holes",
+                    "lecture_url": "https://www.youtube.com/watch?v=IlcE7QwGoMU&t=0s&list=PLD1515420F4E601A4&index=15"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Hubble's Law and the Big Bang",
+                    "lecture_url": "https://www.youtube.com/watch?v=4Jsr_24D6Eo&t=0s&list=PLD1515420F4E601A4&index=16"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Hubble's Law and the Big Bang (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=7Lz-Lj5sa3I&t=0s&list=PLD1515420F4E601A4&index=17"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Hubble's Law and the Big Bang (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=E9bjdR_k5qg&t=0s&list=PLD1515420F4E601A4&index=18"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Omega and the End of the Universe",
+                    "lecture_url": "https://www.youtube.com/watch?v=UaD1a25gbxk&t=0s&list=PLD1515420F4E601A4&index=19"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Dark Matter",
+                    "lecture_url": "https://www.youtube.com/watch?v=QF1Lcx1ciTE&t=0s&list=PLD1515420F4E601A4&index=20"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Dark Energy and the Accelerating Universe and the Big Rip",
+                    "lecture_url": "https://www.youtube.com/watch?v=40OQdPbeM0c&t=0s&list=PLD1515420F4E601A4&index=21"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Supernovae",
+                    "lecture_url": "https://www.youtube.com/watch?v=LME94GCyD4Y&t=0s&list=PLD1515420F4E601A4&index=22"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Other Constraints: The Cosmic Microwave Background",
+                    "lecture_url": "https://www.youtube.com/watch?v=Jgoyk2UzgEA&t=0s&list=PLD1515420F4E601A4&index=23"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "The Multiverse and Theories of Everything",
+                    "lecture_url": "https://www.youtube.com/watch?v=YAxwmiKrjgU&t=0s&list=PLD1515420F4E601A4&index=24"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Biomedical Engineering",
+            "course_name": "Frontiers of Biomedical Engineering",
+            "course_page_urls": "https://oyc.yale.edu/biomedical-engineering/beng-100",
+            "unique_identifier": "3",
+            "course_date": "Spring 2008",
+            "course_department_urls": "https://oyc.yale.edu/biomedical-engineering",
+            "course_number": "BENG 100",
+            "instructor_name": "W. Mark Saltzman",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "What Is Biomedical Engineering?",
+                    "lecture_url": "https://www.youtube.com/watch?v=Sn0bOX5Hau4&list=PL27E877E8206F196B&index=1"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "What Is Biomedical Engineering? (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=mRu9SDMWn2g&list=PL27E877E8206F196B&index=2"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Genetic Engineering",
+                    "lecture_url": "https://www.youtube.com/watch?v=WXGL2Kracgs&list=PL27E877E8206F196B&index=3"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Genetic Engineering (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=uUddHabtAzk&list=PL27E877E8206F196B&index=4"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Cell Culture Engineering",
+                    "lecture_url": "https://www.youtube.com/watch?v=_p2t_d1XsZU&list=PL27E877E8206F196B&index=5"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Cell Culture Engineering (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=H-9WOH2dY9I&list=PL27E877E8206F196B&index=6"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Cell Communication and Immunology",
+                    "lecture_url": "https://www.youtube.com/watch?v=jEhTHnRoy5g&list=PL27E877E8206F196B&index=7"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Cell Communication and Immunology (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=1i3EBoC7XXY&list=PL27E877E8206F196B&index=8"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Biomolecular Engineering: Engineering of Immunity",
+                    "lecture_url": "https://www.youtube.com/watch?v=AQ8N7npwbkU&list=PL27E877E8206F196B&index=9"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Biomolecular Engineering: Engineering of Immunity (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=yIguafqvrVU&list=PL27E877E8206F196B&index=10"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Biomolecular Engineering: General Concepts",
+                    "lecture_url": "https://www.youtube.com/watch?v=OZn_7gJ6LnY&list=PL27E877E8206F196B&index=11"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Biomolecular Engineering: General Concepts (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=7IgMl_-XYks&list=PL27E877E8206F196B&index=12"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Cardiovascular Physiology",
+                    "lecture_url": "https://www.youtube.com/watch?v=It_cV56Dxtk&list=PL27E877E8206F196B&index=13"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Cardiovascular Physiology (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=aavVN9rPGWc&list=PL27E877E8206F196B&index=14"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Cardiovascular Physiology (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=nzIvB0BUc6c&list=PL27E877E8206F196B&index=15"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Renal Physiology",
+                    "lecture_url": "https://www.youtube.com/watch?v=XZMB-aoIi4A&list=PL27E877E8206F196B&index=16"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Renal Physiology (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=hznvgN1Wnfw&list=PL27E877E8206F196B&index=17"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Biomechanics and Orthopedics",
+                    "lecture_url": "https://www.youtube.com/watch?v=dMZhxNfOYy0&list=PL27E877E8206F196B&index=18"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Biomechanics and Orthopedics (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=ancxWb9FoY8&list=PL27E877E8206F196B&index=19"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Bioimaging",
+                    "lecture_url": "https://www.youtube.com/watch?v=U8Dx2BZimOg&list=PL27E877E8206F196B&index=20"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Bioimaging (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=zsb6B8HrNVA&list=PL27E877E8206F196B&index=21"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Tissue Engineering",
+                    "lecture_url": "https://www.youtube.com/watch?v=lKKZjKCqSIc&list=PL27E877E8206F196B&index=22"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Tissue Engineering (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=u6is0onylyw&list=PL27E877E8206F196B&index=23"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Biomedical Engineers and Cancer",
+                    "lecture_url": "https://www.youtube.com/watch?v=Pb20yJNIrzg&list=PL27E877E8206F196B&index=24"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "Biomedical Engineers and Artificial Organs",
+                    "lecture_url": "https://www.youtube.com/watch?v=yecsqtQbKU8&list=PL27E877E8206F196B&index=25"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Chemistry",
+            "course_name": "Freshman Organic Chemistry I",
+            "course_page_urls": "https://oyc.yale.edu/chemistry/chem-125a",
+            "unique_identifier": "4",
+            "course_date": "Fall 2008",
+            "course_department_urls": "https://oyc.yale.edu/chemistry",
+            "course_number": "CHEM 125a",
+            "instructor_name": "J. Michael McBride",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=WSYEApgJkh0&list=PL3F629F73640F831D&index=1&t=0s",
+                    "lecture_title": "How Do You Know?",
+                    "lecture_id": "0"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=bzXnDn0i7-k&list=PL3F629F73640F831D&index=2&t=0s",
+                    "lecture_title": "Force Laws, Lewis Structures and Resonance",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=UTgIxhfhRcg&list=PL3F629F73640F831D&index=3&t=0s",
+                    "lecture_title": "Double Minima, Earnshaw's Theorem and Plum-Puddings",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=c2WdE2wDhfc&list=PL3F629F73640F831D&index=4&t=0s",
+                    "lecture_title": "Coping with Smallness and Scanning Probe Microscopy",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=cm9W10Kg8q4&list=PL3F629F73640F831D&index=5&t=0s",
+                    "lecture_title": "X-Ray Diffraction",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=mxMjroKqz_Y&list=PL3F629F73640F831D&index=6&t=0s",
+                    "lecture_title": "Seeing Bonds by Electron Difference Density",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=B4VSqAB_JcU&list=PL3F629F73640F831D&index=7&t=0s",
+                    "lecture_title": "Quantum Mechanical Kinetic Energy",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=G2wlx-Ojb6Y&list=PL3F629F73640F831D&index=8&t=0s",
+                    "lecture_title": "One-Dimensional Wave Functions",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=5kYLE8GhAuE&list=PL3F629F73640F831D&index=9&t=0s",
+                    "lecture_title": "Chladni Figures and One-Electron Atoms",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=0bCbP7SFgJc&list=PL3F629F73640F831D&index=10&t=0s",
+                    "lecture_title": "Reality and the Orbital Approximation",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=WEg0HGo5tUA&list=PL3F629F73640F831D&index=11&t=0s",
+                    "lecture_title": "Orbital Correction and Plum-Pudding Molecules",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=WL40Xs5E6-Q&list=PL3F629F73640F831D&index=12&t=0s",
+                    "lecture_title": "Overlap and Atom-Pair Bonds",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_d6pUM5j8AI&list=PL3F629F73640F831D&index=13&t=0s",
+                    "lecture_title": "Overlap and Energy-Match",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Dxvzkupjp54&list=PL3F629F73640F831D&index=14&t=0s",
+                    "lecture_title": "Checking Hybridization Theory with XH_3",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=r2lx4cIEAk4&list=PL3F629F73640F831D&index=15&t=0s",
+                    "lecture_title": "Chemical Reactivity: SOMO, HOMO, and LUMO",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=QwRKWsvhZGE&list=PL3F629F73640F831D&index=16&t=0s",
+                    "lecture_title": "Recognizing Functional Groups",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Rk40CMJhgTI&list=PL3F629F73640F831D&index=17&t=0s",
+                    "lecture_title": "Reaction Analogies and Carbonyl Reactivity",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=dZC23sT_Io0&list=PL3F629F73640F831D&index=18&t=0s",
+                    "lecture_title": "Amide, Carboxylic Acid and Alkyl Lithium",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=B6xSAAgpIa8&list=PL3F629F73640F831D&index=19&t=0s",
+                    "lecture_title": "Oxygen and the Chemical Revolution (Beginning to 1789)",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=TyZg3xEADwQ&list=PL3F629F73640F831D&index=20&t=0s",
+                    "lecture_title": "Rise of the Atomic Theory (1790-1805)",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Xo_lkUx2BPU&list=PL3F629F73640F831D&index=21&t=0s",
+                    "lecture_title": "Berzelius to Liebig and Wöhler (1805-1832)",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=kwCY3z00qU8&list=PL3F629F73640F831D&index=22&t=0s",
+                    "lecture_title": "Radical and Type Theories (1832-1850)",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=BYAHbjjJFMY&list=PL3F629F73640F831D&index=23&t=0s",
+                    "lecture_title": "Valence Theory and Constitutional Structure (1858)",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=sWbIMptr2to&list=PL3F629F73640F831D&index=24&t=0s",
+                    "lecture_title": "Determining Chemical Structure by Isomer Counting (1869)",
+                    "lecture_id": "23"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Trr2QgIyRNY&list=PL3F629F73640F831D&index=25&t=0s",
+                    "lecture_title": "Models in 3D Space (1869-1877); Optical Isomers",
+                    "lecture_id": "24"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=bj13zmUE7y0&list=PL3F629F73640F831D&index=26&t=0s",
+                    "lecture_title": "Van't Hoff's Tetrahedral Carbon and Chirality",
+                    "lecture_id": "25"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Pji0jGo3xww&list=PL3F629F73640F831D&index=27&t=0s",
+                    "lecture_title": "Communicating Molecular Structure in Diagrams and Words",
+                    "lecture_id": "26"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=BJyPPZSS35c&list=PL3F629F73640F831D&index=28&t=0s",
+                    "lecture_title": "Stereochemical Nomenclature; Racemization and Resolution",
+                    "lecture_id": "27"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=oG19d7vqWkw&list=PL3F629F73640F831D&index=29&t=0s",
+                    "lecture_title": "Preparing Single Enantiomers and the Mechanism of Optical Rotation",
+                    "lecture_id": "28"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=4-SA63VFGDY&list=PL3F629F73640F831D&index=30&t=0s",
+                    "lecture_title": "Esomeprazole as an Example of Drug Testing and Usage",
+                    "lecture_id": "29"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=wr0C_9fF7Aw&list=PL3F629F73640F831D&index=31&t=0s",
+                    "lecture_title": "Preparing Single Enantiomers and Conformational Energy",
+                    "lecture_id": "30"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=iVDwNI_338E&list=PL3F629F73640F831D&index=32&t=0s",
+                    "lecture_title": "Stereotopicity and Baeyer Strain Theory",
+                    "lecture_id": "31"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=gR9R1m35dNQ&list=PL3F629F73640F831D&index=33&t=0s",
+                    "lecture_title": "Conformational Energy and Molecular Mechanics",
+                    "lecture_id": "32"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=PhMWrrFv_6I&list=PL3F629F73640F831D&index=34&t=0s",
+                    "lecture_title": "Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes",
+                    "lecture_id": "33"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=CJ1xMccUCxc&list=PL3F629F73640F831D&index=35&t=0s",
+                    "lecture_title": "Understanding Molecular Structure and Energy through Standard Bonds",
+                    "lecture_id": "34"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=MVtdxY3DNy4&list=PL3F629F73640F831D&index=36&t=0s",
+                    "lecture_title": "Bond Energies, the Boltzmann Factor and Entropy",
+                    "lecture_id": "35"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hpQnRwVjhDk&list=PL3F629F73640F831D&index=37&t=0s",
+                    "lecture_title": "Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
+                    "lecture_id": "36"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Chemistry",
+            "course_name": "Freshman Organic Chemistry II",
+            "course_page_urls": "https://oyc.yale.edu/chemistry/chem-125b",
+            "unique_identifier": "5",
+            "course_date": "Spring 2011",
+            "course_department_urls": "https://oyc.yale.edu/chemistry",
+            "course_number": "CHEM 125b",
+            "instructor_name": "J. Michael McBride",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "Mechanism: How Energies and Kinetic Order Influence Reaction Rates",
+                    "lecture_url": "https://www.youtube.com/watch?v=5sLb4DS0LM8&list=PLB572BA3ED0F700F1&index=1&t=0s"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Peculiar Rate Laws, Bond Dissociation Energies, and Relative Reactivities",
+                    "lecture_url": "https://www.youtube.com/watch?v=2vP4uPgWC9Q&list=PLB572BA3ED0F700F1&index=2&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Rate and Selectivity in Radical-Chain Reactions",
+                    "lecture_url": "https://www.youtube.com/watch?v=WuP0esNPchs&list=PLB572BA3ED0F700F1&index=3&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Electronegativity, Bond Strength, Electrostatics, and Non-Bonded Interactions",
+                    "lecture_url": "https://www.youtube.com/watch?v=VafHjBi2wkg&list=PLB572BA3ED0F700F1&index=4&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Solvation, H-Bonding, and Ionophores",
+                    "lecture_url": "https://www.youtube.com/watch?v=bMJRMA-wdyg&list=PLB572BA3ED0F700F1&index=5&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Brønsted Acidity and the Generality of Nucleophilic Substitution",
+                    "lecture_url": "https://www.youtube.com/watch?v=-JY_3GeCMx8&list=PLB572BA3ED0F700F1&index=6&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Nucleophilic Substitution Tools - Stereochemistry, Rate Law, Substrate, Nucleophile",
+                    "lecture_url": "https://www.youtube.com/watch?v=KxglcRlX7rs&list=PLB572BA3ED0F700F1&index=7&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Solvent, Leaving Group, Bridgehead Substitution, and Pentavalent Carbon",
+                    "lecture_url": "https://www.youtube.com/watch?v=6FW0NXPPNkc&list=PLB572BA3ED0F700F1&index=8&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Pentavalent Carbon? E2, SN1, E1",
+                    "lecture_url": "https://www.youtube.com/watch?v=Vj44R9g37Lo&list=PLB572BA3ED0F700F1&index=9&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Cation Intermediates. Alkenes: Formation, Addition, and Stability",
+                    "lecture_url": "https://www.youtube.com/watch?v=3ED3axjgs5c&list=PLB572BA3ED0F700F1&index=10&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
+                    "lecture_url": "https://www.youtube.com/watch?v=mPypNRzWUeE&list=PLB572BA3ED0F700F1&index=11&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Nucleophilic Participation During Electrophilic Addition to Alkenes",
+                    "lecture_url": "https://www.youtube.com/watch?v=vuxCkDOJS6o&list=PLB572BA3ED0F700F1&index=12&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Addition to Form Three-Membered Rings: Carbenoids and Epoxidation",
+                    "lecture_url": "https://www.youtube.com/watch?v=nKk0JVrQkAY&list=PLB572BA3ED0F700F1&index=13&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Epoxide Opening, Dipolar Cycloaddition, and Ozonolysis",
+                    "lecture_url": "https://www.youtube.com/watch?v=Fg8UfFO11ew&list=PLB572BA3ED0F700F1&index=14&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Metals and Catalysis in Alkene Oxidation, Hydrogenation, Metathesis, and Polymerization",
+                    "lecture_url": "https://www.youtube.com/watch?v=pNSWJkZoSQw&list=PLB572BA3ED0F700F1&index=15&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Isoprenoids, Rubber, and Tuning Polymer Properties",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ehti9W_V5Vg&list=PLB572BA3ED0F700F1&index=16&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Alkynes. Conjugation in Allylic Intermediates and Dienes",
+                    "lecture_url": "https://www.youtube.com/watch?v=_VmK17hsw_Q&list=PLB572BA3ED0F700F1&index=17&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Linear and Cyclic Conjugation Theory. 4n+2 Aromaticity",
+                    "lecture_url": "https://www.youtube.com/watch?v=QF2UXd-uC1M&list=PLB572BA3ED0F700F1&index=18&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Aromatic Transition States: Cycloaddition and Electrocyclic Reactions",
+                    "lecture_url": "https://www.youtube.com/watch?v=0Qnjd--5N6U&list=PLB572BA3ED0F700F1&index=19&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Electronic and Vibrational Spectroscopy",
+                    "lecture_url": "https://www.youtube.com/watch?v=QYusY5WqpsE&list=PLB572BA3ED0F700F1&index=20&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Functional Groups and Fingerprints in IR Spectroscopy. Precession of Magnetic Nuclei",
+                    "lecture_url": "https://www.youtube.com/watch?v=HClNIQONfic&list=PLB572BA3ED0F700F1&index=21&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Medical MRI and Chemical NMR",
+                    "lecture_url": "https://www.youtube.com/watch?v=EVJtYJMCN9M&list=PLB572BA3ED0F700F1&index=22&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Diamagnetic Anisotropy and Spin-Spin Splitting",
+                    "lecture_url": "https://www.youtube.com/watch?v=AlUGlLfmwSc&list=PLB572BA3ED0F700F1&index=23&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Higher-Order Effects, Dynamics, and the NMR Time Scale",
+                    "lecture_url": "https://www.youtube.com/watch?v=Zh0jvSZ2nPI&list=PLB572BA3ED0F700F1&index=24&t=0s"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "C-13 and 2D NMR. Electrophilic Aromatic Substitution",
+                    "lecture_url": "https://www.youtube.com/watch?v=bUdWIAIdSko&list=PLB572BA3ED0F700F1&index=25&t=0s"
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_title": "Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
+                    "lecture_url": "https://www.youtube.com/watch?v=Y_g1t5d0tlI&list=PLB572BA3ED0F700F1&index=26&t=0s"
+                },
+                {
+                    "lecture_id": "26",
+                    "lecture_title": "Triphenylmethyl and an Introduction to Carbonyl Chemistry",
+                    "lecture_url": "https://www.youtube.com/watch?v=z7l8W_mrnSQ&list=PLB572BA3ED0F700F1&index=27&t=0s"
+                },
+                {
+                    "lecture_id": "27",
+                    "lecture_title": "Mechanism and Equilibrium of Carbonyl Reactions",
+                    "lecture_url": "https://www.youtube.com/watch?v=jp4S-t4IHYM&list=PLB572BA3ED0F700F1&index=28&t=0s"
+                },
+                {
+                    "lecture_id": "28",
+                    "lecture_title": "Imines and Enamines.  Oxidation and Reduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=eXZebRu9VSU&list=PLB572BA3ED0F700F1&index=29&t=0s"
+                },
+                {
+                    "lecture_id": "29",
+                    "lecture_title": "Oxidation States and Mechanisms",
+                    "lecture_url": "https://www.youtube.com/watch?v=EcPKMt9Mm2c&list=PLB572BA3ED0F700F1&index=30&t=0s"
+                },
+                {
+                    "lecture_id": "30",
+                    "lecture_title": "Periodate Cleavage, Retrosynthesis, and Green Chemistry",
+                    "lecture_url": "https://www.youtube.com/watch?v=xrLxWvCmzXo&list=PLB572BA3ED0F700F1&index=31&t=0s"
+                },
+                {
+                    "lecture_id": "31",
+                    "lecture_title": "Measuring Bond Energies: Guest Lecture by Prof. G. Barney Ellison",
+                    "lecture_url": "https://www.youtube.com/watch?v=0bPG7JnMROs&list=PLB572BA3ED0F700F1&index=32&t=0s"
+                },
+                {
+                    "lecture_id": "32",
+                    "lecture_title": "Green Chemistry. Acids and Acid Derivatives",
+                    "lecture_url": "https://www.youtube.com/watch?v=KgSYGm32WkQ&list=PLB572BA3ED0F700F1&index=33&t=0s"
+                },
+                {
+                    "lecture_id": "33",
+                    "lecture_title": "Acids and Acid Derivatives",
+                    "lecture_url": "https://www.youtube.com/watch?v=VP4lb4HSL98&list=PLB572BA3ED0F700F1&index=34&t=0s"
+                },
+                {
+                    "lecture_id": "34",
+                    "lecture_title": "Acyl Insertions and [gr]α-Reactivity",
+                    "lecture_url": "https://www.youtube.com/watch?v=Xb4CwzP-Hdk&list=PLB572BA3ED0F700F1&index=35&t=0s"
+                },
+                {
+                    "lecture_id": "35",
+                    "lecture_title": "[gr]α-Reactivity and Condensation Reactions",
+                    "lecture_url": "https://www.youtube.com/watch?v=DQfUaXLk_sw&list=PLB572BA3ED0F700F1&index=36&t=0s"
+                },
+                {
+                    "lecture_id": "36",
+                    "lecture_title": "Proving the Configuration of Glucose and Synthesizing Two Unnatural Products",
+                    "lecture_url": "https://www.youtube.com/watch?v=9w4pQ6YfJXs&list=PLB572BA3ED0F700F1&index=37&t=0s"
+                },
+                {
+                    "lecture_id": "37",
+                    "lecture_title": "Review: Synthesis of Cortisone",
+                    "lecture_url": "https://www.youtube.com/watch?v=tScvYj3YOyo&list=PLB572BA3ED0F700F1&index=38&t=0s"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Classics",
+            "course_name": "Introduction to Ancient Greek History",
+            "course_page_urls": "https://oyc.yale.edu/classics/clcv-205",
+            "unique_identifier": "6",
+            "course_date": "Fall 2007",
+            "course_department_urls": "https://oyc.yale.edu/classics",
+            "course_number": "CLCV 205",
+            "instructor_name": "Donald Kagan",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=9FrHGAd_yto&t=0s&list=PL023BCE5134243987&index=1",
+                    "lecture_id": "0"
+                },
+                {
+                    "lecture_title": "The Dark Ages",
+                    "lecture_url": "https://www.youtube.com/watch?v=GDNTsdtbKy8&t=0s&list=PL023BCE5134243987&index=2",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "The Dark Ages (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=SdOlGUlqy2c&t=0s&list=PL023BCE5134243987&index=3",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "The Rise of the Polis",
+                    "lecture_url": "https://www.youtube.com/watch?v=R6uBJq4VQ5E&t=0s&list=PL023BCE5134243987&index=4",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "The Rise of the Polis (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=BB-i7hZadLc&t=0s&list=PL023BCE5134243987&index=5",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "The Greek \"Renaissance\" - Colonization and Tyranny",
+                    "lecture_url": "https://www.youtube.com/watch?v=HMs9mema--Q&t=0s&list=PL023BCE5134243987&index=6",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "The Greek \"Renaissance\" - Colonization and Tyranny (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=0Z71ZmfYE08&t=0s&list=PL023BCE5134243987&index=7",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Sparta",
+                    "lecture_url": "https://www.youtube.com/watch?v=TuJ7lGZVUl4&t=0s&list=PL023BCE5134243987&index=8",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Sparta (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=wP1POpsqin4&t=0s&list=PL023BCE5134243987&index=9",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "The Rise of Athens",
+                    "lecture_url": "https://www.youtube.com/watch?v=ymChptV_Io0&t=0s&list=PL023BCE5134243987&index=10",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "The Rise of Athens (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=j6UcwlB9uiE&t=0s&list=PL023BCE5134243987&index=11",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "The Persian Wars",
+                    "lecture_url": "https://www.youtube.com/watch?v=E28PaeQQQC0&t=0s&list=PL023BCE5134243987&index=12",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "The Athenian Empire",
+                    "lecture_url": "https://www.youtube.com/watch?v=EuvkY7l8w-Y&t=0s&list=PL023BCE5134243987&index=13",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "The Athenian Empire (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=TMD_evdcMUA&t=0s&list=PL023BCE5134243987&index=14",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Athenian Democracy",
+                    "lecture_url": "https://www.youtube.com/watch?v=CmupK_shCBY&t=0s&list=PL023BCE5134243987&index=15",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Athenian Democracy (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=o0DWXr6kKPg&t=0s&list=PL023BCE5134243987&index=16",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "The Peloponnesian War, Part I",
+                    "lecture_url": "https://www.youtube.com/watch?v=nMlkvfFJYPo&t=0s&list=PL023BCE5134243987&index=17",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "The Peloponnesian War, Part I (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=W7xOLKKcm2s&t=0s&list=PL023BCE5134243987&index=18",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "The Peloponnesian War, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=c5NcR-fU3QM&t=0s&list=PL023BCE5134243987&index=19",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "The Peloponnesian War, Part II (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=jjunpZz2EhU&t=0s&list=PL023BCE5134243987&index=20",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "The Struggle for Hegemony in Fourth-Century Greece",
+                    "lecture_url": "https://www.youtube.com/watch?v=Zckc79jKOfA&t=0s&list=PL023BCE5134243987&index=21",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "The Struggle for Hegemony in Fourth-Century Greece (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=vgs13OKQNnU&t=0s&list=PL023BCE5134243987&index=22",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Twilight of the Polis",
+                    "lecture_url": "https://www.youtube.com/watch?v=EsjiBYBj_8I&t=0s&list=PL023BCE5134243987&index=23",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Twilight of the Polis (cont.) and Conclusion",
+                    "lecture_url": "https://www.youtube.com/watch?v=cuOxGMoHMMY&t=0s&list=PL023BCE5134243987&index=24",
+                    "lecture_id": "23"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Ecology and Evolutionary Biology",
+            "course_name": "Principles of Evolution, Ecology and Behavior",
+            "course_page_urls": "https://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122",
+            "unique_identifier": "7",
+            "course_date": "Spring 2009",
+            "course_department_urls": "https://oyc.yale.edu/ecology-and-evolutionary-biology",
+            "course_number": "EEB 122",
+            "instructor_name": "Stephen C. Stearns",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "The Nature of Evolution: Selection, Inheritance, and History",
+                    "lecture_url": "https://www.youtube.com/watch?v=VjgHd6HKtvE&index=1&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Basic Transmission Genetics",
+                    "lecture_url": "https://www.youtube.com/watch?v=lRBlEV8QR4A&index=2&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Adaptive Evolution: Natural Selection",
+                    "lecture_url": "https://www.youtube.com/watch?v=WJayMGhZxO0&index=3&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Neutral Evolution: Genetic Drift",
+                    "lecture_url": "https://www.youtube.com/watch?v=zIftg3cM4BM&index=4&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "How Selection Changes the Genetic Composition of Population",
+                    "lecture_url": "https://www.youtube.com/watch?v=s4kiOnUW5a4&index=5&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "The Origin and Maintenance of Genetic Variation",
+                    "lecture_url": "https://www.youtube.com/watch?v=ZzkLYZCzHXk&index=6&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "The Importance of Development in Evolution",
+                    "lecture_url": "https://www.youtube.com/watch?v=2i906HqGTec&index=7&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "The Expression of Variation: Reaction Norms",
+                    "lecture_url": "https://www.youtube.com/watch?v=weX4wjLmjwo&index=8&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "The Evolution of Sex",
+                    "lecture_url": "https://www.youtube.com/watch?v=5eRb4lNTXPE&index=9&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Genomic Conflict",
+                    "lecture_url": "https://www.youtube.com/watch?v=_sWrUoSuFEk&index=10&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Life History Evolution",
+                    "lecture_url": "https://www.youtube.com/watch?v=RXZxfy1klxg&index=11&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Sex Allocation",
+                    "lecture_url": "https://www.youtube.com/watch?v=buOWEw9AhNE&index=12&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Sexual Selection",
+                    "lecture_url": "https://www.youtube.com/watch?v=ScDG8MFr8uw&index=13&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Species and Speciation",
+                    "lecture_url": "https://www.youtube.com/watch?v=zkTvj7vpb6s&index=14&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Phylogeny and Systematics",
+                    "lecture_url": "https://www.youtube.com/watch?v=WEHBWwA4l2s&index=15&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Comparative Methods: Trees, Maps, and Traits",
+                    "lecture_url": "https://www.youtube.com/watch?v=0KOud203GHc&index=16&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Key Events in Evolution",
+                    "lecture_url": "https://www.youtube.com/watch?v=Kd751kV03dE&index=17&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Major Events in the Geological Theatre",
+                    "lecture_url": "https://www.youtube.com/watch?v=K6Dl_Vs-ZkY&index=18&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "The Fossil Record and Life's History",
+                    "lecture_url": "https://www.youtube.com/watch?v=KnFe-YvrS60&index=19&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Coevolution",
+                    "lecture_url": "https://www.youtube.com/watch?v=fUKWpF2sK34&index=20&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Evolutionary Medicine",
+                    "lecture_url": "https://www.youtube.com/watch?v=I4umCVdJfng&index=21&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "The Impact of Evolutionary Thought on the Social Sciences",
+                    "lecture_url": "https://www.youtube.com/watch?v=0We6bZM_wMA&index=22&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "The Logic of Science",
+                    "lecture_url": "https://www.youtube.com/watch?v=rzFweBDef2A&index=23&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Climate and the Distribution of Life on Earth",
+                    "lecture_url": "https://www.youtube.com/watch?v=XGnm5jVSBpY&index=24&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "Interactions with the Physical Environment",
+                    "lecture_url": "https://www.youtube.com/watch?v=VK55uvLukE8&index=25&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_title": "Population Growth: Density Effects",
+                    "lecture_url": "https://www.youtube.com/watch?v=TyRwY9GibJk&index=26&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "26",
+                    "lecture_title": "Interspecific Competition",
+                    "lecture_url": "https://www.youtube.com/watch?v=2Dbr5NF5TBw&index=27&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "27",
+                    "lecture_title": "Ecological Communities",
+                    "lecture_url": "https://www.youtube.com/watch?v=zGjI1pRdYyk&index=28&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "28",
+                    "lecture_title": "Island Biogeography and Invasive Species",
+                    "lecture_url": "https://www.youtube.com/watch?v=oBuFiTItq-0&index=29&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "29",
+                    "lecture_title": "Energy and Matter in Ecosystems",
+                    "lecture_url": "https://www.youtube.com/watch?v=DHSMj_XgfE8&index=30&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "30",
+                    "lecture_title": "Why So Many Species? The Factors Affecting Biodiversity",
+                    "lecture_url": "https://www.youtube.com/watch?v=QjFkTneCfTE&index=31&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "31",
+                    "lecture_title": "Economic Decisions for the Foraging Individual",
+                    "lecture_url": "https://www.youtube.com/watch?v=zSRcJkXF5k8&index=32&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "32",
+                    "lecture_title": "Evolutionary Game Theory: Fighting and Contests",
+                    "lecture_url": "https://www.youtube.com/watch?v=aP25rlgwD54&index=33&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "33",
+                    "lecture_title": "Mating Systems and Parental Care",
+                    "lecture_url": "https://www.youtube.com/watch?v=d1xD95gHJkg&index=34&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "34",
+                    "lecture_title": "Alternative Breeding Strategies",
+                    "lecture_url": "https://www.youtube.com/watch?v=WFRTp7YiFwI&index=35&list=PL6299F3195349CCDA&t=0s"
+                },
+                {
+                    "lecture_id": "35",
+                    "lecture_title": "Selfishness and Altruism",
+                    "lecture_url": "https://www.youtube.com/watch?v=XAfZd1lVZvo&index=36&list=PL6299F3195349CCDA&t=0s"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Economics",
+            "course_name": "Financial Markets (2008)",
+            "course_page_urls": "https://oyc.yale.edu/economics/econ-252-08",
+            "unique_identifier": "8",
+            "course_date": "Spring 2008",
+            "course_department_urls": "https://oyc.yale.edu/economics",
+            "course_number": "ECON 252",
+            "instructor_name": "Robert J. Shiller",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_title": "Finance and Insurance as Powerful Forces in Our Economy and Society",
+                    "lecture_url": "https://www.youtube.com/watch?v=D3aHciiVdvQ&index=1&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "The Universal Principle of Risk Management: Pooling and the Hedging of Risks",
+                    "lecture_url": "https://www.youtube.com/watch?v=WMkD8HKJQCM&index=2&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Technology and Invention in Finance",
+                    "lecture_url": "https://www.youtube.com/watch?v=1nVRW8o7J0w&index=3&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Portfolio Diversification and Supporting Financial Institutions (CAPM Model)",
+                    "lecture_url": "https://www.youtube.com/watch?v=efPKwxZuLKY&index=4&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Insurance: The Archetypal Risk Management Institution",
+                    "lecture_url": "https://www.youtube.com/watch?v=PhLjCfjpYeY&index=5&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Efficient Markets vs. Excess Volatility",
+                    "lecture_url": "https://www.youtube.com/watch?v=pXJb29s3nmY&index=6&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Behavioral Finance: The Role of Psychology",
+                    "lecture_url": "https://www.youtube.com/watch?v=0ZLNbxWH8Lc&index=7&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Human Foibles, Fraud, Manipulation, and Regulation",
+                    "lecture_url": "https://www.youtube.com/watch?v=LEB2k9jJzzc&index=8&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Guest Lecture by David Swensen",
+                    "lecture_url": "https://www.youtube.com/watch?v=AtSlRK0SZoM&index=9&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Debt Markets: Term Structure",
+                    "lecture_url": "https://www.youtube.com/watch?v=kJogkN8Ep80&index=10&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Stocks",
+                    "lecture_url": "https://www.youtube.com/watch?v=Wj1GnT8xlj4&index=11&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Real Estate Finance and its Vulnerability to Crisis",
+                    "lecture_url": "https://www.youtube.com/watch?v=gi2uH3YxohU&index=12&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Banking: Successes and Failures",
+                    "lecture_url": "https://www.youtube.com/watch?v=q5u1xJVXurk&index=13&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Guest Lecture by Andrew Redleaf",
+                    "lecture_url": "https://www.youtube.com/watch?v=DMbhgSBIUfk&index=14&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Guest Lecture by Carl Icahn",
+                    "lecture_url": "https://www.youtube.com/watch?v=HlfgQ4_7EYA&index=15&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "The Evolution and Perfection of Monetary Policy",
+                    "lecture_url": "https://www.youtube.com/watch?v=yTbXFJoZ_04&index=16&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Investment Banking and Secondary Markets",
+                    "lecture_url": "https://www.youtube.com/watch?v=OyE3AIiv9l0&index=17&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Professional Money Managers and Their Influence",
+                    "lecture_url": "https://www.youtube.com/watch?v=_QM-ZzuIMRg&index=18&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Brokerage, ECNs, etc.",
+                    "lecture_url": "https://www.youtube.com/watch?v=otQEdrjHaZU&index=19&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Guest Lecture by Stephen Schwarzman",
+                    "lecture_url": "https://www.youtube.com/watch?v=kTN6T9yiIyA&index=20&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Forwards and Futures",
+                    "lecture_url": "https://www.youtube.com/watch?v=X_rfROvI9j4&index=21&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Stock Index, Oil and Other Futures Markets",
+                    "lecture_url": "https://www.youtube.com/watch?v=-eyCFKl9CuE&index=22&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Options Markets",
+                    "lecture_url": "https://www.youtube.com/watch?v=sQChTusyPJA&index=23&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Making It Work for Real People: The Democratization of Finance",
+                    "lecture_url": "https://www.youtube.com/watch?v=ck-LbFagYD4&index=24&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "Learning from and Responding to Financial Crisis I (Lawrence Summers)",
+                    "lecture_url": "https://www.youtube.com/watch?v=fIB4hy5Hrpc&index=25&list=PL8F7E2591EE283A2E&t=0s"
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_title": "Learning from and Responding to Financial Crisis II (Lawrence Summers)",
+                    "lecture_url": "https://www.youtube.com/watch?v=rpb1i9rL99I&index=26&list=PL8F7E2591EE283A2E&t=0s"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Economics",
+            "course_name": "Financial Markets (2011)",
+            "course_page_urls": "https://oyc.yale.edu/economics/econ-252",
+            "unique_identifier": "9",
+            "course_date": "Spring 2011",
+            "course_department_urls": "https://oyc.yale.edu/economics",
+            "course_number": "ECON 252",
+            "instructor_name": "Robert J. Shiller",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=WQui_3Hpmmc&t=0s&index=1&list=PL8FB14A2200B87185",
+                    "lecture_title": "Introduction and What this Course Will Do for You and Your Purposes",
+                    "lecture_id": "0"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=QbosMr2JVrc&t=0s&index=2&list=PL8FB14A2200B87185",
+                    "lecture_title": "Risk and Financial Crises",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Iij2mpilSJo&t=0s&index=3&list=PL8FB14A2200B87185",
+                    "lecture_title": "Technology and Invention in Finance",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_B_24GUWdSM&t=0s&index=4&list=PL8FB14A2200B87185",
+                    "lecture_title": "Portfolio Diversification and Supporting Financial Institutions",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=qfK9rCDCicE&t=0s&index=5&list=PL8FB14A2200B87185",
+                    "lecture_title": "Insurance, the Archetypal Risk Management Institution, its Opportunities and Vulnerabilities",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=wRdx7kVNQ_E&t=0s&index=6&list=PL8FB14A2200B87185",
+                    "lecture_title": "Guest Speaker David Swensen",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3EzdvkRgToY&t=0s&index=7&list=PL8FB14A2200B87185",
+                    "lecture_title": "Efficient Markets",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3Ir6sbDAx4c&t=0s&index=8&list=PL8FB14A2200B87185",
+                    "lecture_title": "Theory of Debt, Its Proper Role, Leverage Cycles",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=78_GRGjlL6E&t=0s&index=9&list=PL8FB14A2200B87185",
+                    "lecture_title": "Corporate Stocks",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=y_IMH8erqds&t=0s&index=10&list=PL8FB14A2200B87185",
+                    "lecture_title": "Real Estate",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=chSHqogx2CI&t=0s&index=11&list=PL8FB14A2200B87185",
+                    "lecture_title": "Behavioral Finance and the Role of Psychology",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=W2BURItNYmI&t=0s&index=12&list=PL8FB14A2200B87185",
+                    "lecture_title": "Misbehavior, Crises, Regulation and Self Regulation",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=1mDL1fKEVZM&t=0s&index=13&list=PL8FB14A2200B87185",
+                    "lecture_title": "Banks",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=72qUcUAtRZc&t=0s&index=14&list=PL8FB14A2200B87185",
+                    "lecture_title": "Guest Speaker Maurice \"Hank\" Greenberg",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=rxHu93YzHpc&t=0s&index=15&list=PL8FB14A2200B87185",
+                    "lecture_title": "Forward and Futures Markets",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=vucQ8ila814&t=0s&index=16&list=PL8FB14A2200B87185",
+                    "lecture_title": "Guest Speaker Laura Cha",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=VkUEWUxI6u0&t=0s&index=17&list=PL8FB14A2200B87185",
+                    "lecture_title": "Options Markets",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_SpIaGTq0u8&t=0s&index=18&list=PL8FB14A2200B87185",
+                    "lecture_title": "Monetary Policy",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=2yycGEFCNYE&t=0s&index=19&list=PL8FB14A2200B87185",
+                    "lecture_title": "Investment Banks",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=txTaBKZ8qrs&t=0s&index=20&list=PL8FB14A2200B87185",
+                    "lecture_title": "Professional Money Managers and their Influence",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=kAl8DezwLAE&t=0s&index=21&list=PL8FB14A2200B87185",
+                    "lecture_title": "Exchanges, Brokers, Dealers, Clearinghouses",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=YAO0St7mPQM&t=0s&index=22&list=PL8FB14A2200B87185",
+                    "lecture_title": "Public and Non-Profit Finance",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=2_pDTWgJg94&t=0s&index=23&list=PL8FB14A2200B87185",
+                    "lecture_title": "Finding your Purpose in a World of Financial Capitalism",
+                    "lecture_id": "22"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Economics",
+            "course_name": "Financial Theory",
+            "course_page_urls": "https://oyc.yale.edu/economics/econ-251",
+            "unique_identifier": "10",
+            "course_date": "Fall 2009",
+            "course_department_urls": "https://oyc.yale.edu/economics",
+            "course_number": "ECON 251",
+            "instructor_name": "John Geanakoplos",
+            "youtube_content": [
+                {
+                    "lecture_title": "Why Finance?",
+                    "lecture_url": "https://www.youtube.com/watch?v=vTs2IQ8OefQ&t=0s&list=PLEDC55106E0BA18FC&index=1",
+                    "lecture_id": "0"
+                },
+                {
+                    "lecture_title": "Utilities, Endowments, and Equilibrium",
+                    "lecture_url": "https://www.youtube.com/watch?v=VX4eYYmvQ78&t=0s&list=PLEDC55106E0BA18FC&index=2",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Computing Equilibrium",
+                    "lecture_url": "https://www.youtube.com/watch?v=8ITrtcbyTWw&t=0s&list=PLEDC55106E0BA18FC&index=3",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Efficiency, Assets, and Time",
+                    "lecture_url": "https://www.youtube.com/watch?v=b7OUq1hMBbQ&t=0s&list=PLEDC55106E0BA18FC&index=4",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Present Value Prices and the Real Rate of Interest",
+                    "lecture_url": "https://www.youtube.com/watch?v=IVxmtb3zTlk&t=0s&list=PLEDC55106E0BA18FC&index=5",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Irving Fisher's Impatience Theory of Interest",
+                    "lecture_url": "https://www.youtube.com/watch?v=GTzatG_pUmg&t=0s&list=PLEDC55106E0BA18FC&index=6",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Shakespeare's Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance",
+                    "lecture_url": "https://www.youtube.com/watch?v=FJW9eGGH_tg&t=0s&list=PLEDC55106E0BA18FC&index=7",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "How a Long-Lived Institution Figures an Annual Budget. Yield",
+                    "lecture_url": "https://www.youtube.com/watch?v=J8ZqrBvW07s&t=0s&list=PLEDC55106E0BA18FC&index=8",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Yield Curve Arbitrage",
+                    "lecture_url": "https://www.youtube.com/watch?v=5SHYky2ddp4&t=0s&list=PLEDC55106E0BA18FC&index=9",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Dynamic Present Value",
+                    "lecture_url": "https://www.youtube.com/watch?v=Hgj2LL7HetM&t=0s&list=PLEDC55106E0BA18FC&index=10",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Social Security",
+                    "lecture_url": "https://www.youtube.com/watch?v=WMyOjHtFVFU&t=0s&list=PLEDC55106E0BA18FC&index=11",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Overlapping Generations Models of the Economy",
+                    "lecture_url": "https://www.youtube.com/watch?v=ecqWJ_7ERCI&t=0s&list=PLEDC55106E0BA18FC&index=12",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "Demography and Asset Pricing: Will the Stock Market Decline when the Baby Boomers Retire?",
+                    "lecture_url": "https://www.youtube.com/watch?v=cMjAdnQA7xk&t=0s&list=PLEDC55106E0BA18FC&index=13",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "Quantifying Uncertainty and Risk",
+                    "lecture_url": "https://www.youtube.com/watch?v=yvcg_WE5O-o&t=0s&list=PLEDC55106E0BA18FC&index=14",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Uncertainty and the Rational Expectations Hypothesis",
+                    "lecture_url": "https://www.youtube.com/watch?v=RS2DJmyGI8Y&t=0s&list=PLEDC55106E0BA18FC&index=15",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Backward Induction and Optimal Stopping Times",
+                    "lecture_url": "https://www.youtube.com/watch?v=IPNl-jD1vhw&t=0s&list=PLEDC55106E0BA18FC&index=16",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Callable Bonds and the Mortgage Prepayment Option",
+                    "lecture_url": "https://www.youtube.com/watch?v=rH-0KBgQk2E&t=0s&list=PLEDC55106E0BA18FC&index=17",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Modeling Mortgage Prepayments and Valuing Mortgages",
+                    "lecture_url": "https://www.youtube.com/watch?v=qbEsK92KpQI&t=0s&list=PLEDC55106E0BA18FC&index=18",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "History of the Mortgage Market: A Personal Narrative",
+                    "lecture_url": "https://www.youtube.com/watch?v=9pFfOe2d_h0&t=0s&list=PLEDC55106E0BA18FC&index=19",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Dynamic Hedging",
+                    "lecture_url": "https://www.youtube.com/watch?v=gXrCrXuU2_g&t=0s&list=PLEDC55106E0BA18FC&index=20",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Dynamic Hedging and Average Life",
+                    "lecture_url": "https://www.youtube.com/watch?v=DAd7LFM0jK8&t=0s&list=PLEDC55106E0BA18FC&index=21",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Risk Aversion and the Capital Asset Pricing Theorem",
+                    "lecture_url": "https://www.youtube.com/watch?v=aGQsjueE07Y&t=0s&list=PLEDC55106E0BA18FC&index=22",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "The Mutual Fund Theorem and Covariance Pricing Theorems",
+                    "lecture_url": "https://www.youtube.com/watch?v=3PrwVXPCeNI&t=0s&list=PLEDC55106E0BA18FC&index=23",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Risk, Return, and Social Security",
+                    "lecture_url": "https://www.youtube.com/watch?v=tSN9lDnbTNk&t=0s&list=PLEDC55106E0BA18FC&index=24",
+                    "lecture_id": "23"
+                },
+                {
+                    "lecture_title": "The Leverage Cycle and the Subprime Mortgage Crisis",
+                    "lecture_url": "https://www.youtube.com/watch?v=lb5Q1Jur0I0&t=0s&list=PLEDC55106E0BA18FC&index=25",
+                    "lecture_id": "24"
+                },
+                {
+                    "lecture_title": "The Leverage Cycle and Crashes",
+                    "lecture_url": "https://www.youtube.com/watch?v=yenfxh_arkg&t=0s&list=PLEDC55106E0BA18FC&index=26",
+                    "lecture_id": "25"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Economics",
+            "course_name": "Game Theory",
+            "course_page_urls": "https://oyc.yale.edu/economics/econ-159",
+            "unique_identifier": "11",
+            "course_date": "Fall 2007",
+            "course_department_urls": "https://oyc.yale.edu/economics",
+            "course_number": "ECON 159",
+            "instructor_name": "Ben Polak",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=nM3rTU927io&index=1&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "0",
+                    "lecture_title": "Introduction: five first lessons"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=qQ3kFydI_xQ&index=2&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "1",
+                    "lecture_title": "Putting yourselves into other people's shoes"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=kqDu0RVWTYw&index=3&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "2",
+                    "lecture_title": "Iterative deletion and the median-voter theorem"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=YYUPc-cfPyc&index=4&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "3",
+                    "lecture_title": "Best responses in soccer and business partnerships"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Ac2vCCuf8-s&index=5&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "4",
+                    "lecture_title": "Nash equilibrium: bad fashion and bank runs"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7oASpaBdDMs&index=6&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "5",
+                    "lecture_title": "Nash equilibrium: dating and Cournot"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=pMRMYi1SoQs&index=7&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "6",
+                    "lecture_title": "Nash equilibrium: shopping, standing and voting on a line"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=pglQ_E0g8PY&index=8&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "7",
+                    "lecture_title": "Nash equilibrium: location, segregation and randomization"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=unvJofv0wl8&index=9&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "8",
+                    "lecture_title": "Mixed strategies in theory and tennis"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=9b2AMWwMToc&index=10&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "9",
+                    "lecture_title": "Mixed strategies in baseball, dating and paying your taxes"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=er9KvYn4ldk&index=11&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "10",
+                    "lecture_title": "Evolutionary stability: cooperation, mutation, and equilibrium"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=5sK9W0viyu0&index=12&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "11",
+                    "lecture_title": "Evolutionary stability: social convention, aggression, and cycles"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=5tGh7wd2zOU&index=13&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "12",
+                    "lecture_title": "Sequential games: moral hazard, incentives, and hungry lions"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=aIq0E3OmNz4&index=14&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "13",
+                    "lecture_title": "Backward induction: commitment, spies, and first-mover advantages"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Bm8lM73lTmk&index=15&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "14",
+                    "lecture_title": "Backward induction: chess, strategies, and credible threats"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=SE7kP7XZuV4&index=16&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "15",
+                    "lecture_title": "Backward induction: reputation and duels"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=XpEmuxE4qWk&index=17&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "16",
+                    "lecture_title": "Backward induction: ultimatums and bargaining"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=D7aDIZ-KPEU&index=18&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "17",
+                    "lecture_title": "Imperfect information: information sets and sub-game perfection"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hw014me49ks&index=19&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "18",
+                    "lecture_title": "Subgame perfect equilibrium: matchmaking and strategic investments"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=wR8dqbc6mlQ&index=20&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "19",
+                    "lecture_title": "Subgame perfect equilibrium: wars of attrition"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=zNxVVVk5It0&index=21&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "20",
+                    "lecture_title": "Repeated games: cooperation vs. the end game"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NBKr-wK-TEQ&index=22&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "21",
+                    "lecture_title": "Repeated games: cheating, punishment, and outsourcing"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=RWxTJsTbK2w&index=23&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "22",
+                    "lecture_title": "Asymmetric information: silence, signaling and suffering education"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=pJAhnc8VuDo&index=24&list=PL6EF60E1027E1A10B&t=0s",
+                    "lecture_id": "23",
+                    "lecture_title": "Asymmetric information: auctions and the winner's curse"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "English",
+            "course_name": "Introduction to Theory of Literature",
+            "course_page_urls": "https://oyc.yale.edu/english/engl-300",
+            "unique_identifier": "12",
+            "course_date": "Spring 2009",
+            "course_department_urls": "https://oyc.yale.edu/english",
+            "course_number": "ENGL 300",
+            "instructor_name": "Paul H. Fry",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction",
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=4YY4CTSQ8nY&list=PLD00D35CBC75941BD&index=1&t=0s"
+                },
+                {
+                    "lecture_title": "Introduction (cont.)",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=zS22f07a2MY&list=PLD00D35CBC75941BD&index=2&t=0s"
+                },
+                {
+                    "lecture_title": "Ways In and Out of the Hermeneutic Circle",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=iWnA7nZO4EY&list=PLD00D35CBC75941BD&index=3&t=0s"
+                },
+                {
+                    "lecture_title": "Configurative Reading",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=cbJW5nGnoGU&list=PLD00D35CBC75941BD&index=4&t=0s"
+                },
+                {
+                    "lecture_title": "The Idea of the Autonomous Artwork",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=mT7roDHocuc&list=PLD00D35CBC75941BD&index=5&t=0s"
+                },
+                {
+                    "lecture_title": "The New Criticism and Other Western Formalisms",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=47YyqXdrIhU&list=PLD00D35CBC75941BD&index=6&t=0s"
+                },
+                {
+                    "lecture_title": "Russian Formalism",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=11_oVlwfv2M&list=PLD00D35CBC75941BD&index=7&t=0s"
+                },
+                {
+                    "lecture_title": "Semiotics and Structuralism",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=VsMfaIOsT3M&list=PLD00D35CBC75941BD&index=8&t=0s"
+                },
+                {
+                    "lecture_title": "Linguistics and Literature",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=TxnqHukr-Oc&list=PLD00D35CBC75941BD&index=9&t=0s"
+                },
+                {
+                    "lecture_title": "Deconstruction I",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=Np72VPguqeI&list=PLD00D35CBC75941BD&index=10&t=0s"
+                },
+                {
+                    "lecture_title": "Deconstruction II",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=51s-J_Jwr40&list=PLD00D35CBC75941BD&index=11&t=0s"
+                },
+                {
+                    "lecture_title": "Freud and Fiction",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=GnnWbVvnYIs&list=PLD00D35CBC75941BD&index=12&t=0s"
+                },
+                {
+                    "lecture_title": "Jacques Lacan in Theory",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=lkAXsR5WINc&list=PLD00D35CBC75941BD&index=13&t=0s"
+                },
+                {
+                    "lecture_title": "Influence",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=vui_MuI0HU0&list=PLD00D35CBC75941BD&index=14&t=0s"
+                },
+                {
+                    "lecture_title": "The Postmodern Psyche",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=P1M9-xk-BVg&list=PLD00D35CBC75941BD&index=15&t=0s"
+                },
+                {
+                    "lecture_title": "The Social Permeability of Reader and Text",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=YtK18ImMkp8&list=PLD00D35CBC75941BD&index=16&t=0s"
+                },
+                {
+                    "lecture_title": "The Frankfurt School of Critical Theory",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=FFpGf7aPXNA&list=PLD00D35CBC75941BD&index=17&t=0s"
+                },
+                {
+                    "lecture_title": "The Political Unconscious",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=GQvp5z0Zbvo&list=PLD00D35CBC75941BD&index=18&t=0s"
+                },
+                {
+                    "lecture_title": "The New Historicism",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=FZjHEk0FmLw&list=PLD00D35CBC75941BD&index=19&t=0s"
+                },
+                {
+                    "lecture_title": "The Classical Feminist Tradition",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=wxZDA3M2lOM&list=PLD00D35CBC75941BD&index=20&t=0s"
+                },
+                {
+                    "lecture_title": "African-American Criticism",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=wiCWji4cX8s&list=PLD00D35CBC75941BD&index=21&t=0s"
+                },
+                {
+                    "lecture_title": "Post-Colonial Criticism",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=UarXGSuyyrw&list=PLD00D35CBC75941BD&index=22&t=0s"
+                },
+                {
+                    "lecture_title": "Queer Theory and Gender Performativity",
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=7bkFlJfxyF0&list=PLD00D35CBC75941BD&index=23&t=0s"
+                },
+                {
+                    "lecture_title": "The Institutional Construction of Literary Study",
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=RzTsbkX9AjE&list=PLD00D35CBC75941BD&index=24&t=0s"
+                },
+                {
+                    "lecture_title": "The End of Theory?; Neo-Pragmatism",
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=rVOTdheq5eU&list=PLD00D35CBC75941BD&index=25&t=0s"
+                },
+                {
+                    "lecture_title": "Reflections; Who Doesn't Hate Theory Now?",
+                    "lecture_id": "25",
+                    "lecture_url": "https://www.youtube.com/watch?v=FH7wsG1hdKw&list=PLD00D35CBC75941BD&index=26&t=0s"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "English",
+            "course_name": "Milton",
+            "course_page_urls": "https://oyc.yale.edu/english/engl-220",
+            "unique_identifier": "13",
+            "course_date": "Fall 2007",
+            "course_department_urls": "https://oyc.yale.edu/english",
+            "course_number": "ENGL 220",
+            "instructor_name": "John Rogers",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction: Milton, Power, and the Power of Milton",
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=pf91LApkCpU&t=0s&index=1&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "The Infant Cry of God",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=Bz5UrvN4_qs&t=0s&index=2&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Credible Employment",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=VJlhZ4Z6dl0&t=0s&index=3&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Poetry and Virginity",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=kWfMoc2ctfU&t=0s&index=4&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Poetry and Marriage",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=2XBxTNiNZv4&t=0s&index=5&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Lycidas",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=QjzSBRB7RCs&t=0s&index=6&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Lycidas (cont.)",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=Iu6mpdgmHe8&t=0s&index=7&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Areopagitica",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=i7zq31I1wEE&t=0s&index=8&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Book I",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=H62G9yIN5Wk&t=0s&index=9&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "God and Mammon: The Wealth of Literary Memory",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=RyG91mziBoA&t=0s&index=10&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "The Miltonic Smile",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=2zUJzKmXZxc&t=0s&index=11&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "The Blind Prophet",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=zFwh5WecOiM&t=0s&index=12&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Book III",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=-U6pf5v_Fkg&t=0s&index=13&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Book IV",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=00RKB0StzHY&t=0s&index=14&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Books V-VI",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=OO-V9mAqthQ&t=0s&index=15&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Books VII-VIII",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=fQY_Dfm0iLo&t=0s&index=16&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Book IX",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=7ByQMQ5o7AM&t=0s&index=17&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Books IX-X",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=W3jOqlmqoeQ&t=0s&index=18&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Books XI-XII",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=TpF34q9h7qc&t=0s&index=19&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Lost, Books XI-XII (cont.)",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=k8gskiUoYyU&t=0s&index=20&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Regained, Books I-II",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=xbORssb3mz4&t=0s&index=21&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Paradise Regained, Books III-IV",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=FLYpT2-jLU0&t=0s&index=22&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Samson Agonistes",
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=JBYnHy6YxOU&t=0s&index=23&list=PL2103FD9F9D0615B7"
+                },
+                {
+                    "lecture_title": "Samson Agonistes (cont.)",
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=at3F0DFArpQ&t=0s&index=24&list=PL2103FD9F9D0615B7"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "English",
+            "course_name": "Modern Poetry",
+            "course_page_urls": "https://oyc.yale.edu/english/engl-310",
+            "unique_identifier": "14",
+            "course_date": "Spring 2007",
+            "course_department_urls": "https://oyc.yale.edu/english",
+            "course_number": "ENGL 310",
+            "instructor_name": "Langdon Hammer",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction",
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=aG9el6hOjm8&t=0s&index=1&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Robert Frost",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=QR2ZWR5wPHE&t=0s&index=2&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Robert Frost (cont.)",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=PcCdCFwuipg&t=0s&index=3&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "William Butler Yeats",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=ixs5AvKaB4E&t=0s&index=4&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "William Butler Yeats (cont.)",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=9LYarbQDrcQ&t=0s&index=5&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "William Butler Yeats (cont.)",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=fy1CMoi8bZs&t=0s&index=6&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "World War I Poetry in England",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=ggMmDCUYJ1o&t=0s&index=7&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Imagism",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=2gU4F6ePhcM&t=0s&index=8&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Ezra Pound",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=oYQ7dWVI_I8&t=0s&index=9&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "T.S. Eliot",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=eUO-ICj6PHQ&t=0s&index=10&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "T.S. Eliot (cont.)",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=MRUjbmabxU4&t=0s&index=11&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "T.S. Eliot (cont.)",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=jdTT_HyqemE&t=0s&index=12&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Hart Crane",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ckoy_1bl8eI&t=0s&index=13&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Hart Crane (cont.)",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=5pIi0iBFRaE&t=0s&index=14&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Langston Hughes",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=hT_1GOAVLuw&t=0s&index=15&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "William Carlos Williams",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=vQBRdrFkrsw&t=0s&index=16&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Marianne Moore",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=FSB1Xw0ueWo&t=0s&index=17&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Marianne Moore (cont.)",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=_z3uJOKni1A&t=0s&index=18&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Wallace Stevens",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=fRsr_H-ZVRc&t=0s&index=19&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Wallace Stevens (cont.)",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=n2uolt9xNP8&t=0s&index=20&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Wallace Stevens (cont.)",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=UBUoleSuP1Y&t=0s&index=21&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "W. H. Auden",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=LcRhInARHFs&t=0s&index=22&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "W. H. Auden (cont.)",
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=Pkw89euIntE&t=0s&index=23&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Elizabeth Bishop",
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=bgv6mVHrXMs&t=0s&index=24&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                },
+                {
+                    "lecture_title": "Elizabeth Bishop (cont.)",
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=5nHuteLJE5M&t=0s&index=25&list=PLh9mgdi4rNewA25FVJ-lawQ-yr-alF58z"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "English",
+            "course_name": "The American Novel Since 1945",
+            "course_page_urls": "https://oyc.yale.edu/english/engl-291",
+            "unique_identifier": "15",
+            "course_date": "Spring 2008",
+            "course_department_urls": "https://oyc.yale.edu/english",
+            "course_number": "ENGL 291",
+            "instructor_name": "Amy Hungerford",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=TyVAU5iGe0k&t=0s&list=PLE33BCD966FF96F23&index=1",
+                    "lecture_id": "0",
+                    "lecture_title": "Introductions"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Twb_APQpzkk&t=0s&list=PLE33BCD966FF96F23&index=2",
+                    "lecture_id": "1",
+                    "lecture_title": "Richard Wright, Black Boy"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=PjplQUPhES4&t=0s&list=PLE33BCD966FF96F23&index=3",
+                    "lecture_id": "2",
+                    "lecture_title": "Flannery O'Connor, Wise Blood"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=COzAb8FyIis&t=0s&list=PLE33BCD966FF96F23&index=4",
+                    "lecture_id": "3",
+                    "lecture_title": "Flannery O'Connor, Wise Blood (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Z_8toD2CFlg&t=0s&list=PLE33BCD966FF96F23&index=5",
+                    "lecture_id": "4",
+                    "lecture_title": "Vladimir Nabokov, Lolita"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=QPnxLNFzA8s&t=0s&list=PLE33BCD966FF96F23&index=6",
+                    "lecture_id": "5",
+                    "lecture_title": "Guest Lecture by Andrew Goldstone"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=YZyIQM073rc&t=0s&list=PLE33BCD966FF96F23&index=7",
+                    "lecture_id": "6",
+                    "lecture_title": "Vladimir Nabokov, Lolita (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=4kgGrgF3JhQ&t=0s&list=PLE33BCD966FF96F23&index=8",
+                    "lecture_id": "7",
+                    "lecture_title": "Jack Kerouac, On the Road"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=inFtwnp0R0g&t=0s&list=PLE33BCD966FF96F23&index=9",
+                    "lecture_id": "8",
+                    "lecture_title": "Jack Kerouac, On the Road (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=toql5jGSDBU&t=0s&list=PLE33BCD966FF96F23&index=10",
+                    "lecture_id": "9",
+                    "lecture_title": "J. D. Salinger, Franny and Zooey"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=W8zNyud-wVE&t=0s&list=PLE33BCD966FF96F23&index=11",
+                    "lecture_id": "10",
+                    "lecture_title": "John Barth, Lost in the Funhouse"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3dtqt0bXb4Y&t=0s&list=PLE33BCD966FF96F23&index=12",
+                    "lecture_id": "11",
+                    "lecture_title": "Thomas Pynchon, The Crying of Lot 49"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7NUCOLCcXCY&t=0s&list=PLE33BCD966FF96F23&index=13",
+                    "lecture_id": "12",
+                    "lecture_title": "Toni Morrison, The Bluest Eye"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=yChx0MAlZbM&t=0s&list=PLE33BCD966FF96F23&index=14",
+                    "lecture_id": "13",
+                    "lecture_title": "Maxine Hong Kingston, The Woman Warrior"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=IAHQ6ekF3GA&t=0s&list=PLE33BCD966FF96F23&index=15",
+                    "lecture_id": "14",
+                    "lecture_title": "Marilynne Robinson, Housekeeping"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=tK9rZKN-xxE&t=0s&list=PLE33BCD966FF96F23&index=16",
+                    "lecture_id": "15",
+                    "lecture_title": "Marilynne Robinson, Housekeeping (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=FgyZ4ia25gg&t=0s&list=PLE33BCD966FF96F23&index=17",
+                    "lecture_id": "16",
+                    "lecture_title": "Cormac McCarthy, Blood Meridian"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7ZFmf4T5L3o&t=0s&list=PLE33BCD966FF96F23&index=18",
+                    "lecture_id": "17",
+                    "lecture_title": "Cormac McCarthy, Blood Meridian (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=BbqL2G_iQ-c&t=0s&list=PLE33BCD966FF96F23&index=19",
+                    "lecture_id": "18",
+                    "lecture_title": "Philip Roth, The Human Stain"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=K3M_WCk553w&t=0s&list=PLE33BCD966FF96F23&index=20",
+                    "lecture_id": "19",
+                    "lecture_title": "Philip Roth, The Human Stain (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_OBXKvzzyuA&t=0s&list=PLE33BCD966FF96F23&index=21",
+                    "lecture_id": "20",
+                    "lecture_title": "Philip Roth, The Human Stain (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=PyVOp_svygc&t=0s&list=PLE33BCD966FF96F23&index=22",
+                    "lecture_id": "21",
+                    "lecture_title": "Edward P. Jones, The Known World"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=VvMS3A5X3i0&t=0s&list=PLE33BCD966FF96F23&index=23",
+                    "lecture_id": "22",
+                    "lecture_title": "Edward P. Jones, The Known World (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=lZlPzwofVds&t=0s&list=PLE33BCD966FF96F23&index=24",
+                    "lecture_id": "23",
+                    "lecture_title": "Students' Choice Novel: Jonathan Safran Foer, Everything is Illuminated"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=P2WzDXfVcf0&t=0s&list=PLE33BCD966FF96F23&index=25",
+                    "lecture_id": "24",
+                    "lecture_title": "Students' Choice Novel: Jonathan Safran Foer, Everything is Illuminated (cont.)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=SzU1T6i7qK0&t=0s&list=PLE33BCD966FF96F23&index=26",
+                    "lecture_id": "25",
+                    "lecture_title": "Review for Final Exam"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Environmental Studies",
+            "course_name": "Environmental Politics and Law",
+            "course_page_urls": "https://oyc.yale.edu/environmental-studies/evst-255",
+            "unique_identifier": "16",
+            "course_date": "Spring 2010",
+            "course_department_urls": "https://oyc.yale.edu/environmental-studies",
+            "course_number": "EVST 255",
+            "instructor_name": "John Wargo",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction to the Course",
+                    "lecture_url": "https://www.youtube.com/watch?v=3DyRdQ_Nih0&t=0s&list=PL84DCD72C5B5DC403&index=1",
+                    "lecture_id": "0"
+                },
+                {
+                    "lecture_title": "Principles & Strategies in Environmental Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=R8BG-MJErSM&t=0s&list=PL84DCD72C5B5DC403&index=2",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Nuclear Experiments",
+                    "lecture_url": "https://www.youtube.com/watch?v=CRuZa_kJlew&t=0s&list=PL84DCD72C5B5DC403&index=3",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Nuclear Secrecy and Ecology",
+                    "lecture_url": "https://www.youtube.com/watch?v=iUaJB7z2yJ0&t=0s&list=PL84DCD72C5B5DC403&index=4",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Preparing for War: NEPA",
+                    "lecture_url": "https://www.youtube.com/watch?v=xm6xTAbMXck&t=0s&list=PL84DCD72C5B5DC403&index=5",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Marine Food-Chains: Mercury",
+                    "lecture_url": "https://www.youtube.com/watch?v=zKS3Ul-kuaw&t=0s&list=PL84DCD72C5B5DC403&index=6",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Site Restoration Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=FMlxKKtd3zE&t=0s&list=PL84DCD72C5B5DC403&index=7",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Chemically Dependent Agriculture",
+                    "lecture_url": "https://www.youtube.com/watch?v=LqcN3bk54mc&t=0s&list=PL84DCD72C5B5DC403&index=8",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Risk and Law: Pesticide Paradigm",
+                    "lecture_url": "https://www.youtube.com/watch?v=gSrHJKUYNxo&t=0s&list=PL84DCD72C5B5DC403&index=9",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Safe Drinking Water: Science and Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=kRDLZQiZz0E&t=0s&list=PL84DCD72C5B5DC403&index=10",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Safety Claims and Free Speech: Preemption and Defamation",
+                    "lecture_url": "https://www.youtube.com/watch?v=22VZxGnAnKk&t=0s&list=PL84DCD72C5B5DC403&index=11",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Air Quality Law: Margins of Safety",
+                    "lecture_url": "https://www.youtube.com/watch?v=XswiS8KN7dw&t=0s&list=PL84DCD72C5B5DC403&index=12",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "Vehicle Emissions and Public Transit",
+                    "lecture_url": "https://www.youtube.com/watch?v=q4AJ5McDhIE&t=0s&list=PL84DCD72C5B5DC403&index=13",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "The Quiet Revolution in Plastics",
+                    "lecture_url": "https://www.youtube.com/watch?v=lIeWf8Oki2A&t=0s&list=PL84DCD72C5B5DC403&index=14",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "The Tobacco Paradigm",
+                    "lecture_url": "https://www.youtube.com/watch?v=CTMDkjd2u9c&t=0s&list=PL84DCD72C5B5DC403&index=15",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Evolution of Tobacco Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=tJz7UEMvrBc&t=0s&list=PL84DCD72C5B5DC403&index=16",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Land Use and Conservation Law: The Adirondack History",
+                    "lecture_url": "https://www.youtube.com/watch?v=8mObWsofBXY&t=0s&list=PL84DCD72C5B5DC403&index=17",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Property Rights and Public Lands Management",
+                    "lecture_url": "https://www.youtube.com/watch?v=Jpxa_41hiX0&t=0s&list=PL84DCD72C5B5DC403&index=18",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Land Use Law and Property Rights",
+                    "lecture_url": "https://www.youtube.com/watch?v=Q5VGZL3xqDI&t=0s&list=PL84DCD72C5B5DC403&index=19",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Managing Coastal Resources in an Era of Climate Change",
+                    "lecture_url": "https://www.youtube.com/watch?v=VQJPzq8aLvU&t=0s&list=PL84DCD72C5B5DC403&index=20",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Certification: Design and Green Architecture",
+                    "lecture_url": "https://www.youtube.com/watch?v=nMF2Sd0rS4w&t=0s&list=PL84DCD72C5B5DC403&index=21",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Past and Future of Nuclear Power",
+                    "lecture_url": "https://www.youtube.com/watch?v=wpDodpl8se4&t=0s&list=PL84DCD72C5B5DC403&index=22",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Renewable Energy Policies",
+                    "lecture_url": "https://www.youtube.com/watch?v=wT_q2YACfwI&t=0s&list=PL84DCD72C5B5DC403&index=23",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Reflection and Lessons",
+                    "lecture_url": "https://www.youtube.com/watch?v=fvbHwDujydM&t=0s&list=PL84DCD72C5B5DC403&index=24",
+                    "lecture_id": "23"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Geology and Geophysics",
+            "course_name": "The Atmosphere, the Ocean, and Environmental Change",
+            "course_page_urls": "https://oyc.yale.edu/geology-and-geophysics/gg-140",
+            "unique_identifier": "17",
+            "course_date": "Fall 2011",
+            "course_department_urls": "https://oyc.yale.edu/geology-and-geophysics",
+            "course_number": "GG 140",
+            "instructor_name": "Ronald B. Smith",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=4Su5pDR2cTs&t=0s&list=PL902AF247F4163F61&index=1",
+                    "lecture_id": "0",
+                    "lecture_title": "Introduction to Atmospheres"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Gie8L8slnSs&t=0s&list=PL902AF247F4163F61&index=2",
+                    "lecture_id": "1",
+                    "lecture_title": "Retaining an Atmosphere"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=0y0lGAeMH9g&t=0s&list=PL902AF247F4163F61&index=3",
+                    "lecture_id": "2",
+                    "lecture_title": "The Perfect Gas Law"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=2G4mQNgOXes&t=0s&list=PL902AF247F4163F61&index=4",
+                    "lecture_id": "3",
+                    "lecture_title": "Vertical Structure of the atmosphere; Residence Time"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3o91dQqSNlI&t=0s&list=PL902AF247F4163F61&index=5",
+                    "lecture_id": "4",
+                    "lecture_title": "Earth Systems Analysis (Tank Experiment)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hJjyCzXUGCQ&t=0s&list=PL902AF247F4163F61&index=6",
+                    "lecture_id": "5",
+                    "lecture_title": "Greenhouse Effect, Habitability"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3vUdXtCbCIw&t=0s&list=PL902AF247F4163F61&index=7",
+                    "lecture_id": "6",
+                    "lecture_title": "Hydrostatic Balance"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=GBhcV2tXq_8&t=0s&list=PL902AF247F4163F61&index=8",
+                    "lecture_id": "7",
+                    "lecture_title": "Horizontal Transport"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=I9MVmRCz9-M&t=0s&list=PL902AF247F4163F61&index=9",
+                    "lecture_id": "8",
+                    "lecture_title": "Water in the Atmosphere I"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=H00k5gMSM9E&t=0s&list=PL902AF247F4163F61&index=10",
+                    "lecture_id": "9",
+                    "lecture_title": "Water in the Atmosphere II"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=QO-zH0Uf17o&t=0s&list=PL902AF247F4163F61&index=11",
+                    "lecture_id": "10",
+                    "lecture_title": "Clouds and Precipitation (cloud chamber experiment)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=VwGGlq2pY8Y&t=0s&list=PL902AF247F4163F61&index=12",
+                    "lecture_id": "11",
+                    "lecture_title": "Circulation of the Atmosphere (Exam I review)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NzlLvJAsZPo&t=0s&list=PL902AF247F4163F61&index=13",
+                    "lecture_id": "12",
+                    "lecture_title": "Global Climate and the Coriolis Force"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=8xPAx5IJbX0&t=0s&list=PL902AF247F4163F61&index=14",
+                    "lecture_id": "13",
+                    "lecture_title": "Coriolis Force and Storms"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=TRbOwnWzsfk&t=0s&list=PL902AF247F4163F61&index=15",
+                    "lecture_id": "14",
+                    "lecture_title": "Convective storms"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Jg81YhJDn_M&t=0s&list=PL902AF247F4163F61&index=16",
+                    "lecture_id": "15",
+                    "lecture_title": "Frontal Cyclones"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=zdCfvUAmuiY&t=0s&list=PL902AF247F4163F61&index=17",
+                    "lecture_id": "16",
+                    "lecture_title": "Seasons and Climate"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Uu0Zcenckss&t=0s&list=PL902AF247F4163F61&index=18",
+                    "lecture_id": "17",
+                    "lecture_title": "Seasons and Climate Classification"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=EN8ynx-R0wY&t=0s&list=PL902AF247F4163F61&index=19",
+                    "lecture_id": "18",
+                    "lecture_title": "Ocean Bathymetry and Water Properties"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=PE_ELrjDe0E&t=0s&list=PL902AF247F4163F61&index=20",
+                    "lecture_id": "19",
+                    "lecture_title": "Ocean Water Density and Atmospheric Forcing"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=gsCAkXmUkCU&t=0s&list=PL902AF247F4163F61&index=21",
+                    "lecture_id": "20",
+                    "lecture_title": "Ocean Currents"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=4b3xQvLHvAo&t=0s&list=PL902AF247F4163F61&index=22",
+                    "lecture_id": "21",
+                    "lecture_title": "Ocean Currents and Productivity"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=bK-n0CeFWtk&t=0s&list=PL902AF247F4163F61&index=23",
+                    "lecture_id": "22",
+                    "lecture_title": "El Ni\u00f1o"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=aLj4Lz79d3c&t=0s&list=PL902AF247F4163F61&index=24",
+                    "lecture_id": "23",
+                    "lecture_title": "Ice in the Climate System"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=F8IK-Ja7qtI&t=0s&list=PL902AF247F4163F61&index=25",
+                    "lecture_id": "24",
+                    "lecture_title": "Ice and climate change"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=GMmE4d_aCXE&t=0s&list=PL902AF247F4163F61&index=26",
+                    "lecture_id": "25",
+                    "lecture_title": "Isotope Evidence for Climate Change"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=v58qQMElT2k&t=0s&list=PL902AF247F4163F61&index=27",
+                    "lecture_id": "26",
+                    "lecture_title": "Global Warming"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=-m1VY8cycsY&t=0s&list=PL902AF247F4163F61&index=28",
+                    "lecture_id": "27",
+                    "lecture_title": "Global Warming (continued)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3r4QpEf3pyc&t=0s&list=PL902AF247F4163F61&index=29",
+                    "lecture_id": "28",
+                    "lecture_title": "Global Warming (continued)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=F2wrDRNRfHk&t=0s&list=PL902AF247F4163F61&index=30",
+                    "lecture_id": "29",
+                    "lecture_title": "Climate Sensitivity and Human Population"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=CZUivMxgT-0&t=0s&list=PL902AF247F4163F61&index=31",
+                    "lecture_id": "30",
+                    "lecture_title": "The Two Ozone Problems"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=3EgVrXrMzgo&t=0s&list=PL902AF247F4163F61&index=32",
+                    "lecture_id": "31",
+                    "lecture_title": "The Ozone Layer"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=yT-Hz7gFmGU&t=0s&list=PL902AF247F4163F61&index=33",
+                    "lecture_id": "32",
+                    "lecture_title": "Energy Resources, Renewable Energy"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=lQuyMgwQqM0&t=0s&list=PL902AF247F4163F61&index=34",
+                    "lecture_id": "33",
+                    "lecture_title": "Renewable Energy"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=nASteiBs54c&t=0s&list=PL902AF247F4163F61&index=35",
+                    "lecture_id": "34",
+                    "lecture_title": "Review and Overview"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NUBUGh7DFm8&t=0s&list=PL902AF247F4163F61&index=36",
+                    "lecture_id": "35",
+                    "lecture_title": "- Quinnipiac River Field Trip"
+                }
+            ]
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "The American Revolution",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-116",
+            "unique_identifier": "18",
+            "course_date": "Spring 2010",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 116",
+            "instructor_name": "Joanne Freeman"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "The Civil War and Reconstruction Era, 1845-1877",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-119",
+            "unique_identifier": "19",
+            "course_date": "Spring 2008",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 119",
+            "instructor_name": "David W. Blight"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "The Early Middle Ages, 284\u20131000",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-210",
+            "unique_identifier": "20",
+            "course_date": "Fall 2011",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 210",
+            "instructor_name": "Paul Freedman"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "European Civilization, 1648-1945",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-202",
+            "unique_identifier": "21",
+            "course_date": "Fall 2008",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 202",
+            "instructor_name": "John Merriman"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "Epidemics in Western Society Since 1600",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-234",
+            "unique_identifier": "22",
+            "course_date": "Spring 2010",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 234",
+            "instructor_name": "Frank Snowden"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-251",
+            "unique_identifier": "23",
+            "course_date": "Fall 2009",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 251",
+            "instructor_name": "Keith E. Wrightson"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History",
+            "course_name": "France Since 1871",
+            "course_page_urls": "https://oyc.yale.edu/history/hist-276",
+            "unique_identifier": "24",
+            "course_date": "Fall 2007",
+            "course_department_urls": "https://oyc.yale.edu/history",
+            "course_number": "HIST 276",
+            "instructor_name": "John Merriman"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "History of Art",
+            "course_name": "Roman Architecture",
+            "course_page_urls": "https://oyc.yale.edu/history-of-art/hsar-252",
+            "unique_identifier": "25",
+            "course_date": "Spring 2009",
+            "course_department_urls": "https://oyc.yale.edu/history-art",
+            "course_number": "HSAR 252",
+            "instructor_name": "Diana E. E. Kleiner"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Italian Language and Literature",
+            "course_name": "Dante in Translation",
+            "course_page_urls": "https://oyc.yale.edu/italian-language-and-literature/ital-310",
+            "unique_identifier": "26",
+            "course_date": "Fall 2008",
+            "course_department_urls": "https://oyc.yale.edu/italian-language-and-literature",
+            "course_number": "ITAL 310",
+            "instructor_name": "Giuseppe Mazzotta"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Molecular, Cellular and Developmental Biology",
+            "course_name": "Global Problems of Population Growth",
+            "course_page_urls": "https://oyc.yale.edu/molecular-cellular-and-developmental-biology/mcdb-150",
+            "unique_identifier": "27",
+            "course_date": "Spring 2009",
+            "course_department_urls": "https://oyc.yale.edu/molecular-cellular-and-developmental-biology",
+            "course_number": "MCDB 150",
+            "instructor_name": "Robert Wyman"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Philosophy",
+            "course_name": "Philosophy and the Science of Human Nature",
+            "course_page_urls": "https://oyc.yale.edu/philosophy/phil-181",
+            "unique_identifier": "28",
+            "course_date": "Spring 2011",
+            "course_department_urls": "https://oyc.yale.edu/philosophy",
+            "course_number": "PHIL 181",
+            "instructor_name": "Tamar Gendler"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Philosophy",
+            "course_name": "Death",
+            "course_page_urls": "https://oyc.yale.edu/death/phil-176",
+            "unique_identifier": "29",
+            "course_date": "Spring 2007",
+            "course_department_urls": "https://oyc.yale.edu/philosophy",
+            "course_number": "PHIL 176",
+            "instructor_name": "Shelly Kagan"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Physics",
+            "course_name": "Fundamentals of Physics I",
+            "course_page_urls": "https://oyc.yale.edu/physics/phys-200",
+            "unique_identifier": "30",
+            "course_date": "Fall 2006",
+            "course_department_urls": "https://oyc.yale.edu/physics",
+            "course_number": "PHYS 200",
+            "instructor_name": "Ramamurti Shankar"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Physics",
+            "course_name": "Fundamentals of Physics II",
+            "course_page_urls": "https://oyc.yale.edu/physics/phys-201",
+            "unique_identifier": "31",
+            "course_date": "Spring 2010",
+            "course_department_urls": "https://oyc.yale.edu/physics",
+            "course_number": "PHYS 201",
+            "instructor_name": "Ramamurti Shankar"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Political Science",
+            "course_name": "Capitalism: Success, Crisis, and Reform",
+            "course_page_urls": "https://oyc.yale.edu/political-science/plsc-270",
+            "unique_identifier": "32",
+            "course_date": "Fall 2009",
+            "course_department_urls": "https://oyc.yale.edu/political-science",
+            "course_number": "PLSC 270",
+            "instructor_name": "Douglas W. Rae"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Political Science",
+            "course_name": "Introduction to Political Philosophy",
+            "course_page_urls": "https://oyc.yale.edu/political-science/plsc-114",
+            "unique_identifier": "33",
+            "course_date": "Fall 2006",
+            "course_department_urls": "https://oyc.yale.edu/political-science",
+            "course_number": "PLSC 114",
+            "instructor_name": "Steven B. Smith"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Psychology",
+            "course_name": "Introduction to Psychology",
+            "course_page_urls": "https://oyc.yale.edu/introduction-psychology/psyc-110",
+            "unique_identifier": "34",
+            "course_date": "Spring 2007",
+            "course_department_urls": "https://oyc.yale.edu/psychology",
+            "course_number": "PSYC 110",
+            "instructor_name": "Paul Bloom"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Psychology",
+            "course_name": "The Psychology, Biology and Politics of Food",
+            "course_page_urls": "https://oyc.yale.edu/psychology/psyc-123",
+            "unique_identifier": "35",
+            "course_date": "Fall 2008",
+            "course_department_urls": "https://oyc.yale.edu/psychology",
+            "course_number": "PSYC 123",
+            "instructor_name": "Kelly D. Brownell"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Religious Studies",
+            "course_name": "Introduction to the New Testament History and Literature",
+            "course_page_urls": "https://oyc.yale.edu/religious-studies/rlst-152",
+            "unique_identifier": "36",
+            "course_date": "Spring 2009",
+            "course_department_urls": "https://oyc.yale.edu/religious-studies",
+            "course_number": "RLST 152",
+            "instructor_name": "Dale B. Martin"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Religious Studies",
+            "course_name": "Introduction to the Old Testament (Hebrew Bible)",
+            "course_page_urls": "https://oyc.yale.edu/religious-studies/rlst-145",
+            "unique_identifier": "37",
+            "course_date": "Fall 2006",
+            "course_department_urls": "https://oyc.yale.edu/religious-studies",
+            "course_number": "RLST 145",
+            "instructor_name": "Christine Hayes"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Sociology",
+            "course_name": "Foundations of Modern Social Theory",
+            "course_page_urls": "https://oyc.yale.edu/sociology/socy-151",
+            "unique_identifier": "38",
+            "course_date": "Fall 2009",
+            "course_department_urls": "https://oyc.yale.edu/sociology",
+            "course_number": "SOCY 151",
+            "instructor_name": "Iv\u00e1n Szel\u00e9nyi"
+        },
+        {
+            "copyright_holder": "Yale",
+            "course_department": "Spanish and Portuguese",
+            "course_name": "Cervantes' Don Quixote",
+            "course_page_urls": "https://oyc.yale.edu/spanish-and-portuguese/span-300",
+            "unique_identifier": "39",
+            "course_date": "Fall 2009",
+            "course_department_urls": "https://oyc.yale.edu/spanish-and-portuguese",
+            "course_number": "SPAN 300",
+            "instructor_name": "Roberto Gonz\u00e1lez Echevarr\u00eda"
+        }
+    ]
+}
