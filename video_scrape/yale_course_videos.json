@@ -2635,7 +2635,7 @@
                 {
                     "lecture_url": "https://www.youtube.com/watch?v=bK-n0CeFWtk&t=0s&list=PL902AF247F4163F61&index=23",
                     "lecture_id": "22",
-                    "lecture_title": "El Ni\u00f1o"
+                    "lecture_title": "El Niño"
                 },
                 {
                     "lecture_url": "https://www.youtube.com/watch?v=aLj4Lz79d3c&t=0s&list=PL902AF247F4163F61&index=24",
@@ -2713,7 +2713,134 @@
             "course_date": "Spring 2010",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 116",
-            "instructor_name": "Joanne Freeman"
+            "instructor_name": "Joanne Freeman",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=shTBSGoYtK0&list=PLDA2BC5E785D495AB&index=1&t=0s",
+                    "lecture_title": "Introduction: Freeman's Top Five Tips for Studying the Revolution"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=8_ltTMQ6Gsg&list=PLDA2BC5E785D495AB&index=2&t=0s",
+                    "lecture_title": "Being a British Colonist"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=h9xzYVDWO0o&list=PLDA2BC5E785D495AB&index=3&t=0s",
+                    "lecture_title": "Being a British American"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=-W4kU1YFSck&list=PLDA2BC5E785D495AB&index=4&t=0s",
+                    "lecture_title": "\"Ever at Variance and Foolishly Jealous\": Intercolonial Relations"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=sbwOop46Dag&list=PLDA2BC5E785D495AB&index=5&t=0s",
+                    "lecture_title": "Outraged Colonials: The Stamp Act Crisis"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=gGRW5nF2Mqs&list=PLDA2BC5E785D495AB&index=6&t=0s",
+                    "lecture_title": "Resistance or Rebellion? (Or, What the Heck is Happening in Boston?)"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=6KK0l_f3lH8&list=PLDA2BC5E785D495AB&index=7&t=0s",
+                    "lecture_title": "Being a Revolutionary"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=akWmZuLRwQA&list=PLDA2BC5E785D495AB&index=8&t=0s",
+                    "lecture_title": "The Logic of Resistance"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=W5j8TsHAzsA&list=PLDA2BC5E785D495AB&index=9&t=0s",
+                    "lecture_title": "Who Were the Loyalists?"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=Dxdqdax4VbQ&list=PLDA2BC5E785D495AB&index=10&t=0s",
+                    "lecture_title": "Common Sense"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=sJU5wUK_loE&list=PLDA2BC5E785D495AB&index=11&t=0s",
+                    "lecture_title": "Independence"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=PqestQ4MKVA&list=PLDA2BC5E785D495AB&index=12&t=0s",
+                    "lecture_title": "Civil War"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=X3bkoDtmuZw&list=PLDA2BC5E785D495AB&index=13&t=0s",
+                    "lecture_title": "Organizing a War"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=ie62PaUevtY&list=PLDA2BC5E785D495AB&index=14&t=0s",
+                    "lecture_title": "Heroes and Villains"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=5oDyFepSjng&list=PLDA2BC5E785D495AB&index=15&t=0s",
+                    "lecture_title": "Citizens and Choices: Experiencing the Revolution in New Haven"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=gsnt3mHXWTY&list=PLDA2BC5E785D495AB&index=16&t=0s",
+                    "lecture_title": "The Importance of George Washington"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=j81FTR63sRs&list=PLDA2BC5E785D495AB&index=17&t=0s",
+                    "lecture_title": "The Logic of a Campaign (or, How in the World Did We Win?)"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=RJlxeqosgVo&list=PLDA2BC5E785D495AB&index=18&t=0s",
+                    "lecture_title": "Fighting the Revolution: The Big Picture"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=fzd06DRvRKA&list=PLDA2BC5E785D495AB&index=19&t=0s",
+                    "lecture_title": "War and Society"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=OVTlyM0-Cc8&list=PLDA2BC5E785D495AB&index=20&t=0s",
+                    "lecture_title": "Confederation"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=m8XitiIIFZE&list=PLDA2BC5E785D495AB&index=21&t=0s",
+                    "lecture_title": "A Union Without Power"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=X3q8xHk7oqk&list=PLDA2BC5E785D495AB&index=22&t=0s",
+                    "lecture_title": "The Road to a Constitutional Convention"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=9PqKRhIKdK8&list=PLDA2BC5E785D495AB&index=23&t=0s",
+                    "lecture_title": "Creating a Constitution"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=3Bo9E-20ApU&list=PLDA2BC5E785D495AB&index=24&t=0s",
+                    "lecture_title": "Creating a Nation"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=RtlB13DleLk&list=PLDA2BC5E785D495AB&index=25&t=0s",
+                    "lecture_title": "Being an American: The Legacy of the Revolution"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2724,18 +2851,267 @@
             "course_date": "Spring 2008",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 119",
-            "instructor_name": "David W. Blight"
+            "instructor_name": "David W. Blight",
+            "youtube_content": [
+                {
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=QXXp1bHd6gI&index=1&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Introductions: Why Does the Civil War Era Have a Hold on American Historical"
+                },
+                {
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=PunB5vPj2sE&index=2&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Southern Society: Slavery, King Cotton, and Antebellum America's \"Peculiar\" Region"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=yRfByLRO5xs&index=3&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "A Southern World View: The Old South and Proslavery Ideology"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=Pd1rB51xCzk&index=4&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "A Northern World View: Yankee Society, Antislavery Ideology and the Abolition Movement"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=QAzP6_NFGc0&index=5&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Telling a Free Story: Fugitive Slaves and the Underground Railroad in Myth and Reality"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=8bzOIn2WVAw&index=6&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Expansion and Slavery: Legacies of the Mexican War and the Compromise of 1850"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=noph6RYyWvg&index=7&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "\"A Hell of a Storm\": The Kansas-Nebraska Act and the Birth  of the Republican Party, 1854-55"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=aVFlkEonxhs&index=8&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Dred Scott, Bleeding Kansas, and the Impending Crisis of the Union, 1855-58"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=j4wCvPwigYw&index=9&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "John Brown's Holy War: Terrorist or Heroic Revolutionary?"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=GscBDjPNBjM&index=10&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "The Election of 1860 and the Secession Crisis"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=zJeyeIPNEiU&index=11&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Slavery and State Rights, Economies and Ways of Life: What Caused the Civil War?"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=mW5tiuRuNm0&index=12&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "\"And the War Came,\" 1861: The Sumter Crisis, Comparative Strategies"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=QYMzSW7BitU&index=13&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Terrible Swift Sword: The Period of Confederate Ascendency, 1861-1862"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=xXzKdOMlkgE&index=14&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Never Call Retreat: Military and Political Turning Points in 1863"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=2YKZ1bI5C44&index=15&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Lincoln, Leadership, and Race: Emancipation as Policy"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=OuSDZbbxy6Q&index=16&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Days of Jubilee: The Meanings of Emancipation and Total War"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=l0eKDsTWPv0&index=17&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Homefronts and Battlefronts: \"Hard War\" and the Social Impact of the Civil War"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=cdkz8BO9qDQ&index=18&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "\"War So Terrible\": Why the Union Won and the Confederacy Lost at Home and Abroad"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=fY7KgbYdaCI&index=19&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "To Appomattox and Beyond: The End of the War and a Search for Meanings"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=4fSZwLr7kLQ&index=20&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Wartime Reconstruction: Imagining the Aftermath and a Second American Republic"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=dw_1aH_H6nc&index=21&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Andrew Johnson and the Radicals: A Contest over the Meaning of Reconstruction"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=-EmHnHEuElk&index=22&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Constitutional Crisis and Impeachment of a President"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=5hUvFTvs9nY&index=23&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Black Reconstruction in the South: The Freedpeople and the Economics of Land and Labor"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=JWnPCrq_oNQ&index=24&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Retreat from Reconstruction: The Grant Era and Paths to \"Southern Redemption\""
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=IYwERxhnwdA&index=25&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "The \"End\" of Reconstruction: Disputed Election of 1876, and the \"Compromise of 1877\""
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_url": "https://www.youtube.com/watch?v=sQOk4h4hhwo&index=26&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Race and Reunion: The Civil War in American Memory"
+                },
+                {
+                    "lecture_id": "26",
+                    "lecture_url": "https://www.youtube.com/watch?v=yesO9SnEQ6Y&index=27&t=0s&list=PL5DD220D6A1282057",
+                    "lecture_title": "Legacies of the Civil War"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
             "course_department": "History",
-            "course_name": "The Early Middle Ages, 284\u20131000",
+            "course_name": "The Early Middle Ages, 284--1000",
             "course_page_urls": "https://oyc.yale.edu/history/hist-210",
             "unique_identifier": "20",
             "course_date": "Fall 2011",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 210",
-            "instructor_name": "Paul Freedman"
+            "instructor_name": "Paul Freedman",
+            "youtube_content": [
+                {
+                    "lecture_title": "Course Introduction: Rome's Greatness and First Crises",
+                    "lecture_id": "0",
+                    "lecture_url": "https://www.youtube.com/watch?v=ZC8JcWVRFp8&index=1&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Crisis of the Third Century and the Diocletianic Reforms",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=2B9b9mUPJik&index=2&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Constantine and the Early Church",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=tcIuAJ-jaSg&index=3&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Christian Roman Empire",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=gzibwdsl_SI&index=4&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "St. Augustine's Confessions",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=KiPJq7-5lH4&index=5&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Transformation of the Roman Empire",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=7_ssRpso9e8&index=6&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Barbarian Kingdoms",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=YAVUS-QUe_c&index=7&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Survival in the East",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=cfXChPJZLZE&index=8&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Reign of Justinian",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=pbN8OTHecuI&index=9&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Clovis and the Franks",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=3uMZVj5b0Qo&index=10&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Frankish Society",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=kNLLrgsAxds&index=11&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Britain and Ireland",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=Roe_auEG31k&index=12&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Monasticism",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=TswDu-EXHYg&index=13&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Mohammed and the Arab Conquests",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=cXF7RkgANNo&index=14&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Islamic Conquests and Civil War",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=TuRtuYgekuE&index=15&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: The Splendor of the Abbasid Period",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=ji8kKMSLEQo&index=16&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: The Crucial Seventh Century",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=afmnB0o8-jI&index=17&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: The Splendor of Byzantium",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=wMrV4qZ0fao&index=18&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: Charlemagne",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=diwsP8eOpvE&index=19&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: Intellectuals and the Court of Charlemagne",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=d5OFmQ-cQJ0&index=20&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "The Early Middle Ages, 284--1000: Crisis of the Carolingians",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=zHAINEybmoA&index=21&list=PL77A337915A76F660&t=0s"
+                },
+                {
+                    "lecture_title": "Vikings / The European Prospect, 1000",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=8a9Sn6k3DCU&index=22&list=PL77A337915A76F660&t=0s"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2746,7 +3122,129 @@
             "course_date": "Fall 2008",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 202",
-            "instructor_name": "John Merriman"
+            "instructor_name": "John Merriman",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=_IgKHHAjV8Y&index=1&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "0",
+                    "lecture_title": "Introduction"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=zeGaZf3vAM0&index=2&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "1",
+                    "lecture_title": "Absolutism and the State"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=-ax_UsqQ3dc&index=3&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "2",
+                    "lecture_title": "Dutch and British Exceptionalism"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=FlKcX3OeJhw&index=4&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "3",
+                    "lecture_title": "Peter the Great"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=INGBS1LIBCA&index=5&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "4",
+                    "lecture_title": "The Enlightenment and the Public Sphere"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=xprWm4fkLnY&index=6&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "5",
+                    "lecture_title": "Maximilien Robespierre and the French Revolution"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=I2JgaYCUuH0&index=7&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "6",
+                    "lecture_title": "Napoleon"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=JX0uusVkJcI&index=8&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "7",
+                    "lecture_title": "Industrial Revolutions"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=zEk1JAkyvj4&index=9&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "8",
+                    "lecture_title": "Middle Classes"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=faOi-xjeMoY&index=10&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "9",
+                    "lecture_title": "Popular Protest"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=rVbdoTgeHqA&index=11&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "10",
+                    "lecture_title": "Why no Revolution in 1848 in Britain"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=fp6C4RrOLdY&index=12&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "11",
+                    "lecture_title": "Nineteenth-Century Cities"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7a6j17VWhBc&index=13&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "12",
+                    "lecture_title": "Nationalism"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hL0L79OaZy8&index=14&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "13",
+                    "lecture_title": "Radicals"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=sUo3ffE1imo&index=15&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "14",
+                    "lecture_title": "Imperialists and Boy Scouts"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=fvFpn5GVdQI&index=16&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "15",
+                    "lecture_title": "The Coming of the Great War"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=be15Wmp9FRE&index=17&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "16",
+                    "lecture_title": "War in the Trenches"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NpH5I6EA1t0&index=18&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "17",
+                    "lecture_title": "Sites of Memory, Sites of Mourning (Guest Lecture by Jay Winters)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=eGFilsLo6OI&index=19&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "18",
+                    "lecture_title": "The Romanovs and the Russian Revolution"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=mLHme-oW-rA&index=20&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "19",
+                    "lecture_title": "Successor States of Eastern Europe"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=FuUZEO7nZnw&index=21&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "20",
+                    "lecture_title": "Stalinism"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=bRSrSml1Hvw&index=22&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "21",
+                    "lecture_title": "Fascists"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Y3G0O3nMB1k&index=23&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "22",
+                    "lecture_title": "Collaboration and Resistance in World War II"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Ix-j4BBoNFg&index=24&list=PL3A8E6CE294860A24&t=0s",
+                    "lecture_id": "23",
+                    "lecture_title": "The Collapse of Communism and Global Challenges"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2757,7 +3255,134 @@
             "course_date": "Spring 2010",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 234",
-            "instructor_name": "Frank Snowden"
+            "instructor_name": "Frank Snowden",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction to the Course",
+                    "lecture_url": "https://www.youtube.com/watch?v=UoWxdlGBVTI&t=0s&index=1&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Classical Views of Disease: Hippocrates, Galen, and Humoralism",
+                    "lecture_url": "https://www.youtube.com/watch?v=QmmHNRpohbw&t=0s&index=2&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Plague (I): Pestilence as Disease",
+                    "lecture_url": "https://www.youtube.com/watch?v=uOAvHjZPRxQ&t=0s&index=3&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Plague (II): Responses and Measures",
+                    "lecture_url": "https://www.youtube.com/watch?v=pnyFz6yDPcs&t=0s&index=4&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Plague (III): Illustrations and Conclusions",
+                    "lecture_url": "https://www.youtube.com/watch?v=0FrYXAXpCz4&t=0s&index=5&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Smallpox (I): 'The Speckled Monster'",
+                    "lecture_url": "https://www.youtube.com/watch?v=F-n3tiekYs8&t=0s&index=6&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Smallpox (II): Jenner, Vaccination, and Eradication",
+                    "lecture_url": "https://www.youtube.com/watch?v=0j65Uz995q4&t=0s&index=7&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Nineteenth-Century Medicine: The Paris School of Medicine",
+                    "lecture_url": "https://www.youtube.com/watch?v=y7YNY4MHBW8&t=0s&index=8&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Asiatic Cholera (I): Personal Reflections",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ag01L0CtlfQ&t=0s&index=9&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Asiatic Cholera (II): Five Pandemics",
+                    "lecture_url": "https://www.youtube.com/watch?v=yzO3Z3O1g2M&t=0s&index=10&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "The Sanitary Movement and the 'Filth Theory of Disease'",
+                    "lecture_url": "https://www.youtube.com/watch?v=gnOMHQXaGzk&t=0s&index=11&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "Syphilis: From the \"Great Pox\" to the Modern Version",
+                    "lecture_url": "https://www.youtube.com/watch?v=7ksQeAYnLV8&t=0s&index=12&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "Contagionism versus Anticontagionsim",
+                    "lecture_url": "https://www.youtube.com/watch?v=H6U_EUn8U6s&t=0s&index=13&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "The Germ Theory of Disease",
+                    "lecture_url": "https://www.youtube.com/watch?v=VQy0tJ1yu9w&t=0s&index=14&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Tropical Medicine as a Discipline",
+                    "lecture_url": "https://www.youtube.com/watch?v=eyQ9Hd1rmV8&t=0s&index=15&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Malaria (I): The Case of Italy",
+                    "lecture_url": "https://www.youtube.com/watch?v=TudMOs2uOGM&t=0s&index=16&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Malaria (II): The Global Challenge",
+                    "lecture_url": "https://www.youtube.com/watch?v=4tC96HdMjYw&t=0s&index=17&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Tuberculosis (I): The Era of Consumption",
+                    "lecture_url": "https://www.youtube.com/watch?v=-73rQw3lX_g&t=0s&index=18&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Tuberculosis (II): After Robert Koch",
+                    "lecture_url": "https://www.youtube.com/watch?v=UpnwNlbBDHQ&t=0s&index=19&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Pandemic Influenza",
+                    "lecture_url": "https://www.youtube.com/watch?v=o7xL3LuQkVo&t=0s&index=20&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "The Tuskegee Experiment",
+                    "lecture_url": "https://www.youtube.com/watch?v=3KL7lcWMkz0&t=0s&index=21&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "AIDS (I)",
+                    "lecture_url": "https://www.youtube.com/watch?v=t4BExQhi0gw&t=0s&index=22&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "AIDS (II)",
+                    "lecture_url": "https://www.youtube.com/watch?v=Y16AOhAuX0Q&t=0s&index=23&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "23"
+                },
+                {
+                    "lecture_title": "Poliomyelitis: Problems of Eradication",
+                    "lecture_url": "https://www.youtube.com/watch?v=aPavy_vfvg0&t=0s&index=24&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "24"
+                },
+                {
+                    "lecture_title": "SARS, Avian Inluenza, and Swine Flu: Lessons and Prospects",
+                    "lecture_url": "https://www.youtube.com/watch?v=RmkQXDi0Vm0&t=0s&index=25&list=PL3AE7B3B6917DE8E6",
+                    "lecture_id": "25"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2768,7 +3393,129 @@
             "course_date": "Fall 2009",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 251",
-            "instructor_name": "Keith E. Wrightson"
+            "instructor_name": "Keith E. Wrightson",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "General Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PL18B9F132DFD967A3&index=1&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "\"The Tree of Commonwealth\": The Social Order in the Sixteenth Century",
+                    "lecture_url": "https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Households: Structures, Priorities, Strategies, Roles",
+                    "lecture_url": "https://www.youtube.com/watch?v=YxjKJ3JgXvc&list=PL18B9F132DFD967A3&index=3&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Communities: Key Institutions and Relationships",
+                    "lecture_url": "https://www.youtube.com/watch?v=f-qdApVXVS0&list=PL18B9F132DFD967A3&index=4&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "\"Countries\" and Nation: Social and Economic Networks and the Urban System",
+                    "lecture_url": "https://www.youtube.com/watch?v=zM6lHNXOvvA&list=PL18B9F132DFD967A3&index=5&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "The Structures of Power",
+                    "lecture_url": "https://www.youtube.com/watch?v=2nfTp0wURtY&list=PL18B9F132DFD967A3&index=6&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Late Medieval Religion and Its Critics",
+                    "lecture_url": "https://www.youtube.com/watch?v=6kf-GsRGb3Y&list=PL18B9F132DFD967A3&index=7&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Reformation and Division, 1530-1558",
+                    "lecture_url": "https://www.youtube.com/watch?v=koJ6wcHU_Po&list=PL18B9F132DFD967A3&index=8&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "\"Commodity\" and \"Commonweal\": Economic and Social Problems, 1520-1560",
+                    "lecture_url": "https://www.youtube.com/watch?v=DPPGtEMQykE&list=PL18B9F132DFD967A3&index=9&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "The Elizabethan Confessional State: Conformity, Papists and Puritans",
+                    "lecture_url": "https://www.youtube.com/watch?v=GPyNc0kd2z4&list=PL18B9F132DFD967A3&index=10&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "The Elizabethan \"Monarchical Republic\": Political Participation",
+                    "lecture_url": "https://www.youtube.com/watch?v=hXU8JOkaNdQ&list=PL18B9F132DFD967A3&index=11&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Economic Expansion, 1560-1640",
+                    "lecture_url": "https://www.youtube.com/watch?v=SxDY3zvU0uo&list=PL18B9F132DFD967A3&index=12&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "A Polarizing Society, 1560-1640",
+                    "lecture_url": "https://www.youtube.com/watch?v=7tY9mQovGu0&list=PL18B9F132DFD967A3&index=13&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Witchcraft and Magic",
+                    "lecture_url": "https://www.youtube.com/watch?v=1rHSu2oDZXE&list=PL18B9F132DFD967A3&index=14&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Crime and the Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=X6s5q7uDg-E&list=PL18B9F132DFD967A3&index=15&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Popular Protest",
+                    "lecture_url": "https://www.youtube.com/watch?v=iYkKBmnjw_Q&list=PL18B9F132DFD967A3&index=16&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Education and Literacy",
+                    "lecture_url": "https://www.youtube.com/watch?v=EVOsJ8g4ACE&list=PL18B9F132DFD967A3&index=17&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Street Wars of Religion: Puritans and Arminians",
+                    "lecture_url": "https://www.youtube.com/watch?v=zh-F7Xtc8Wg&list=PL18B9F132DFD967A3&index=18&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Crown and Political Nation, 1604-1640",
+                    "lecture_url": "https://www.youtube.com/watch?v=5X02qTmUrKI&list=PL18B9F132DFD967A3&index=19&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Constitutional Revolution and Civil War, 1640-1646",
+                    "lecture_url": "https://www.youtube.com/watch?v=qPwuul8J-Os&list=PL18B9F132DFD967A3&index=20&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Regicide and Republic, 1647-1660",
+                    "lecture_url": "https://www.youtube.com/watch?v=v500uw9qnDU&list=PL18B9F132DFD967A3&index=21&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "An Unsettled Settlement: The Restoration Era, 1660-1688",
+                    "lecture_url": "https://www.youtube.com/watch?v=ceFidZi9ge4&list=PL18B9F132DFD967A3&index=22&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "England, Britain, and the World: Economic Development, 1660-1720",
+                    "lecture_url": "https://www.youtube.com/watch?v=JFwSNmV6Ijw&list=PL18B9F132DFD967A3&index=23&t=0s"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_title": "Refashioning the State, 1688-1714",
+                    "lecture_url": "https://www.youtube.com/watch?v=OTXtUzVKhCI&list=PL18B9F132DFD967A3&index=24&t=0s"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2779,7 +3526,124 @@
             "course_date": "Fall 2007",
             "course_department_urls": "https://oyc.yale.edu/history",
             "course_number": "HIST 276",
-            "instructor_name": "John Merriman"
+            "instructor_name": "John Merriman",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=4vK73R51rwU&index=1&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "1",
+                    "lecture_title": "Introduction"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=clDZl40CJik&index=2&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "2",
+                    "lecture_title": "The Paris Commune and Its Legacy"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=CejVERkBC-Q&index=3&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "3",
+                    "lecture_title": "Centralized State and Republic"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=YEBaGmF9ocA&index=4&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "4",
+                    "lecture_title": "A Nation? Peasants, Language, and French Identity"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=sUt6yKPgBs4&index=5&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "5",
+                    "lecture_title": "The Waning of Religious Authority"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=w6bUnmVwojY&index=6&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "6",
+                    "lecture_title": "Workshop and Factory"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=MNZf75jGe_I&index=7&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "7",
+                    "lecture_title": "Mass Politics and the Political Challenge from the Left"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=vVGsoiE3zQQ&index=8&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "8",
+                    "lecture_title": "Dynamite Club: The Anarchists"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=ONXHQmbH0_M&index=9&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "9",
+                    "lecture_title": "General Boulanger and Captain Dreyfus"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=DD5_p1P95Qo&index=10&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "10",
+                    "lecture_title": "Cafés and the Culture of Drink"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=l7fyza_fTRI&index=11&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "11",
+                    "lecture_title": "Paris and the Belle Époque"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=7An7KPffIp4&index=12&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "12",
+                    "lecture_title": "French Imperialism (Guest Lecture by Charles Keith)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=AOvB1e4t9jg&index=13&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "13",
+                    "lecture_title": "The Origins of World War I"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=nd6hBBPWHvg&index=14&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "14",
+                    "lecture_title": "Trench Warfare"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=tZyo7koBa04&index=15&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "15",
+                    "lecture_title": "The Home Front"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=UH-b22742qc&index=16&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "16",
+                    "lecture_title": "The Great War, Grief, and Memory (Guest Lecture by Bruno Cabanes)"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=H4tKz83YpBM&index=17&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "17",
+                    "lecture_title": "The Popular Front"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=j4-BGTJDBY8&index=18&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "18",
+                    "lecture_title": "The Dark Years: Vichy France"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=H5NNaMiXQ-4&index=19&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "19",
+                    "lecture_title": "Resistance"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=96VywckzAGQ&index=20&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "20",
+                    "lecture_title": "Battles For and Against Americanization"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=KhB7ctAG7vE&index=21&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "21",
+                    "lecture_title": "Vietnam and Algeria"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=hPXyKr-6sek&index=22&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "22",
+                    "lecture_title": "Charles De Gaulle"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=pkh_cJ7ol9A&index=23&list=PLE653BF062C136B62&t=0s",
+                    "lecture_id": "23",
+                    "lecture_title": "May 1968"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2790,7 +3654,124 @@
             "course_date": "Spring 2009",
             "course_department_urls": "https://oyc.yale.edu/history-art",
             "course_number": "HSAR 252",
-            "instructor_name": "Diana E. E. Kleiner"
+            "instructor_name": "Diana E. E. Kleiner",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction to Roman Architecture",
+                    "lecture_url": "https://www.youtube.com/watch?v=qd3MJPHaotQ&t=0s&index=1&list=PLBCB3059E45654BCE",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "It Takes a City: The Founding of Rome and the Beginnings of Urbanism in Italy",
+                    "lecture_url": "https://www.youtube.com/watch?v=n1Z57PzuQ1o&t=0s&index=2&list=PLBCB3059E45654BCE",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Technology and Revolution in Roman Architecture",
+                    "lecture_url": "https://www.youtube.com/watch?v=Gsb-3tenNQ4&t=0s&index=3&list=PLBCB3059E45654BCE",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Civic Life Interrupted: Nightmare and Destiny on August 24, A.D. 79",
+                    "lecture_url": "https://www.youtube.com/watch?v=qdeUKFrWbdk&t=0s&index=4&list=PLBCB3059E45654BCE",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Lifestyles of the Rich and Famous: Houses and Villas at Pompeii",
+                    "lecture_url": "https://www.youtube.com/watch?v=aO8lvx--Hv0&t=0s&index=5&list=PLBCB3059E45654BCE",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Habitats at Herculaneum and Early Roman Interior Decoration",
+                    "lecture_url": "https://www.youtube.com/watch?v=P6h4BYEInH8&t=0s&index=6&list=PLBCB3059E45654BCE",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Gilding the Lily: Painting Palaces and Villas in the First Century A.D.",
+                    "lecture_url": "https://www.youtube.com/watch?v=30ca9Wh8aZM&t=0s&index=7&list=PLBCB3059E45654BCE",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Exploring Special Subjects on Pompeian Walls",
+                    "lecture_url": "https://www.youtube.com/watch?v=_lEPUrBdxx8&t=0s&index=8&list=PLBCB3059E45654BCE",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "From Brick to Marble: Augustus Assembles Rome",
+                    "lecture_url": "https://www.youtube.com/watch?v=KBTiRUSNXYA&t=0s&index=9&list=PLBCB3059E45654BCE",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Accessing Afterlife: Tombs of Roman Aristocrats, Freedmen, and Slaves",
+                    "lecture_url": "https://www.youtube.com/watch?v=tFuVayxNWMU&t=0s&index=10&list=PLBCB3059E45654BCE",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Notorious Nero and His Amazing Architectural Legacy",
+                    "lecture_url": "https://www.youtube.com/watch?v=0lbooc2xAZk&t=0s&index=11&list=PLBCB3059E45654BCE",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "The Creation of an Icon: The Colosseum and Contemporary Architecture in Rome",
+                    "lecture_url": "https://www.youtube.com/watch?v=6NrHp425gbM&t=0s&index=12&list=PLBCB3059E45654BCE",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "The Prince and the Palace: Human Made Divine on the Palatine Hill",
+                    "lecture_url": "https://www.youtube.com/watch?v=g3jsai8Wryg&t=0s&index=13&list=PLBCB3059E45654BCE",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "er Topics: Discovering the Roman Provinces and Designing a Roman City",
+                    "lecture_url": "https://www.youtube.com/watch?v=tNbVw5PzGfk&t=0s&index=14&list=PLBCB3059E45654BCE",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "The Mother of All Forums: Civic Architecture in Rome under Trajan",
+                    "lecture_url": "https://www.youtube.com/watch?v=1Nr5zyiiqAc&t=0s&index=15&list=PLBCB3059E45654BCE",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Rome and a Villa: Hadrian's Pantheon and Tivoli Retreat",
+                    "lecture_url": "https://www.youtube.com/watch?v=o4-7bjljoMs&t=0s&index=16&list=PLBCB3059E45654BCE",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "The Roman Way of Life and Death at Ostia, the Port of Rome",
+                    "lecture_url": "https://www.youtube.com/watch?v=8aJO3EfVjyk&t=0s&index=17&list=PLBCB3059E45654BCE",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Bigger Is Better: The Baths of Caracalla and Other Second- and Third-Century Buildings in Rome",
+                    "lecture_url": "https://www.youtube.com/watch?v=zhon2e3vfTo&t=0s&index=18&list=PLBCB3059E45654BCE",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Hometown Boy: Honoring an Emperor's Roots in Roman North Africa",
+                    "lecture_url": "https://www.youtube.com/watch?v=3FNjLDqrRkQ&t=0s&index=19&list=PLBCB3059E45654BCE",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Baroque Extravaganzas: Rock Tombs, Fountains, and Sanctuaries in Jordan, Lebanon, and Libya",
+                    "lecture_url": "https://www.youtube.com/watch?v=XoOhx4i0Ohc&t=0s&index=20&list=PLBCB3059E45654BCE",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Roman Wine in Greek Bottles: The Rebirth of Athens",
+                    "lecture_url": "https://www.youtube.com/watch?v=wRix4L11SyA&t=0s&index=21&list=PLBCB3059E45654BCE",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Making Mini Romes on the Western Frontier",
+                    "lecture_url": "https://www.youtube.com/watch?v=_OTCjTceIAo&t=0s&index=22&list=PLBCB3059E45654BCE",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Rome Redux: The Tetrarchic Renaissance",
+                    "lecture_url": "https://www.youtube.com/watch?v=Y3FFDOUytPs&t=0s&index=23&list=PLBCB3059E45654BCE",
+                    "lecture_id": "23"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2812,7 +3793,124 @@
             "course_date": "Spring 2009",
             "course_department_urls": "https://oyc.yale.edu/molecular-cellular-and-developmental-biology",
             "course_number": "MCDB 150",
-            "instructor_name": "Robert Wyman"
+            "instructor_name": "Robert Wyman",
+            "youtube_content": [
+                {
+                    "lecture_title": "Evolution of Sex and Reproductive Strategies",
+                    "lecture_url": "https://www.youtube.com/watch?v=mzdqyXtPbbE&index=1&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Sex and Violence Among the Apes",
+                    "lecture_url": "https://www.youtube.com/watch?v=6ckinOhdtDw&index=2&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "From Ape to Human",
+                    "lecture_url": "https://www.youtube.com/watch?v=ZlKJccM_ZUA&index=3&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "When Humans Were Scarce",
+                    "lecture_url": "https://www.youtube.com/watch?v=42jVI5ZH3AI&index=4&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Why Is Africa Different?",
+                    "lecture_url": "https://www.youtube.com/watch?v=mbzHsZ6pd0A&index=5&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Malthusian Times",
+                    "lecture_url": "https://www.youtube.com/watch?v=Dcy9h27vHfQ&index=6&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Demographic Transition in Europe; Mortality Decline",
+                    "lecture_url": "https://www.youtube.com/watch?v=-ZYU7l-At8s&index=7&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Demographic Transition in Europe; Fertility Decline",
+                    "lecture_url": "https://www.youtube.com/watch?v=8kkjQDqNs9U&index=8&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Demographic Transition in Europe",
+                    "lecture_url": "https://www.youtube.com/watch?v=-Sl7rOzb6Bk&index=9&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Quantitative Aspects",
+                    "lecture_url": "https://www.youtube.com/watch?v=_A_3wxwJLDk&index=10&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Low Fertility in Developed Countries (Guest Lecture by Michael Teitelbaum)",
+                    "lecture_url": "https://www.youtube.com/watch?v=NUxzHOM2NmQ&index=11&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "Human and Environmental Impacts",
+                    "lecture_url": "https://www.youtube.com/watch?v=AdKFPE1h9xA&index=12&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "Fertility Attitudes and Practices",
+                    "lecture_url": "https://www.youtube.com/watch?v=fWxeAOtJ6qE&index=13&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Demographic Transition in Developing Countries",
+                    "lecture_url": "https://www.youtube.com/watch?v=MY0dz4Yf7Bs&index=14&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Female Disadvantage",
+                    "lecture_url": "https://www.youtube.com/watch?v=UTNyAV3YUbI&index=15&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Population in Traditional China",
+                    "lecture_url": "https://www.youtube.com/watch?v=Y4pwqWNdIfE&index=16&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Population in Modern China",
+                    "lecture_url": "https://www.youtube.com/watch?v=5HPv9P7DiVw&index=17&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Economic Impact of Population Growth",
+                    "lecture_url": "https://www.youtube.com/watch?v=JSXUrNZJKiI&index=18&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Economic Motivations for Fertility",
+                    "lecture_url": "https://www.youtube.com/watch?v=GgNDFgw6j2A&index=19&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Teen Sexuality and Teen Pregnancy",
+                    "lecture_url": "https://www.youtube.com/watch?v=atj8RIK2edg&index=20&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Global Demography of Abortion",
+                    "lecture_url": "https://www.youtube.com/watch?v=Pm32rHxps3M&index=21&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Media and the Fertility Transition in Developing Countries (Guest Lecture by William Ryerson)",
+                    "lecture_url": "https://www.youtube.com/watch?v=Qg6Sg0UQHhM&index=22&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Biology and History of Abortion",
+                    "lecture_url": "https://www.youtube.com/watch?v=nnbni3d2UTg&index=23&t=0s&list=PLE60A08636F41C128",
+                    "lecture_id": "23"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2823,7 +3921,134 @@
             "course_date": "Spring 2011",
             "course_department_urls": "https://oyc.yale.edu/philosophy",
             "course_number": "PHIL 181",
-            "instructor_name": "Tamar Gendler"
+            "instructor_name": "Tamar Gendler",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=mUHYlyacMmA&index=1&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Introduction"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=xTGc1Pyp-Jc&index=2&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "The Ring of Gyges: Morality and Hypocrisy"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=1ojnSKzI2BE&index=3&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Parts of the Soul I"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=znE88LapbTs&index=4&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Parts of the Soul II"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=q6Kkq7xULSo&index=5&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "The Well-Ordered Soul: Happiness and Harmony"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=eMkE0qZ1lhU&index=6&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "The Disordered Soul: Thémis and PTSD"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=5JMNOKVeA9Q&index=7&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Flourishing and Attachment"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=9EN8gs7D4tY&index=8&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Flourishing and Detachment"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=reZA81S0zfI&index=9&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Virtue and Habit I"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=C8yNxXAm7F4&index=10&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Virtue and Habit II"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=xp3m7e9T72k&index=11&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Weakness of the Will and Procrastination"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=K60AdYPVNWk&index=12&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Utilitarianism and its Critiques"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=rc-vSvT0YuE&index=13&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Deontology"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=rzGksx_yZ6A&index=14&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "The Trolley Problem"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=lIlRWR9vNtE&index=15&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Empirically-informed Responses"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=Zzi-BIaAljY&index=16&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Philosophical Puzzles"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=VkjZHAhKuaI&index=17&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Punishment I"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=f4jWztT5Qj4&index=18&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Punishment II"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=UTUDf7SYl1k&index=19&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Contract & Commonwealth: Thomas Hobbes"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=6w7DrbaVwTc&index=20&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "The Prisoner's Dilemma"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=E-zrvazR39o&index=21&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Equality"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=v95aQqvdkNk&index=22&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Equality II"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=9T2nD6I2DzA&index=23&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Social Structures"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=AOk-5OEtWSU&index=24&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Censorship"
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_url": "https://www.youtube.com/watch?v=gQSWBxWEZNE&index=25&list=PL3F6BC200B2930084&t=0s",
+                    "lecture_title": "Tying up Loose Ends"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2834,7 +4059,134 @@
             "course_date": "Spring 2007",
             "course_department_urls": "https://oyc.yale.edu/philosophy",
             "course_number": "PHIL 176",
-            "instructor_name": "Shelly Kagan"
+            "instructor_name": "Shelly Kagan",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=p2J7wSuFRl8&t=0s&list=PLEA18FAF1AD9047B0&index=1",
+                    "lecture_title": "Course introduction"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=gh-6HyTRNNY&t=0s&list=PLEA18FAF1AD9047B0&index=2",
+                    "lecture_title": "The nature of persons: dualism vs. physicalism"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=GR63MMAi-fs&t=0s&list=PLEA18FAF1AD9047B0&index=3",
+                    "lecture_title": "Arguments for the existence of the soul, Part I"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=AGXYeV2v5fU&t=0s&list=PLEA18FAF1AD9047B0&index=4",
+                    "lecture_title": "Introduction to Plato's Phaedo; Arguments for the existence of the soul, Part II"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=CWVlorPM3rA&t=0s&list=PLEA18FAF1AD9047B0&index=5",
+                    "lecture_title": "Arguments for the existence of the soul, Part III: Free will and near-death experiences"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=M6_J79ZsXko&t=0s&list=PLEA18FAF1AD9047B0&index=6",
+                    "lecture_title": "Arguments for the existence of the soul, Part IV; Plato, Part I"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=B_ES5Y6qchA&t=0s&list=PLEA18FAF1AD9047B0&index=7",
+                    "lecture_title": "Plato, Part II: Arguments for the immortality of the soul"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=oJzGgp-hoKc&t=0s&list=PLEA18FAF1AD9047B0&index=8",
+                    "lecture_title": "Plato, Part III: Arguments for the immortality of the soul (cont.)"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=borZuyV0uk8&t=0s&list=PLEA18FAF1AD9047B0&index=9",
+                    "lecture_title": "Plato, Part IV: Arguments for the immortality of the soul (cont.)"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=00KDsArsQ3A&t=0s&list=PLEA18FAF1AD9047B0&index=10",
+                    "lecture_title": "Personal identity, Part I: Identity across space and time and the soul theory"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=ifIbyexApas&t=0s&list=PLEA18FAF1AD9047B0&index=11",
+                    "lecture_title": "Personal identity, Part II: The body theory and the personality theory"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=rzbJ5nkAVfE&t=0s&list=PLEA18FAF1AD9047B0&index=12",
+                    "lecture_title": "Personal identity, Part III: Objections to the personality theory"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=OGA0Yo-SoPM&t=0s&list=PLEA18FAF1AD9047B0&index=13",
+                    "lecture_title": "Personal identity, Part IV; What matters?"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=0_vqoz05W-0&t=0s&list=PLEA18FAF1AD9047B0&index=14",
+                    "lecture_title": "What matters (cont.); The nature of death, Part I"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=DnYt2hiOR8c&t=0s&list=PLEA18FAF1AD9047B0&index=15",
+                    "lecture_title": "The nature of death (cont.); Believing you will die"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=yJVpJ588ASc&t=0s&list=PLEA18FAF1AD9047B0&index=16",
+                    "lecture_title": "Dying alone; The badness of death, Part I"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=t7knGxL5DaU&t=0s&list=PLEA18FAF1AD9047B0&index=17",
+                    "lecture_title": "The badness of death, Part II: The deprivation account"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=ZzuVMZM4TyI&t=0s&list=PLEA18FAF1AD9047B0&index=18",
+                    "lecture_title": "The badness of death, Part III; Immortality, Part I"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=6vj0LdtAaZA&t=0s&list=PLEA18FAF1AD9047B0&index=19",
+                    "lecture_title": "Immortality Part II; The value of life, Part I"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=f_55cmhHq3g&t=0s&list=PLEA18FAF1AD9047B0&index=20",
+                    "lecture_title": "The value of life, Part II; Other bad aspects of death, Part I"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=0qrx6x3izQw&t=0s&list=PLEA18FAF1AD9047B0&index=21",
+                    "lecture_title": "Other bad aspects of death, Part II"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=-lF-uMIfL6s&t=0s&list=PLEA18FAF1AD9047B0&index=22",
+                    "lecture_title": "Fear of death"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=O8Hu465KL1w&t=0s&list=PLEA18FAF1AD9047B0&index=23",
+                    "lecture_title": "How to live given the certainty of death"
+                },
+                {
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=MajfZIyHP8U&t=0s&list=PLEA18FAF1AD9047B0&index=24",
+                    "lecture_title": "Suicide, Part I: The rationality of suicide"
+                },
+                {
+                    "lecture_id": "25",
+                    "lecture_url": "https://www.youtube.com/watch?v=nKbV8NcyCrk&t=0s&list=PLEA18FAF1AD9047B0&index=25",
+                    "lecture_title": "Suicide, Part II: Deciding under uncertainty"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2845,7 +4197,124 @@
             "course_date": "Fall 2006",
             "course_department_urls": "https://oyc.yale.edu/physics",
             "course_number": "PHYS 200",
-            "instructor_name": "Ramamurti Shankar"
+            "instructor_name": "Ramamurti Shankar",
+            "youtube_content": [
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=KOKnWaLiL8w&t=0s&list=PLFE3074A4CB751B2B&index=1",
+                    "lecture_id": "1",
+                    "lecture_title": "Course Introduction and Newtonian Mechanics"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Hy7ou5R_vjE&t=0s&list=PLFE3074A4CB751B2B&index=2",
+                    "lecture_id": "2",
+                    "lecture_title": "Vectors in Multiple Dimensions"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Ns6GB4Dph9U&t=0s&list=PLFE3074A4CB751B2B&index=3",
+                    "lecture_id": "3",
+                    "lecture_title": "Newton's Laws of Motion"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=9vLSx1Iv06U&t=0s&list=PLFE3074A4CB751B2B&index=4",
+                    "lecture_id": "4",
+                    "lecture_title": "Newton's Laws (cont.) and Inclined Planes"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NlDReZhKEro&t=0s&list=PLFE3074A4CB751B2B&index=5",
+                    "lecture_id": "5",
+                    "lecture_title": "Work-Energy Theorem and Law of Conservation of Energy"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=R74EhX8O0Nw&t=0s&list=PLFE3074A4CB751B2B&index=6",
+                    "lecture_id": "6",
+                    "lecture_title": "Law of Conservation of Energy in Higher Dimensions"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=KTaIPz6oC9U&t=0s&list=PLFE3074A4CB751B2B&index=7",
+                    "lecture_id": "7",
+                    "lecture_title": "Kepler's Laws"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=abF2zesdlVk&t=0s&list=PLFE3074A4CB751B2B&index=8",
+                    "lecture_id": "8",
+                    "lecture_title": "Dynamics of Multiple-Body System and Law of"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=mx2P1_M-7UA&t=0s&list=PLFE3074A4CB751B2B&index=9",
+                    "lecture_id": "9",
+                    "lecture_title": "Rotations, Part I: Dynamics of Rigid Bodies"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=UzrZxpup3rc&t=0s&list=PLFE3074A4CB751B2B&index=10",
+                    "lecture_id": "10",
+                    "lecture_title": "Rotations, Part II: Parallel Axis Theorem"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=NDdBTyVBTgY&t=0s&list=PLFE3074A4CB751B2B&index=11",
+                    "lecture_id": "11",
+                    "lecture_title": "Torque"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=pHfFSQ6pLGU&t=0s&list=PLFE3074A4CB751B2B&index=12",
+                    "lecture_id": "12",
+                    "lecture_title": "Introduction to Relativity"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=202fU9qIVK4&t=0s&list=PLFE3074A4CB751B2B&index=13",
+                    "lecture_id": "13",
+                    "lecture_title": "Lorentz Transformation"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=URC7QU1XCRw&t=0s&list=PLFE3074A4CB751B2B&index=14",
+                    "lecture_id": "14",
+                    "lecture_title": "Introduction to the Four-Vector"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=fYSiTa3xyZc&t=0s&list=PLFE3074A4CB751B2B&index=15",
+                    "lecture_id": "15",
+                    "lecture_title": "Four-Vector in Relativity"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=KzrdZD4EPXY&t=0s&list=PLFE3074A4CB751B2B&index=16",
+                    "lecture_id": "16",
+                    "lecture_title": "The Taylor Series and Other Mathematical Concepts"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=Zz-9UVpYcJI&t=0s&list=PLFE3074A4CB751B2B&index=17",
+                    "lecture_id": "17",
+                    "lecture_title": "Simple Harmonic Motion"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=v_iNt0FPpwU&t=0s&list=PLFE3074A4CB751B2B&index=18",
+                    "lecture_id": "18",
+                    "lecture_title": "Simple Harmonic Motion (cont.) and Introduction to Waves"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=BulqGSY_FlE&t=0s&list=PLFE3074A4CB751B2B&index=19",
+                    "lecture_id": "19",
+                    "lecture_title": "Waves"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=lfXDJKKPGfY&t=0s&list=PLFE3074A4CB751B2B&index=20",
+                    "lecture_id": "20",
+                    "lecture_title": "Fluid Dynamics and Statics and Bernoulli's Equation"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=mb8LqNlHeLY&t=0s&list=PLFE3074A4CB751B2B&index=21",
+                    "lecture_id": "21",
+                    "lecture_title": "Thermodynamics"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=YxGHbnwqd14&t=0s&list=PLFE3074A4CB751B2B&index=22",
+                    "lecture_id": "22",
+                    "lecture_title": "The Boltzmann Constant and First Law of Thermodynamics"
+                },
+                {
+                    "lecture_url": "https://www.youtube.com/watch?v=DeNBWsZHXTE&t=0s&list=PLFE3074A4CB751B2B&index=23",
+                    "lecture_id": "23",
+                    "lecture_title": "The Second Law of Thermodynamics and Carnot's Engine"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2856,7 +4325,129 @@
             "course_date": "Spring 2010",
             "course_department_urls": "https://oyc.yale.edu/physics",
             "course_number": "PHYS 201",
-            "instructor_name": "Ramamurti Shankar"
+            "instructor_name": "Ramamurti Shankar",
+            "youtube_content": [
+                {
+                    "lecture_title": "Electrostatics",
+                    "lecture_url": "https://www.youtube.com/watch?v=NK-BxowMIfg&index=1&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Electric Fields",
+                    "lecture_url": "https://www.youtube.com/watch?v=xnSc_OWpCuY&index=2&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Gauss's Law I",
+                    "lecture_url": "https://www.youtube.com/watch?v=e9c5Wpu4WSI&index=3&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Gauss's Law and Application to Conductors and Insulators",
+                    "lecture_url": "https://www.youtube.com/watch?v=Hlj5vGOSQlY&index=4&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "The Electric Potential and Conservation of Energy",
+                    "lecture_url": "https://www.youtube.com/watch?v=uA_hXjJ2Ts8&index=5&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Capacitors",
+                    "lecture_url": "https://www.youtube.com/watch?v=FLzJ2_DfNX0&index=6&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Resistance",
+                    "lecture_url": "https://www.youtube.com/watch?v=BvHqgbIVulc&index=7&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Circuits and Magnetism I",
+                    "lecture_url": "https://www.youtube.com/watch?v=HXRjSfre6kc&index=8&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Magnetism II",
+                    "lecture_url": "https://www.youtube.com/watch?v=kb97TivvK50&index=9&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Ampere's Law",
+                    "lecture_url": "https://www.youtube.com/watch?v=d8AIoU8vtzo&index=10&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Lenz's and Faraday's Laws",
+                    "lecture_url": "https://www.youtube.com/watch?v=EYYNRubHIno&index=11&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "LCR Circuits\u2014DC Voltage",
+                    "lecture_url": "https://www.youtube.com/watch?v=FYDLG_A2P1I&index=12&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "LCR Circuits\u2014AC Voltage",
+                    "lecture_url": "https://www.youtube.com/watch?v=cS83YUpcEsY&index=13&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Maxwell's Equations and Electromagnetic Waves I",
+                    "lecture_url": "https://www.youtube.com/watch?v=yINtzw63Knc&index=14&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Maxwell's Equations and Electromagnetic Waves II",
+                    "lecture_url": "https://www.youtube.com/watch?v=JJZkjMRcTD4&index=15&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Ray or Geometrical Optics I",
+                    "lecture_url": "https://www.youtube.com/watch?v=bxGgcgSbQBA&index=16&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Ray or Geometrical Optics II",
+                    "lecture_url": "https://www.youtube.com/watch?v=qm4QR_ycRhY&index=17&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Wave Theory of Light",
+                    "lecture_url": "https://www.youtube.com/watch?v=5tKPLfZ9JVQ&index=18&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Quantum Mechanics I: The key experiments and wave-particle duality",
+                    "lecture_url": "https://www.youtube.com/watch?v=uK2eFv7ne_Q&index=19&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Quantum Mechanics II",
+                    "lecture_url": "https://www.youtube.com/watch?v=YPHoHv05_Wo&index=20&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Quantum Mechanics III",
+                    "lecture_url": "https://www.youtube.com/watch?v=VE4MnuhMtb4&index=21&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Quantum mechanics IV: Measurement theory, states of definite energy",
+                    "lecture_url": "https://www.youtube.com/watch?v=qiafeDIGoSI&index=22&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Quantum Mechanics V: Particle in a Box",
+                    "lecture_url": "https://www.youtube.com/watch?v=lGKKdLmRNQw&index=23&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "23"
+                },
+                {
+                    "lecture_title": "Quantum Mechanics VI: Time-dependent Schrödinger Equation",
+                    "lecture_url": "https://www.youtube.com/watch?v=Iy6RspNw80E&index=24&list=PLD07B2225BB40E582&t=0s",
+                    "lecture_id": "24"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2867,7 +4458,119 @@
             "course_date": "Fall 2009",
             "course_department_urls": "https://oyc.yale.edu/political-science",
             "course_number": "PLSC 270",
-            "instructor_name": "Douglas W. Rae"
+            "instructor_name": "Douglas W. Rae",
+            "youtube_content": [
+                {
+                    "lecture_title": "Exploding Worlds and Course Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=M3aw2ih626s&list=PL2497FD1251EED4DD&index=1&t=0s",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "Thomas Malthus and Inevitable Poverty",
+                    "lecture_url": "https://www.youtube.com/watch?v=4MArzSSF7WU&list=PL2497FD1251EED4DD&index=2&t=0s",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "Counting the Fingers of Adam Smith's Invisible Hand",
+                    "lecture_url": "https://www.youtube.com/watch?v=3p1sW9aIQ-Y&list=PL2497FD1251EED4DD&index=3&t=0s",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Karl Marx, Joseph Schumpeter, and an Economic System Incapable of Coming to Rest",
+                    "lecture_url": "https://www.youtube.com/watch?v=-pCfJOj8QSo&list=PL2497FD1251EED4DD&index=4&t=0s",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "Property, Freedom, and the Essential Job of Government",
+                    "lecture_url": "https://www.youtube.com/watch?v=yYrhDxApqgg&list=PL2497FD1251EED4DD&index=5&t=0s",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "Rise of the Joint Stock Corporation",
+                    "lecture_url": "https://www.youtube.com/watch?v=yw7xkPeyeIY&list=PL2497FD1251EED4DD&index=6&t=0s",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "Can You Sell a Scheme for Operating on Beating Hearts and Make a Business of It?",
+                    "lecture_url": "https://www.youtube.com/watch?v=eqeOUfon-Ps&list=PL2497FD1251EED4DD&index=7&t=0s",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "Mortal Life Cycle of a Great Technology",
+                    "lecture_url": "https://www.youtube.com/watch?v=Su6XsLoi8ZQ&list=PL2497FD1251EED4DD&index=8&t=0s",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "Guest Lecture by Jim Alexander: Managing the Crooked E",
+                    "lecture_url": "https://www.youtube.com/watch?v=kZuh7_t6xMg&list=PL2497FD1251EED4DD&index=9&t=0s",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "Institutions and Incentives in Mortgages and Mortgage-Backed Securities",
+                    "lecture_url": "https://www.youtube.com/watch?v=lE0Eu19547Q&list=PL2497FD1251EED4DD&index=10&t=0s",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Accountability and Greed in Investment Banking",
+                    "lecture_url": "https://www.youtube.com/watch?v=rhWxN5vXExw&list=PL2497FD1251EED4DD&index=11&t=0s",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "The Mortgage Meltdown in Cleveland",
+                    "lecture_url": "https://www.youtube.com/watch?v=yr2HkVjRHs0&list=PL2497FD1251EED4DD&index=12&t=0s",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "The Political and Judicial Elements of American Capitalism",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ks8ZZvHXu8k&list=PL2497FD1251EED4DD&index=13&t=0s",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Mass Affluence Comes to the Western World",
+                    "lecture_url": "https://www.youtube.com/watch?v=c_V3QIjPCKA&list=PL2497FD1251EED4DD&index=14&t=0s",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Braudel's Bell Jar",
+                    "lecture_url": "https://www.youtube.com/watch?v=Wvpr6Xn09KA&list=PL2497FD1251EED4DD&index=15&t=0s",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "The Case of Mister Balram Halwai",
+                    "lecture_url": "https://www.youtube.com/watch?v=VjBFrNW1JbE&list=PL2497FD1251EED4DD&index=16&t=0s",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Microfinance in South India",
+                    "lecture_url": "https://www.youtube.com/watch?v=KONSG-jdE3k&list=PL2497FD1251EED4DD&index=17&t=0s",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Plight of the Bottom Billion",
+                    "lecture_url": "https://www.youtube.com/watch?v=TwykQyV1hrE&list=PL2497FD1251EED4DD&index=18&t=0s",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "Policy Targets for Capitalist Development",
+                    "lecture_url": "https://www.youtube.com/watch?v=jk7tQJfeaV8&list=PL2497FD1251EED4DD&index=19&t=0s",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "Guest Lecture by Paolo Zanonni, Part I",
+                    "lecture_url": "https://www.youtube.com/watch?v=gw3xeGfM2Rk&list=PL2497FD1251EED4DD&index=20&t=0s",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Guest Lecture by Paolo Zanonni, Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=vRIRgxZEIk4&list=PL2497FD1251EED4DD&index=21&t=0s",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Marrying the Devil in Texas",
+                    "lecture_url": "https://www.youtube.com/watch?v=8zKG-fdjhgU&list=PL2497FD1251EED4DD&index=22&t=0s",
+                    "lecture_id": "22"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2878,7 +4581,124 @@
             "course_date": "Fall 2006",
             "course_department_urls": "https://oyc.yale.edu/political-science",
             "course_number": "PLSC 114",
-            "instructor_name": "Steven B. Smith"
+            "instructor_name": "Steven B. Smith",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Introduction: What is Political Philosophy?",
+                    "lecture_url": "https://www.youtube.com/watch?v=xhm55mIdSuk&index=1&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Socratic Citizenship: Plato's Apology",
+                    "lecture_url": "https://www.youtube.com/watch?v=oFglU_ED4h0&index=2&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Socratic Citizenship: Plato's Crito",
+                    "lecture_url": "https://www.youtube.com/watch?v=PsRexM78_Vk&index=3&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Philosophers and Kings: Plato's Republic, I-II",
+                    "lecture_url": "https://www.youtube.com/watch?v=nVQKbQVc2_w&index=4&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Philosophers and Kings: Plato's Republic, III-IV",
+                    "lecture_url": "https://www.youtube.com/watch?v=2oxMP8_pWLw&index=5&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Philosophers and Kings: Plato's Republic, V",
+                    "lecture_url": "https://www.youtube.com/watch?v=BXthvnZ8ghw&index=6&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "The Mixed Regime and the Rule of Law: Aristotle's Politics, I, III",
+                    "lecture_url": "https://www.youtube.com/watch?v=fy8lwIYCTMA&index=7&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "The Mixed Regime and the Rule of Law: Aristotle's Politics, IV",
+                    "lecture_url": "https://www.youtube.com/watch?v=f7qCDVkrbWk&index=8&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "The Mixed Regime and the Rule of Law: Aristotle's Politics, VII",
+                    "lecture_url": "https://www.youtube.com/watch?v=mKLkb4LDi5M&index=9&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "New Modes and Orders: Machiavelli's The Prince (chaps. 1-12)",
+                    "lecture_url": "https://www.youtube.com/watch?v=u2FANdhTDyI&index=10&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "New Modes and Orders: Machiavelli's The Prince (chaps. 13-26)",
+                    "lecture_url": "https://www.youtube.com/watch?v=bzMXZiR6P7U&index=11&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "The Sovereign State: Hobbes' Leviathan",
+                    "lecture_url": "https://www.youtube.com/watch?v=Y3S1uqgGfB4&index=12&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "The Sovereign State: Hobbes' Leviathan",
+                    "lecture_url": "https://www.youtube.com/watch?v=oE1eU4Ilgdo&index=13&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "The Sovereign State: Hobbes' Leviathan",
+                    "lecture_url": "https://www.youtube.com/watch?v=lyZJ1lDULNw&index=14&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Constitutional Government: Locke's Second Treatise (1-5)",
+                    "lecture_url": "https://www.youtube.com/watch?v=5JXgPDgXJC0&index=15&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Constitutional Government: Locke's Second Treatise (7-12)",
+                    "lecture_url": "https://www.youtube.com/watch?v=MqCtmxHVoqY&index=16&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Constitutional Government: Locke's Second Treatise (13-19)",
+                    "lecture_url": "https://www.youtube.com/watch?v=_zSQ4d1JtDg&index=17&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Democracy and Participation: Rousseau's Discourse",
+                    "lecture_url": "https://www.youtube.com/watch?v=HFY6Kvardnw&index=18&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Democracy and Participation: Rousseau's Discourse",
+                    "lecture_url": "https://www.youtube.com/watch?v=cb3Gd02QlB8&index=19&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Democracy and Participation: Rousseau's Social Contract, I-II",
+                    "lecture_url": "https://www.youtube.com/watch?v=vPwx8-mFvUs&index=20&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Democratic Statecraft: Tocqueville's Democracy in America",
+                    "lecture_url": "https://www.youtube.com/watch?v=z6bfEOnLF5A&index=21&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Democratic Statecraft: Tocqueville's Democracy in America",
+                    "lecture_url": "https://www.youtube.com/watch?v=RtbZesUWMok&index=22&list=PL8D95DEA9B7DFE825&t=0s"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Democratic Statecraft: Tocqueville's Democracy in America",
+                    "lecture_url": "https://www.youtube.com/watch?v=fMXpYEqn-0w&index=23&list=PL8D95DEA9B7DFE825&t=0s"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2889,7 +4709,104 @@
             "course_date": "Spring 2007",
             "course_department_urls": "https://oyc.yale.edu/psychology",
             "course_number": "PSYC 110",
-            "instructor_name": "Paul Bloom"
+            "instructor_name": "Paul Bloom",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=P3FKHH2RzjI&t=0s&list=PL6A08EB4EEFF3E91F&index=1",
+                    "lecture_title": "Introduction"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=vg01Q1BI4WM&t=0s&list=PL6A08EB4EEFF3E91F&index=2",
+                    "lecture_title": "Foundations: This Is Your Brain"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=7emS3ye3cVU&t=0s&list=PL6A08EB4EEFF3E91F&index=3",
+                    "lecture_title": "Foundations: Freud"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=rCKK6r15fro&t=0s&list=PL6A08EB4EEFF3E91F&index=4",
+                    "lecture_title": "Foundations: Skinner"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=eznq75eBy2o&t=0s&list=PL6A08EB4EEFF3E91F&index=5",
+                    "lecture_title": "What Is It Like to Be a Baby: The Development of Thought"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=Uf9tlbMckS0&t=0s&list=PL6A08EB4EEFF3E91F&index=6",
+                    "lecture_title": "How Do We Communicate?: Language in the Brain, Mouth"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=DmWrOUK2zgA&t=0s&list=PL6A08EB4EEFF3E91F&index=7",
+                    "lecture_title": "Conscious of the Present; Conscious of the Past: Language"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=Yuwqr5o58Z0&t=0s&list=PL6A08EB4EEFF3E91F&index=8",
+                    "lecture_title": "Conscious of the Present; Conscious of the Past:"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=kZoBgX8rScg&t=0s&list=PL6A08EB4EEFF3E91F&index=9",
+                    "lecture_title": "Evolution, Emotion, and Reason: Love (Guest Lecture by"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=AMsQfgV07vU&t=0s&list=PL6A08EB4EEFF3E91F&index=10",
+                    "lecture_title": "Evolution, Emotion, and Reason: Evolution and Rationality"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=8UySWKNjw5Y&t=0s&list=PL6A08EB4EEFF3E91F&index=11",
+                    "lecture_title": "Evolution, Emotion, and Reason: Emotions, Part I"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=i5IrSEIPdwk&t=0s&list=PL6A08EB4EEFF3E91F&index=12",
+                    "lecture_title": "Evolution, Emotion, and Reason: Emotions, Part II"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=piDznzrNymE&t=0s&list=PL6A08EB4EEFF3E91F&index=13",
+                    "lecture_title": "Why Are People Different?: Differences"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=RCNgknc7Qv8&t=0s&list=PL6A08EB4EEFF3E91F&index=14",
+                    "lecture_title": "What Motivates Us: Sex"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=xpmESnTeZP8&t=0s&list=PL6A08EB4EEFF3E91F&index=15",
+                    "lecture_title": "A Person in the World of People: Morality"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=jsrB5m3mL-A&t=0s&list=PL6A08EB4EEFF3E91F&index=16",
+                    "lecture_title": "A Person in the World of People: Self and Other, Part I"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=S6OfFaBWtx4&t=0s&list=PL6A08EB4EEFF3E91F&index=17",
+                    "lecture_title": "A Person in the World of People: Self and Other, Part II;"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=rW79ZwDPKsY&t=0s&list=PL6A08EB4EEFF3E91F&index=18",
+                    "lecture_title": "What Happens When Things Go Wrong: Mental Illness, Part I"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=4wtl3q87Rn8&t=0s&list=PL6A08EB4EEFF3E91F&index=19",
+                    "lecture_title": "What Happens When Things Go Wrong: Mental Illness, Part II"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2911,7 +4828,134 @@
             "course_date": "Spring 2009",
             "course_department_urls": "https://oyc.yale.edu/religious-studies",
             "course_number": "RLST 152",
-            "instructor_name": "Dale B. Martin"
+            "instructor_name": "Dale B. Martin",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction: Why Study the New Testament?",
+                    "lecture_url": "https://www.youtube.com/watch?v=dtQ2TS1CiDY&index=1&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "1"
+                },
+                {
+                    "lecture_title": "From Stories to Canon",
+                    "lecture_url": "https://www.youtube.com/watch?v=u72myyXDA74&index=2&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "2"
+                },
+                {
+                    "lecture_title": "The Greco-Roman World",
+                    "lecture_url": "https://www.youtube.com/watch?v=Ecpn3bkVvv0&index=3&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "3"
+                },
+                {
+                    "lecture_title": "Judaism in the First Century",
+                    "lecture_url": "https://www.youtube.com/watch?v=7QIBB7gXHKc&index=4&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "4"
+                },
+                {
+                    "lecture_title": "The New Testament as History",
+                    "lecture_url": "https://www.youtube.com/watch?v=BQaOlxhg8xg&index=5&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "5"
+                },
+                {
+                    "lecture_title": "The Gospel of Mark",
+                    "lecture_url": "https://www.youtube.com/watch?v=yd5sXfFboxA&index=6&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "6"
+                },
+                {
+                    "lecture_title": "The Gospel of Matthew",
+                    "lecture_url": "https://www.youtube.com/watch?v=ezG4in_i9z4&index=7&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "7"
+                },
+                {
+                    "lecture_title": "The Gospel of Thomas",
+                    "lecture_url": "https://www.youtube.com/watch?v=Oxi5-6LdSpE&index=8&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "8"
+                },
+                {
+                    "lecture_title": "The Gospel of Luke",
+                    "lecture_url": "https://www.youtube.com/watch?v=lPhiVT53JP0&index=9&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "9"
+                },
+                {
+                    "lecture_title": "The Acts of the Apostles",
+                    "lecture_url": "https://www.youtube.com/watch?v=IvgCQG_BqEM&index=10&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "10"
+                },
+                {
+                    "lecture_title": "Johannine Christianity: The Gospel",
+                    "lecture_url": "https://www.youtube.com/watch?v=71fOqLomzIk&index=11&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "11"
+                },
+                {
+                    "lecture_title": "Johannine Christianity: The Letters",
+                    "lecture_url": "https://www.youtube.com/watch?v=F82JssUTYzg&index=12&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "12"
+                },
+                {
+                    "lecture_title": "The Historical Jesus",
+                    "lecture_url": "https://www.youtube.com/watch?v=d_dOhg-Fpu0&index=13&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "13"
+                },
+                {
+                    "lecture_title": "Paul as Missionary",
+                    "lecture_url": "https://www.youtube.com/watch?v=3V8NeoY2qB4&index=14&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "14"
+                },
+                {
+                    "lecture_title": "Paul as Pastor",
+                    "lecture_url": "https://www.youtube.com/watch?v=pMVatCd_1xM&index=15&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "15"
+                },
+                {
+                    "lecture_title": "Paul as Jewish Theologian",
+                    "lecture_url": "https://www.youtube.com/watch?v=1qCUgkr2ohY&index=16&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "16"
+                },
+                {
+                    "lecture_title": "Paul's Disciples",
+                    "lecture_url": "https://www.youtube.com/watch?v=GaRXCg9PxxA&index=17&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "17"
+                },
+                {
+                    "lecture_title": "Arguing with Paul?",
+                    "lecture_url": "https://www.youtube.com/watch?v=BRWj6j2Dswc&index=18&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "18"
+                },
+                {
+                    "lecture_title": "The \"Household\" Paul: The Pastorals",
+                    "lecture_url": "https://www.youtube.com/watch?v=T_m10CyD-fs&index=19&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "19"
+                },
+                {
+                    "lecture_title": "The \"Anti-household\" Paul: Thecla",
+                    "lecture_url": "https://www.youtube.com/watch?v=Htuls07h3CA&index=20&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "20"
+                },
+                {
+                    "lecture_title": "Interpreting Scripture: Hebrews",
+                    "lecture_url": "https://www.youtube.com/watch?v=a_vA1UeSjSo&index=21&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "21"
+                },
+                {
+                    "lecture_title": "Interpreting Scripture: Medieval Interpretations",
+                    "lecture_url": "https://www.youtube.com/watch?v=HC7-MEwQccE&index=22&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "22"
+                },
+                {
+                    "lecture_title": "Apocalyptic and Resistance",
+                    "lecture_url": "https://www.youtube.com/watch?v=8aBrXam36JE&index=23&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "23"
+                },
+                {
+                    "lecture_title": "Apocalyptic and Accommodation",
+                    "lecture_url": "https://www.youtube.com/watch?v=XJ9Gt_R5a-k&index=24&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "24"
+                },
+                {
+                    "lecture_title": "Ecclesiastical Institutions: Unity, Martyrs, and Bishops",
+                    "lecture_url": "https://www.youtube.com/watch?v=1BTUFjlg4KI&index=25&list=PL279CFA55C51E75E0&t=0s",
+                    "lecture_id": "25"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2922,7 +4966,124 @@
             "course_date": "Fall 2006",
             "course_department_urls": "https://oyc.yale.edu/religious-studies",
             "course_number": "RLST 145",
-            "instructor_name": "Christine Hayes"
+            "instructor_name": "Christine Hayes",
+            "youtube_content": [
+                {
+                    "lecture_title": "1. The Parts of the Whole",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=1&t=0s"
+                },
+                {
+                    "lecture_title": "2. The Hebrew Bible in Its Ancient Near Eastern Setting: Biblical Religion in Context",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=wRPqtGywkCw&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=2&t=0s"
+                },
+                {
+                    "lecture_title": "3. The Hebrew Bible in Its Ancient Near Eastern Setting: Genesis 1-4 in Context",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=ANUD8IK12ms&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=3&t=0s"
+                },
+                {
+                    "lecture_title": "4. Doublets and Contradictions, Seams and Sources",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=GK2PBAG3064&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=4&t=0s"
+                },
+                {
+                    "lecture_title": "5. Critical Approaches to the Bible: Introduction to Genesis 12-50",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=KBSOn0MSrk8&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=5&t=0s"
+                },
+                {
+                    "lecture_title": "6. Biblical Narrative: The Stories of the Patriarchs (Genesis 12-36)",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=O89-OaWMkP0&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=6&t=0s"
+                },
+                {
+                    "lecture_title": "7. Israel in Egypt: Moses and the Beginning of Yahwism (Genesis 37- Exodus 4)",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=h_UmuEBmS5k&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=7&t=0s"
+                },
+                {
+                    "lecture_title": "8. Exodus: From Egypt to Sinai (Exodus 5-24, 32; Numbers)",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=kS17dLuTPd0&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=8&t=0s"
+                },
+                {
+                    "lecture_title": "9. The Priestly Legacy: Cult and Sacrifice, Purity and Holiness in Leviticus and Numbers",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=URMs-17otFE&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=9&t=0s"
+                },
+                {
+                    "lecture_title": "10. Biblical Law: The Three Legal Corpora of JE (Exodus), P (Leviticus and Numbers) and D",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=iJ5qYM24vUA&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=10&t=0s"
+                },
+                {
+                    "lecture_title": "11. On the Steps of Moab: Deuteronomy",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=e5y0_aBvEtI&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=11&t=0s"
+                },
+                {
+                    "lecture_title": "12. The Deuteronomistic History: Life in the Land (Joshua and Judges)",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=v07NFEstPjc&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=12&t=0s"
+                },
+                {
+                    "lecture_title": "13. The Deuteronomistic History: Prophets and Kings (1 and 2 Samuel)",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=9yETqNk0eMc&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=13&t=0s"
+                },
+                {
+                    "lecture_title": "14. The Deuteronomistic History: Response to Catastrophe (1 and 2 Kings)",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=AmNa2ILXlaI&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=14&t=0s"
+                },
+                {
+                    "lecture_title": "15. Hebrew Prophecy: The Non-Literary Prophets",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=zBXCuyF_laE&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=15&t=0s"
+                },
+                {
+                    "lecture_title": "16. Literary Prophecy: Amos",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=YJd0Swp7d9Y&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=16&t=0s"
+                },
+                {
+                    "lecture_title": "17. Literary Prophecy: Hosea and Isaiah",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=fzjskzxXTqk&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=17&t=0s"
+                },
+                {
+                    "lecture_title": "18. Literary Prophecy: Micah, Zephaniah, Nahum and Habbakuk",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=AO0i-7DlnJU&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=18&t=0s"
+                },
+                {
+                    "lecture_title": "19. Literary Prophecy: Perspectives on the Exile (Jeremiah, Ezekiel and 2nd Isaiah)",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=u85pHixyoOI&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=19&t=0s"
+                },
+                {
+                    "lecture_title": "20. Responses to Suffering and Evil: Lamentations and Wisdom Literature",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=RxENRH-v0Xk&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=20&t=0s"
+                },
+                {
+                    "lecture_title": "21. Biblical Poetry: Psalms and Song of Songs",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=WdjRz2b8BZo&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=21&t=0s"
+                },
+                {
+                    "lecture_title": "22. The Restoration: 1 and 2 Chronicles, Ezra and Nehemiah",
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=zDYJwHW1lsM&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=22&t=0s"
+                },
+                {
+                    "lecture_title": "23. Visions of the End: Daniel and Apocalyptic Literature",
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=5J6q1J09oNw&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi&index=23&t=0s"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2933,7 +5094,129 @@
             "course_date": "Fall 2009",
             "course_department_urls": "https://oyc.yale.edu/sociology",
             "course_number": "SOCY 151",
-            "instructor_name": "Iv\u00e1n Szel\u00e9nyi"
+            "instructor_name": "Iván Szelényi",
+            "youtube_content": [
+                {
+                    "lecture_title": "Introduction",
+                    "lecture_id": "1",
+                    "lecture_url": "https://www.youtube.com/watch?v=hd33BahdAjs&index=1&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Hobbes: Authority, Human Rights and Social Order",
+                    "lecture_id": "2",
+                    "lecture_url": "https://www.youtube.com/watch?v=ISmzEqx_9RU&index=2&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Locke: Equality, Freedom, Property and the Right to Dissent",
+                    "lecture_id": "3",
+                    "lecture_url": "https://www.youtube.com/watch?v=T7dTgWL3ajM&index=3&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "The Division of Powers- Montesquieu",
+                    "lecture_id": "4",
+                    "lecture_url": "https://www.youtube.com/watch?v=5VfPPRDcZAg&index=4&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Rousseau: Popular Sovereignty and General Will",
+                    "lecture_id": "5",
+                    "lecture_url": "https://www.youtube.com/watch?v=Czdv8xcPpuU&index=5&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Rousseau on State of Nature and Education",
+                    "lecture_id": "6",
+                    "lecture_url": "https://www.youtube.com/watch?v=3-oauyMhAxw&index=6&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Utilitarianism and Liberty, John Stuart Mill",
+                    "lecture_id": "7",
+                    "lecture_url": "https://www.youtube.com/watch?v=2lZuWaezTkg&index=7&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Smith: The Invisible Hand",
+                    "lecture_id": "8",
+                    "lecture_url": "https://www.youtube.com/watch?v=d_ffla6X4Ps&index=8&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Marx's Theory of Alienation",
+                    "lecture_id": "9",
+                    "lecture_url": "https://www.youtube.com/watch?v=kIlEkbU4rx0&index=9&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Marx's Theory of Historical Materialism (1)",
+                    "lecture_id": "10",
+                    "lecture_url": "https://www.youtube.com/watch?v=Yu8Os4EWBI8&index=10&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Marx's Theory of Historical Materialism (cont.)",
+                    "lecture_id": "11",
+                    "lecture_url": "https://www.youtube.com/watch?v=Mt2-dX_FlNM&index=11&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Marx's Theory of History",
+                    "lecture_id": "12",
+                    "lecture_url": "https://www.youtube.com/watch?v=mmeUYLntZx4&index=12&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Marx's Theory of Class and Exploitation",
+                    "lecture_id": "13",
+                    "lecture_url": "https://www.youtube.com/watch?v=QiPxPHNrIek&index=13&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Nietzsche on Power, Knowledge and Morality",
+                    "lecture_id": "14",
+                    "lecture_url": "https://www.youtube.com/watch?v=ALiZkclxdko&index=14&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Freud on Sexuality and Civilization",
+                    "lecture_id": "15",
+                    "lecture_url": "https://www.youtube.com/watch?v=zjryKz_-L68&index=15&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Weber on Protestantism and Capitalism",
+                    "lecture_id": "16",
+                    "lecture_url": "https://www.youtube.com/watch?v=FWUXoj6kACk&index=16&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Conceptual Foundations of Weber's Theory of Domination",
+                    "lecture_id": "17",
+                    "lecture_url": "https://www.youtube.com/watch?v=9fryN6wKs4w&index=17&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Weber on Traditional Authority",
+                    "lecture_id": "18",
+                    "lecture_url": "https://www.youtube.com/watch?v=x71W_THr_m4&index=18&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Weber on Charismatic Authority",
+                    "lecture_id": "19",
+                    "lecture_url": "https://www.youtube.com/watch?v=wvnamo2sRjU&index=19&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Weber on Legal-Rational Authority",
+                    "lecture_id": "20",
+                    "lecture_url": "https://www.youtube.com/watch?v=MjU7CIGw65I&index=20&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Weber's Theory of Class",
+                    "lecture_id": "21",
+                    "lecture_url": "https://www.youtube.com/watch?v=pfWnumM0He4&index=21&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Durkheim and Types of Social Solidarity",
+                    "lecture_id": "22",
+                    "lecture_url": "https://www.youtube.com/watch?v=wG_gQ8vJ4-E&index=22&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Durkheim's Theory of Anomie",
+                    "lecture_id": "23",
+                    "lecture_url": "https://www.youtube.com/watch?v=HV8xi_CP5SU&index=23&list=PLDF7B08FF8564D1FE&t=0s"
+                },
+                {
+                    "lecture_title": "Durkheim on Suicide",
+                    "lecture_id": "24",
+                    "lecture_url": "https://www.youtube.com/watch?v=-cu29S-jvxQ&index=24&list=PLDF7B08FF8564D1FE&t=0s"
+                }
+            ]
         },
         {
             "copyright_holder": "Yale",
@@ -2944,7 +5227,124 @@
             "course_date": "Fall 2009",
             "course_department_urls": "https://oyc.yale.edu/spanish-and-portuguese",
             "course_number": "SPAN 300",
-            "instructor_name": "Roberto Gonz\u00e1lez Echevarr\u00eda"
+            "instructor_name": "Roberto González Echevarría",
+            "youtube_content": [
+                {
+                    "lecture_id": "1",
+                    "lecture_title": "Introduction",
+                    "lecture_url": "https://www.youtube.com/watch?v=P-D0iXLZWO0&index=1&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "2",
+                    "lecture_title": "Don Quixote, Part I: Front Matter and Chapters I-X",
+                    "lecture_url": "https://www.youtube.com/watch?v=LZkoBeI6gVM&index=2&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "3",
+                    "lecture_title": "Don Quixote, Part I: Chapters I-X (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=9yubdgwR768&index=3&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "4",
+                    "lecture_title": "Don Quixote, Part I: Chapters XI-XX",
+                    "lecture_url": "https://www.youtube.com/watch?v=hHJ9E0EDEAI&index=4&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "5",
+                    "lecture_title": "Don Quixote, Part I: Chapters XI-XX (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=2-6c_jrlIJM&index=5&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "6",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXI-XXVI",
+                    "lecture_url": "https://www.youtube.com/watch?v=P838pia45rI&index=6&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "7",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXI-XXVI (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=oeBh_-N2WRg&index=7&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "8",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXVII-XXXV",
+                    "lecture_url": "https://www.youtube.com/watch?v=NME9CAoM8Ak&index=8&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "9",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXVII-XXXV (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=mZKmfD9frNs&index=9&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "10",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXXVI-LII",
+                    "lecture_url": "https://www.youtube.com/watch?v=o9LTybQmiBs&index=10&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "11",
+                    "lecture_title": "Don Quixote, Part I: Chapters XXXVI-LII (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=pQClkj6g2l4&index=11&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "12",
+                    "lecture_title": "Don Quixote, Introduction to Part II",
+                    "lecture_url": "https://www.youtube.com/watch?v=vhBewIa83tQ&index=12&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "13",
+                    "lecture_title": "Don Quixote, Part II: Front Matter and Chapters I-XI",
+                    "lecture_url": "https://www.youtube.com/watch?v=fWcth8yolo8&index=13&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "14",
+                    "lecture_title": "Don Quixote, Part II: Front Matter and Chapters I-XI (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=AEaOf-zc12I&index=14&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "15",
+                    "lecture_title": "Don Quixote, Part II: Chapters XII-XXI",
+                    "lecture_url": "https://www.youtube.com/watch?v=-YGSzdck-eE&index=15&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "16",
+                    "lecture_title": "Don Quixote, Part II: Chapters XII-XXI (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=wVv6EazS6-Y&index=16&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "17",
+                    "lecture_title": "Don Quixote, Part II: Chapters XXII-XXXV",
+                    "lecture_url": "https://www.youtube.com/watch?v=20OE3mfgt44&index=17&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "18",
+                    "lecture_title": "Don Quixote, Part II: Chapters XXII-XXXV (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=WoRzMD42uiM&index=18&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "19",
+                    "lecture_title": "Don Quixote, Part II: Chapters XXXVI-LIII",
+                    "lecture_url": "https://www.youtube.com/watch?v=Hndbho-c0Ts&index=19&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "20",
+                    "lecture_title": "Don Quixote, Part II: Chapters XXXVI-LIII (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=SuIDuIoN2aM&index=20&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "21",
+                    "lecture_title": "Don Quixote, Part II: Chapters LIV-LXX",
+                    "lecture_url": "https://www.youtube.com/watch?v=3Rmtc8IsU0c&index=21&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "22",
+                    "lecture_title": "Don Quixote, Part II: Chapters LIV-LXX (cont.)",
+                    "lecture_url": "https://www.youtube.com/watch?v=QFnzqmi21ao&index=22&t=0s&list=PL4A35EEAEE3880943"
+                },
+                {
+                    "lecture_id": "23",
+                    "lecture_title": "Don Quixote, Part II: Chapters LXXI-LXXIV",
+                    "lecture_url": "https://www.youtube.com/watch?v=t7ozqNQCKko&index=23&t=0s&list=PL4A35EEAEE3880943"
+                }
+            ]
         }
     ]
 }
