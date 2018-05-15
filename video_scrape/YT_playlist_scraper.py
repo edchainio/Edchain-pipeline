@@ -28,9 +28,9 @@ class Yale_Video:
 		listLectures = []
 		
 		for lectures in playlist['items']:
-			if count == 1:
-				break
-			count = count+1	
+			# if count == 1:
+			# 	break
+			# count = count+1	
 			listLectures.append(
 				{
 					"content_address":'',
@@ -94,9 +94,9 @@ class Yale_Video:
 			if str1.find('playlist?list=') != -1:
 				
 				coursesDict.append(self.get_course_title(str1,soup))
-				count1=count1+1
-				if count1 == 10:
-					break
+				# count1=count1+1
+				# if count1 == 10:
+				# 	break
 
 		
 		with open('yale_course_videos.json', 'w+') as wr:
