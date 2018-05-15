@@ -7,63 +7,106 @@ import pafy
 import json
 import pprint
 
+
 class Yale_Video:
 	def __init__(self):
 		self.content_download_urls = []
 	
-	def get_course_title(self,soup):
+	def get_course_title(self,url1,soup):
 		#Scrape playlist to get video playlist
-		r = requests.get('https://www.youtube.com/playlist?list=PLh9mgdi4rNex7SOvB0Yhkkb-V_k2CkdcA')
-		page = r.text
-		soup=BS(page,'html.parser')
-		end_url=soup.find_all('a',{'class':'pl-video-title-link'})
-		title = []
-
-
-		video_url=[]
-		for course in end_url:
-			root_url ='https://www.youtube.com'
-			v = pafy.new(root_url + course.get("href"))
-			video_url.append(v.title)
-			title.append(v.title)
-			video_url.append(root_url + course.get("href"))
-		lecture_title = []
-		lecture_link = []
+		url = 'http://www.youtube.com'+url1
+		#print(url)
+		playlist={}
+		try:
+			playlist =pafy.get_playlist(url)
+		except:
+			print("error",playlist)
+		thumbnail = []
+	
+		count = 0
+		#thumbnail = playlist.thumbnail
+		listLectures = []
 		
-		for idx,link in enumerate(video_url):
-			if idx % 2 == 0:
-				#start from index 3 which will eliminate initial digit title
-				new_link = link[3:].strip()
-				lecture_title.append(new_link)
-			else:
-				lecture_link.append(link)	
+		for lectures in playlist['items']:
+			if count == 1:
+				break
+			count = count+1	
+			listLectures.append(
+				{
+					"content_address":'',
+					"lecture_title": lectures['playlist_meta']['title'],
+					"english_transcript":'',
+					"lecture_description":lectures['pafy'].description,
+					"lecture_hyperlink":'https://www.youtube.com/watch?v='+lectures['pafy'].videoid,
+					"ordinal_number":'',
+					"lecture_thumbnail": lectures['playlist_meta']['thumbnail'],
+					
+					"statistics": {
 
-		#create list of courses numbered		
-		lecture_index = list(range(0,len(lecture_title)))
-		keys = ['id','lecture_title', 'lecture_url']
+						"rating": lectures['playlist_meta']['rating'],
+						"views":lectures['playlist_meta']['views'],
+						"likes":lectures['playlist_meta']['likes'],
+						"dislikes":lectures['playlist_meta']['dislikes'],
+						"keywords":lectures['playlist_meta']['keywords'],
+						"runtime":lectures['playlist_meta']['length_seconds']
+					
+					}
+					
+				}
+
+			)
+ 
+ 
+
+
+		courseDict = { 	
+						"unique_identifier":'',
+						"content_address":'',
+						"document_root":'',
+						"instructor_name":'',
+						"publication_date":'',
+						"subject_matter":'',					
+						"course_hyperlink":url,
+						"course_title":playlist['title'],
+						"copyright_holder":playlist['author'],
+						"course_description":playlist['items'][0]['playlist_meta']['description'],
+						"course_thumbnail":playlist['items'][0]['pafy'].bigthumbhd,
+						"lectures": listLectures	
+					}
 		
-		course_dict = zip(lecture_index,lecture_title,lecture_link)
-		course_dict = list(course_dict)
 
-		Youtube_course = {}
-		Yale_lecture_list = []
+		#print("content:",courseDict['lectures'][0])
+		#print(playlist['items'][0]['pafy'].bigthumbhd)
+		#print("contentCourseDict:",courseDict)
 
-		for course_data in course_dict:
-			i = list(course_data)
-			mix_list = list(zip(keys,i))
-			Yale_lecture_list.append(dict(mix_list))
-			Youtube_course["youtube_content"] = Yale_lecture_list
+		return courseDict
+		
 
-		with open('yale_course_videos.json', 'w+') as wr: 
-			wr.write(json.dumps(Youtube_course, indent=4))
-
-		return video_url	
 	def run_all(self):
-		r = requests.get('https://www.youtube.com/playlist?list=PL27E877E8206F196B')
+		r = requests.get('https://www.youtube.com/user/YaleCourses/playlists')
 		page = r.text
+	
 		soup=BS(page,'html.parser')
+		coursesDict=[]
+		count1=0
+		for link in soup.find_all('a'):
+			str1 = link.get('href')
+			if str1.find('playlist?list=') != -1:
+				
+				coursesDict.append(self.get_course_title(str1,soup))
+				count1=count1+1
+				if count1 == 10:
+					break
 
-		self.get_course_title(soup)
+		
+		with open('yale_course_videos.json', 'w+') as wr:
+		 	wr.write(json.dumps(coursesDict, indent=4))		
+		
 
+		#print(soup.prettify())
+	#	with open('file.html','w+') as wr:
+	#		wr.write(soup.find_all('ytd-grid-playlist-renderer'))
+	#	self.get_course_title(soup)
+	#	print(soup.find_all(id='items'))
 if __name__ == '__main__':
 	Yale_Video().run_all()
